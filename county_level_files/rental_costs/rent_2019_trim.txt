@@ -1,0 +1,27 @@
+        ALKVE001:    Total
+        ALKVE002:    With cash rent
+        ALKVE003:    With cash rent: Less than $100
+        ALKVE004:    With cash rent: $100 to $149
+        ALKVE005:    With cash rent: $150 to $199
+        ALKVE006:    With cash rent: $200 to $249
+        ALKVE007:    With cash rent: $250 to $299
+        ALKVE008:    With cash rent: $300 to $349
+        ALKVE009:    With cash rent: $350 to $399
+        ALKVE010:    With cash rent: $400 to $449
+        ALKVE011:    With cash rent: $450 to $499
+        ALKVE012:    With cash rent: $500 to $549
+        ALKVE013:    With cash rent: $550 to $599
+        ALKVE014:    With cash rent: $600 to $649
+        ALKVE015:    With cash rent: $650 to $699
+        ALKVE016:    With cash rent: $700 to $749
+        ALKVE017:    With cash rent: $750 to $799
+        ALKVE018:    With cash rent: $800 to $899
+        ALKVE019:    With cash rent: $900 to $999
+        ALKVE020:    With cash rent: $1,000 to $1,249
+        ALKVE021:    With cash rent: $1,250 to $1,499
+        ALKVE022:    With cash rent: $1,500 to $1,999
+        ALKVE023:    With cash rent: $2,000 to $2,499
+        ALKVE024:    With cash rent: $2,500 to $2,999
+        ALKVE025:    With cash rent: $3,000 to $3,499
+        ALKVE026:    With cash rent: $3,500 or more
+        ALKVE027:    No cash rent

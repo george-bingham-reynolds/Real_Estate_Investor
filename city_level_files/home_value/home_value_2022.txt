@@ -1,0 +1,188 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0026_ds261_2022_place'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+Additional documentation on NHGIS data sources is available at: 
+    https://www.nhgis.org/documentation/tabular-data 
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             2022
+Geographic level: Place (by State)
+Dataset:          2022 American Community Survey: 1-Year Data
+   NHGIS code:    2022_ACS1
+   NHGIS ID:      ds261
+Breakdown(s):     Geographic Component:
+                     Total area (00)
+Data type(s):     (E) Estimates
+                  (M) Margins of error
+ 
+Tables:
+ 
+1. Value
+   Universe:    Owner-occupied housing units
+   Source code: B25075
+   NHGIS code:  AQDX
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        GISJOIN:     GIS Join Match Code
+        YEAR:        Data File Year
+        STUSAB:      State/US-Abbreviation (USPS)
+        REGIONA:     Region Code
+        DIVISIONA:   Division Code
+        STATE:       State Name
+        STATEA:      State Code
+        COUNTYA:     County Code
+        COUSUBA:     County Subdivision Code
+        PLACE:       Place Name
+        PLACEA:      Place Code
+        AIANHHA:     American Indian Area/Alaska Native Area/Hawaiian Home Land Code
+        ANRCA:       Alaska Native Regional Corporation Code
+        CBSAA:       Metropolitan Statistical Area/Micropolitan Statistical Area Code
+        CSAA:        Combined Statistical Area Code
+        METDIVA:     Metropolitan Division Code
+        NECTAA:      New England City and Town Area Code
+        CNECTAA:     Combined New England City and Town Area Code
+        NECTADIVA:   New England City and Town Area Division Code
+        UAA:         Urban Area Code
+        CDCURRA:     Congressional District (2023-2025, 118th Congress) Code
+        SDELMA:      School District (Elementary)/Remainder Code
+        SDSECA:      School District (Secondary)/Remainder Code
+        SDUNIA:      School District (Unified)/Remainder Code
+        PCI:         Metropolitan/Micropolitan Principal City Indicator
+        PUMAA:       Public Use Microdata Area Code
+        GEO_ID:      Census Geographic Area Identifier
+        TL_GEO_ID:   TIGER/Line Shapefile Geographic Area Identifier
+ 
+Data Type (E):
+    Estimates
+ 
+        NAME_E:      Geographic Area Full Name
+ 
+    Table 1:     Value
+    Universe:    Owner-occupied housing units
+    Source code: B25075
+    NHGIS code:  AQDX
+        AQDXE001:    Total
+        AQDXE002:    Less than $10,000
+        AQDXE003:    $10,000 to $14,999
+        AQDXE004:    $15,000 to $19,999
+        AQDXE005:    $20,000 to $24,999
+        AQDXE006:    $25,000 to $29,999
+        AQDXE007:    $30,000 to $34,999
+        AQDXE008:    $35,000 to $39,999
+        AQDXE009:    $40,000 to $49,999
+        AQDXE010:    $50,000 to $59,999
+        AQDXE011:    $60,000 to $69,999
+        AQDXE012:    $70,000 to $79,999
+        AQDXE013:    $80,000 to $89,999
+        AQDXE014:    $90,000 to $99,999
+        AQDXE015:    $100,000 to $124,999
+        AQDXE016:    $125,000 to $149,999
+        AQDXE017:    $150,000 to $174,999
+        AQDXE018:    $175,000 to $199,999
+        AQDXE019:    $200,000 to $249,999
+        AQDXE020:    $250,000 to $299,999
+        AQDXE021:    $300,000 to $399,999
+        AQDXE022:    $400,000 to $499,999
+        AQDXE023:    $500,000 to $749,999
+        AQDXE024:    $750,000 to $999,999
+        AQDXE025:    $1,000,000 to $1,499,999
+        AQDXE026:    $1,500,000 to $1,999,999
+        AQDXE027:    $2,000,000 or more
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Geographic Area Full Name
+ 
+    Table 1:     Value
+    Universe:    Owner-occupied housing units
+    Source code: B25075
+    NHGIS code:  AQDX
+        AQDXM001:    Total
+        AQDXM002:    Less than $10,000
+        AQDXM003:    $10,000 to $14,999
+        AQDXM004:    $15,000 to $19,999
+        AQDXM005:    $20,000 to $24,999
+        AQDXM006:    $25,000 to $29,999
+        AQDXM007:    $30,000 to $34,999
+        AQDXM008:    $35,000 to $39,999
+        AQDXM009:    $40,000 to $49,999
+        AQDXM010:    $50,000 to $59,999
+        AQDXM011:    $60,000 to $69,999
+        AQDXM012:    $70,000 to $79,999
+        AQDXM013:    $80,000 to $89,999
+        AQDXM014:    $90,000 to $99,999
+        AQDXM015:    $100,000 to $124,999
+        AQDXM016:    $125,000 to $149,999
+        AQDXM017:    $150,000 to $174,999
+        AQDXM018:    $175,000 to $199,999
+        AQDXM019:    $200,000 to $249,999
+        AQDXM020:    $250,000 to $299,999
+        AQDXM021:    $300,000 to $399,999
+        AQDXM022:    $400,000 to $499,999
+        AQDXM023:    $500,000 to $749,999
+        AQDXM024:    $750,000 to $999,999
+        AQDXM025:    $1,000,000 to $1,499,999
+        AQDXM026:    $1,500,000 to $1,999,999
+        AQDXM027:    $2,000,000 or more
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* REDISTRIBUTION: You will not redistribute the data without permission.
+
+  You may publish a subset of the data to meet journal requirements for accessing 
+  data related to a particular publication. Contact us for permission for any other 
+  redistribution; we will consider requests for free and commercial redistribution.
+
+* CITATION: You will cite NHGIS appropriately.
+
+    * Publications and research reports employing NHGIS data (either tabular or GIS) 
+      should include the following citation:
+
+        Steven Manson, Jonathan Schroeder, David Van Riper, Katherine Knowles, Tracy Kugler, Finn Roberts, and Steven Ruggles.
+        IPUMS National Historical Geographic Information System: Version 18.0 
+        [dataset]. Minneapolis, MN: IPUMS. 2023.
+        http://doi.org/10.18128/D050.V18.0
+
+    * For policy briefs, online resources, or articles in the popular press, we 
+      recommend that you cite the use of NHGIS data as follows:
+
+        IPUMS NHGIS, University of Minnesota, www.nhgis.org.
+
+These terms of use are a legally binding agreement. You can use the data only in 
+accordance with these terms, and any other use is a violation of the agreement. 
+Violations may result in revocation of the agreement and prohibition from using other 
+IPUMS data. If IPUMS or our partners are harmed from your violation, you are 
+responsible for all damages, including reasonable attorney's fees and expenses.
+        
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+
+Send electronic material to: nhgis@umn.edu
+
+Printed matter should be sent to:
+
+    IPUMS NHGIS
+    Institute for Social Research and Data Innovation
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455

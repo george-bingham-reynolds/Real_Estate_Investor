@@ -1,0 +1,194 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0032_ds191_20125_place'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+Additional documentation on NHGIS data sources is available at: 
+    https://www.nhgis.org/documentation/tabular-data 
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             2008-2012
+Geographic level: Place (by State)
+Dataset:          2012 American Community Survey: 5-Year Data [2008-2012, Block Groups & Larger Areas]
+   NHGIS code:    2008_2012_ACS5a
+   NHGIS ID:      ds191
+Breakdown(s):     Geographic Component:
+                     Total area (00)
+Data type(s):     (E) Estimates
+                  (M) Margins of error
+ 
+Tables:
+ 
+1. Contract Rent
+   Universe:    Renter-occupied housing units
+   Source code: B25056
+   NHGIS code:  QZL
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        GISJOIN:     GIS Join Match Code
+        YEAR:        Data File Year
+        STUSAB:      State Postal Abbreviation
+        REGIONA:     Region Code
+        DIVISIONA:   Division Code
+        STATE:       State Name
+        STATEA:      State Code
+        COUNTYA:     County Code
+        COUSUBA:     County Subdivision Code
+        PLACE:       Place Name
+        PLACEA:      Place Code
+        TRACTA:      Census Tract Code
+        BLKGRPA:     Block Group Code
+        CONCITA:     Consolidated City Code
+        AIANHHA:     American Indian Area/Alaska Native Area/Hawaiian Home Land Code
+        RES_ONLYA:   American Indian Area/Alaska Native Area (Reservation or Statistical Entity Only) Code
+        TRUSTA:      American Indian Area (Off-Reservation Trust Land Only)/Hawaiian Home Land Code
+        AIHHTLI:     American Indian Trust Land/ Hawaiian Home Land Indicator
+        AITSCEA:     Tribal Subdivision/Remainder Code
+        ANRCA:       Alaska Native Regional Corporation Code
+        CBSAA:       Metropolitan Statistical Area/Micropolitan Statistical Area Code
+        CSAA:        Combined Statistical Area Code
+        METDIVA:     Metropolitan Division Code
+        NECTAA:      New England City and Town Area Code
+        CNECTAA:     Combined New England City and Town Area Code
+        NECTADIVA:   New England City and Town Area Division Code
+        UAA:         Urban Area Code
+        CDCURRA:     Congressional District (2013-2015, 113th Congress) Code
+        SLDUA:       State Legislative District (Upper Chamber) Code
+        SLDLA:       State Legislative District (Lower Chamber) Code
+        ZCTA5A:      5-Digit ZIP Code Tabulation Area Code
+        SUBMCDA:     Subminor Civil Division Code
+        SDELMA:      School District (Elementary)/Remainder Code
+        SDSECA:      School District (Secondary)/Remainder Code
+        SDUNIA:      School District (Unified)/Remainder Code
+        PCI:         Principal City Indicator
+        PUMAA:       Public Use Microdata Area Code
+        GEOID:       Geographic Identifier
+        BTTRA:       Tribal Census Tract Code
+        BTBGA:       Tribal Block Group Code
+ 
+Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Contract Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25056
+    NHGIS code:  QZL
+        QZLE001:     Total
+        QZLE002:     With cash rent
+        QZLE003:     With cash rent: Less than $100
+        QZLE004:     With cash rent: $100 to $149
+        QZLE005:     With cash rent: $150 to $199
+        QZLE006:     With cash rent: $200 to $249
+        QZLE007:     With cash rent: $250 to $299
+        QZLE008:     With cash rent: $300 to $349
+        QZLE009:     With cash rent: $350 to $399
+        QZLE010:     With cash rent: $400 to $449
+        QZLE011:     With cash rent: $450 to $499
+        QZLE012:     With cash rent: $500 to $549
+        QZLE013:     With cash rent: $550 to $599
+        QZLE014:     With cash rent: $600 to $649
+        QZLE015:     With cash rent: $650 to $699
+        QZLE016:     With cash rent: $700 to $749
+        QZLE017:     With cash rent: $750 to $799
+        QZLE018:     With cash rent: $800 to $899
+        QZLE019:     With cash rent: $900 to $999
+        QZLE020:     With cash rent: $1,000 to $1,249
+        QZLE021:     With cash rent: $1,250 to $1,499
+        QZLE022:     With cash rent: $1,500 to $1,999
+        QZLE023:     With cash rent: $2,000 or more
+        QZLE024:     No cash rent
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Contract Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25056
+    NHGIS code:  QZL
+        QZLM001:     Total
+        QZLM002:     With cash rent
+        QZLM003:     With cash rent: Less than $100
+        QZLM004:     With cash rent: $100 to $149
+        QZLM005:     With cash rent: $150 to $199
+        QZLM006:     With cash rent: $200 to $249
+        QZLM007:     With cash rent: $250 to $299
+        QZLM008:     With cash rent: $300 to $349
+        QZLM009:     With cash rent: $350 to $399
+        QZLM010:     With cash rent: $400 to $449
+        QZLM011:     With cash rent: $450 to $499
+        QZLM012:     With cash rent: $500 to $549
+        QZLM013:     With cash rent: $550 to $599
+        QZLM014:     With cash rent: $600 to $649
+        QZLM015:     With cash rent: $650 to $699
+        QZLM016:     With cash rent: $700 to $749
+        QZLM017:     With cash rent: $750 to $799
+        QZLM018:     With cash rent: $800 to $899
+        QZLM019:     With cash rent: $900 to $999
+        QZLM020:     With cash rent: $1,000 to $1,249
+        QZLM021:     With cash rent: $1,250 to $1,499
+        QZLM022:     With cash rent: $1,500 to $1,999
+        QZLM023:     With cash rent: $2,000 or more
+        QZLM024:     No cash rent
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* REDISTRIBUTION: You will not redistribute the data without permission.
+
+  You may publish a subset of the data to meet journal requirements for accessing 
+  data related to a particular publication. Contact us for permission for any other 
+  redistribution; we will consider requests for free and commercial redistribution.
+
+* CITATION: You will cite NHGIS appropriately.
+
+    * Publications and research reports employing NHGIS data (either tabular or GIS) 
+      should include the following citation:
+
+        Steven Manson, Jonathan Schroeder, David Van Riper, Katherine Knowles, Tracy Kugler, Finn Roberts, and Steven Ruggles.
+        IPUMS National Historical Geographic Information System: Version 18.0 
+        [dataset]. Minneapolis, MN: IPUMS. 2023.
+        http://doi.org/10.18128/D050.V18.0
+
+    * For policy briefs, online resources, or articles in the popular press, we 
+      recommend that you cite the use of NHGIS data as follows:
+
+        IPUMS NHGIS, University of Minnesota, www.nhgis.org.
+
+These terms of use are a legally binding agreement. You can use the data only in 
+accordance with these terms, and any other use is a violation of the agreement. 
+Violations may result in revocation of the agreement and prohibition from using other 
+IPUMS data. If IPUMS or our partners are harmed from your violation, you are 
+responsible for all damages, including reasonable attorney's fees and expenses.
+        
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+
+Send electronic material to: nhgis@umn.edu
+
+Printed matter should be sent to:
+
+    IPUMS NHGIS
+    Institute for Social Research and Data Innovation
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455

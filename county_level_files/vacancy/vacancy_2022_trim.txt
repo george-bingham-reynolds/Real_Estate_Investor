@@ -1,0 +1,3 @@
+        AQALE001:    Total
+        AQALE002:    Occupied
+        AQALE003:    Vacant

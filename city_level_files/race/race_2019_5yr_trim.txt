@@ -1,0 +1,10 @@
+        ALUCE001:    Total
+        ALUCE002:    White alone
+        ALUCE003:    Black or African American alone
+        ALUCE004:    American Indian and Alaska Native alone
+        ALUCE005:    Asian alone
+        ALUCE006:    Native Hawaiian and Other Pacific Islander alone
+        ALUCE007:    Some other race alone
+        ALUCE008:    Two or more races
+        ALUCE009:    Two or more races: Two races including Some other race
+        ALUCE010:    Two or more races: Two races excluding Some other race, and three or more races

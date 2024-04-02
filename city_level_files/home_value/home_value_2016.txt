@@ -1,0 +1,187 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0026_ds223_2016_place'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+Additional documentation on NHGIS data sources is available at: 
+    https://www.nhgis.org/documentation/tabular-data 
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             2016
+Geographic level: Place (by State)
+Dataset:          2016 American Community Survey: 1-Year Data
+   NHGIS code:    2016_ACS1
+   NHGIS ID:      ds223
+Breakdown(s):     Geographic Component:
+                     Total area (00)
+Data type(s):     (E) Estimates
+                  (M) Margins of error
+ 
+Tables:
+ 
+1. Value
+   Universe:    Owner-occupied housing units
+   Source code: B25075
+   NHGIS code:  AFUZ
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        GISJOIN:     GIS Join Match Code
+        YEAR:        Data File Year
+        STUSAB:      State Postal Abbreviation
+        REGIONA:     Region Code
+        DIVISIONA:   Division Code
+        STATE:       State Name
+        STATEA:      State Code
+        COUNTYA:     County Code
+        COUSUBA:     County Subdivision Code
+        PLACE:       Place Name
+        PLACEA:      Place Code
+        AIANHHA:     American Indian Area/Alaska Native Area/Hawaiian Home Land Code
+        ANRCA:       Alaska Native Regional Corporation Code
+        CBSAA:       Metropolitan Statistical Area/Micropolitan Statistical Area Code
+        CSAA:        Combined Statistical Area Code
+        METDIVA:     Metropolitan Division Code
+        NECTAA:      New England City and Town Area Code
+        CNECTAA:     Combined New England City and Town Area Code
+        NECTADIVA:   New England City and Town Area Division Code
+        UAA:         Urban Area Code
+        CDCURRA:     Congressional District (2017-2019, 115th Congress) Code
+        SDELMA:      School District (Elementary)/Remainder Code
+        SDSECA:      School District (Secondary)/Remainder Code
+        SDUNIA:      School District (Unified)/Remainder Code
+        PCI:         Principal City Indicator
+        PUMAA:       Public Use Microdata Area Code
+        GEOID:       Geographic Identifier
+ 
+Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Value
+    Universe:    Owner-occupied housing units
+    Source code: B25075
+    NHGIS code:  AFUZ
+        AFUZE001:    Total
+        AFUZE002:    Less than $10,000
+        AFUZE003:    $10,000 to $14,999
+        AFUZE004:    $15,000 to $19,999
+        AFUZE005:    $20,000 to $24,999
+        AFUZE006:    $25,000 to $29,999
+        AFUZE007:    $30,000 to $34,999
+        AFUZE008:    $35,000 to $39,999
+        AFUZE009:    $40,000 to $49,999
+        AFUZE010:    $50,000 to $59,999
+        AFUZE011:    $60,000 to $69,999
+        AFUZE012:    $70,000 to $79,999
+        AFUZE013:    $80,000 to $89,999
+        AFUZE014:    $90,000 to $99,999
+        AFUZE015:    $100,000 to $124,999
+        AFUZE016:    $125,000 to $149,999
+        AFUZE017:    $150,000 to $174,999
+        AFUZE018:    $175,000 to $199,999
+        AFUZE019:    $200,000 to $249,999
+        AFUZE020:    $250,000 to $299,999
+        AFUZE021:    $300,000 to $399,999
+        AFUZE022:    $400,000 to $499,999
+        AFUZE023:    $500,000 to $749,999
+        AFUZE024:    $750,000 to $999,999
+        AFUZE025:    $1,000,000 to $1,499,999
+        AFUZE026:    $1,500,000 to $1,999,999
+        AFUZE027:    $2,000,000 or more
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Value
+    Universe:    Owner-occupied housing units
+    Source code: B25075
+    NHGIS code:  AFUZ
+        AFUZM001:    Total
+        AFUZM002:    Less than $10,000
+        AFUZM003:    $10,000 to $14,999
+        AFUZM004:    $15,000 to $19,999
+        AFUZM005:    $20,000 to $24,999
+        AFUZM006:    $25,000 to $29,999
+        AFUZM007:    $30,000 to $34,999
+        AFUZM008:    $35,000 to $39,999
+        AFUZM009:    $40,000 to $49,999
+        AFUZM010:    $50,000 to $59,999
+        AFUZM011:    $60,000 to $69,999
+        AFUZM012:    $70,000 to $79,999
+        AFUZM013:    $80,000 to $89,999
+        AFUZM014:    $90,000 to $99,999
+        AFUZM015:    $100,000 to $124,999
+        AFUZM016:    $125,000 to $149,999
+        AFUZM017:    $150,000 to $174,999
+        AFUZM018:    $175,000 to $199,999
+        AFUZM019:    $200,000 to $249,999
+        AFUZM020:    $250,000 to $299,999
+        AFUZM021:    $300,000 to $399,999
+        AFUZM022:    $400,000 to $499,999
+        AFUZM023:    $500,000 to $749,999
+        AFUZM024:    $750,000 to $999,999
+        AFUZM025:    $1,000,000 to $1,499,999
+        AFUZM026:    $1,500,000 to $1,999,999
+        AFUZM027:    $2,000,000 or more
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* REDISTRIBUTION: You will not redistribute the data without permission.
+
+  You may publish a subset of the data to meet journal requirements for accessing 
+  data related to a particular publication. Contact us for permission for any other 
+  redistribution; we will consider requests for free and commercial redistribution.
+
+* CITATION: You will cite NHGIS appropriately.
+
+    * Publications and research reports employing NHGIS data (either tabular or GIS) 
+      should include the following citation:
+
+        Steven Manson, Jonathan Schroeder, David Van Riper, Katherine Knowles, Tracy Kugler, Finn Roberts, and Steven Ruggles.
+        IPUMS National Historical Geographic Information System: Version 18.0 
+        [dataset]. Minneapolis, MN: IPUMS. 2023.
+        http://doi.org/10.18128/D050.V18.0
+
+    * For policy briefs, online resources, or articles in the popular press, we 
+      recommend that you cite the use of NHGIS data as follows:
+
+        IPUMS NHGIS, University of Minnesota, www.nhgis.org.
+
+These terms of use are a legally binding agreement. You can use the data only in 
+accordance with these terms, and any other use is a violation of the agreement. 
+Violations may result in revocation of the agreement and prohibition from using other 
+IPUMS data. If IPUMS or our partners are harmed from your violation, you are 
+responsible for all damages, including reasonable attorney's fees and expenses.
+        
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+
+Send electronic material to: nhgis@umn.edu
+
+Printed matter should be sent to:
+
+    IPUMS NHGIS
+    Institute for Social Research and Data Innovation
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455

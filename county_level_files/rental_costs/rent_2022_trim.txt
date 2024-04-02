@@ -1,0 +1,27 @@
+        AQDCE001:    Total
+        AQDCE002:    With cash rent
+        AQDCE003:    With cash rent: Less than $100
+        AQDCE004:    With cash rent: $100 to $149
+        AQDCE005:    With cash rent: $150 to $199
+        AQDCE006:    With cash rent: $200 to $249
+        AQDCE007:    With cash rent: $250 to $299
+        AQDCE008:    With cash rent: $300 to $349
+        AQDCE009:    With cash rent: $350 to $399
+        AQDCE010:    With cash rent: $400 to $449
+        AQDCE011:    With cash rent: $450 to $499
+        AQDCE012:    With cash rent: $500 to $549
+        AQDCE013:    With cash rent: $550 to $599
+        AQDCE014:    With cash rent: $600 to $649
+        AQDCE015:    With cash rent: $650 to $699
+        AQDCE016:    With cash rent: $700 to $749
+        AQDCE017:    With cash rent: $750 to $799
+        AQDCE018:    With cash rent: $800 to $899
+        AQDCE019:    With cash rent: $900 to $999
+        AQDCE020:    With cash rent: $1,000 to $1,249
+        AQDCE021:    With cash rent: $1,250 to $1,499
+        AQDCE022:    With cash rent: $1,500 to $1,999
+        AQDCE023:    With cash rent: $2,000 to $2,499
+        AQDCE024:    With cash rent: $2,500 to $2,999
+        AQDCE025:    With cash rent: $3,000 to $3,499
+        AQDCE026:    With cash rent: $3,500 or more
+        AQDCE027:    No cash rent

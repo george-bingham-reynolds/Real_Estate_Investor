@@ -1,0 +1,241 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0027_ds195_20095_place'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+Additional documentation on NHGIS data sources is available at: 
+    https://www.nhgis.org/documentation/tabular-data 
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             2005-2009
+Geographic level: Place (by State)
+Dataset:          2009 American Community Survey: 5-Year Data [2005-2009, Block Groups & Larger Areas]
+   NHGIS code:    2005_2009_ACS5a
+   NHGIS ID:      ds195
+Breakdown(s):     Geographic Component:
+                     Total area (00)
+Data type(s):     (E) Estimates
+                  (M) Margins of error
+ 
+Tables:
+ 
+1. Sex by Age
+   Universe:    Total population
+   Source code: B01001
+   NHGIS code:  RKY
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        GISJOIN:     GIS Join Match Code
+        YEAR:        Data File Year
+        STUSAB:      State Postal Abbreviation
+        REGIONA:     Region Code
+        DIVISIONA:   Division Code
+        STATE:       State Name
+        STATEA:      State Code
+        COUNTYA:     County Code
+        COUSUBA:     County Subdivision Code
+        PLACE:       Place Name
+        PLACEA:      Place Code
+        TRACTA:      Census Tract Code
+        BLKGRPA:     Block Group Code
+        CONCITA:     Consolidated City Code
+        AIANHHA:     American Indian Area/Alaska Native Area/Hawaiian Home Land Code
+        RES_ONLYA:   American Indian Area/Alaska Native Area (Reservation or Statistical Entity Only) Code
+        TRUSTA:      American Indian Area (Off-Reservation Trust Land Only)/Hawaiian Home Land Code
+        AIHHTLI:     American Indian Trust Land/ Hawaiian Home Land Indicator
+        AITSCEA:     Tribal Subdivision/Remainder Code
+        ANRCA:       Alaska Native Regional Corporation Code
+        CBSAA:       Metropolitan Statistical Area/Micropolitan Statistical Area Code
+        CSAA:        Combined Statistical Area Code
+        METDIVA:     Metropolitan Division Code
+        NECTAA:      New England City and Town Area Code
+        CNECTAA:     Combined New England City and Town Area Code
+        NECTADIVA:   New England City and Town Area Division Code
+        UAA:         Urban Area Code
+        CDCURRA:     Congressional District (2007-2013, 110th-112th Congress) Code
+        SLDUA:       State Legislative District (Upper Chamber) Code
+        SLDLA:       State Legislative District (Lower Chamber) Code
+        SUBMCDA:     Subminor Civil Division Code
+        SDELMA:      School District (Elementary)/Remainder Code
+        SDSECA:      School District (Secondary)/Remainder Code
+        SDUNIA:      School District (Unified)/Remainder Code
+        PCI:         Principal City Indicator
+        PUMAA:       Public Use Microdata Area Code
+        GEOID:       Geographic Identifier
+ 
+Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Sex by Age
+    Universe:    Total population
+    Source code: B01001
+    NHGIS code:  RKY
+        RKYE001:     Total
+        RKYE002:     Male
+        RKYE003:     Male: Under 5 years
+        RKYE004:     Male: 5 to 9 years
+        RKYE005:     Male: 10 to 14 years
+        RKYE006:     Male: 15 to 17 years
+        RKYE007:     Male: 18 and 19 years
+        RKYE008:     Male: 20 years
+        RKYE009:     Male: 21 years
+        RKYE010:     Male: 22 to 24 years
+        RKYE011:     Male: 25 to 29 years
+        RKYE012:     Male: 30 to 34 years
+        RKYE013:     Male: 35 to 39 years
+        RKYE014:     Male: 40 to 44 years
+        RKYE015:     Male: 45 to 49 years
+        RKYE016:     Male: 50 to 54 years
+        RKYE017:     Male: 55 to 59 years
+        RKYE018:     Male: 60 and 61 years
+        RKYE019:     Male: 62 to 64 years
+        RKYE020:     Male: 65 and 66 years
+        RKYE021:     Male: 67 to 69 years
+        RKYE022:     Male: 70 to 74 years
+        RKYE023:     Male: 75 to 79 years
+        RKYE024:     Male: 80 to 84 years
+        RKYE025:     Male: 85 years and over
+        RKYE026:     Female
+        RKYE027:     Female: Under 5 years
+        RKYE028:     Female: 5 to 9 years
+        RKYE029:     Female: 10 to 14 years
+        RKYE030:     Female: 15 to 17 years
+        RKYE031:     Female: 18 and 19 years
+        RKYE032:     Female: 20 years
+        RKYE033:     Female: 21 years
+        RKYE034:     Female: 22 to 24 years
+        RKYE035:     Female: 25 to 29 years
+        RKYE036:     Female: 30 to 34 years
+        RKYE037:     Female: 35 to 39 years
+        RKYE038:     Female: 40 to 44 years
+        RKYE039:     Female: 45 to 49 years
+        RKYE040:     Female: 50 to 54 years
+        RKYE041:     Female: 55 to 59 years
+        RKYE042:     Female: 60 and 61 years
+        RKYE043:     Female: 62 to 64 years
+        RKYE044:     Female: 65 and 66 years
+        RKYE045:     Female: 67 to 69 years
+        RKYE046:     Female: 70 to 74 years
+        RKYE047:     Female: 75 to 79 years
+        RKYE048:     Female: 80 to 84 years
+        RKYE049:     Female: 85 years and over
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Sex by Age
+    Universe:    Total population
+    Source code: B01001
+    NHGIS code:  RKY
+        RKYM001:     Total
+        RKYM002:     Male
+        RKYM003:     Male: Under 5 years
+        RKYM004:     Male: 5 to 9 years
+        RKYM005:     Male: 10 to 14 years
+        RKYM006:     Male: 15 to 17 years
+        RKYM007:     Male: 18 and 19 years
+        RKYM008:     Male: 20 years
+        RKYM009:     Male: 21 years
+        RKYM010:     Male: 22 to 24 years
+        RKYM011:     Male: 25 to 29 years
+        RKYM012:     Male: 30 to 34 years
+        RKYM013:     Male: 35 to 39 years
+        RKYM014:     Male: 40 to 44 years
+        RKYM015:     Male: 45 to 49 years
+        RKYM016:     Male: 50 to 54 years
+        RKYM017:     Male: 55 to 59 years
+        RKYM018:     Male: 60 and 61 years
+        RKYM019:     Male: 62 to 64 years
+        RKYM020:     Male: 65 and 66 years
+        RKYM021:     Male: 67 to 69 years
+        RKYM022:     Male: 70 to 74 years
+        RKYM023:     Male: 75 to 79 years
+        RKYM024:     Male: 80 to 84 years
+        RKYM025:     Male: 85 years and over
+        RKYM026:     Female
+        RKYM027:     Female: Under 5 years
+        RKYM028:     Female: 5 to 9 years
+        RKYM029:     Female: 10 to 14 years
+        RKYM030:     Female: 15 to 17 years
+        RKYM031:     Female: 18 and 19 years
+        RKYM032:     Female: 20 years
+        RKYM033:     Female: 21 years
+        RKYM034:     Female: 22 to 24 years
+        RKYM035:     Female: 25 to 29 years
+        RKYM036:     Female: 30 to 34 years
+        RKYM037:     Female: 35 to 39 years
+        RKYM038:     Female: 40 to 44 years
+        RKYM039:     Female: 45 to 49 years
+        RKYM040:     Female: 50 to 54 years
+        RKYM041:     Female: 55 to 59 years
+        RKYM042:     Female: 60 and 61 years
+        RKYM043:     Female: 62 to 64 years
+        RKYM044:     Female: 65 and 66 years
+        RKYM045:     Female: 67 to 69 years
+        RKYM046:     Female: 70 to 74 years
+        RKYM047:     Female: 75 to 79 years
+        RKYM048:     Female: 80 to 84 years
+        RKYM049:     Female: 85 years and over
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* REDISTRIBUTION: You will not redistribute the data without permission.
+
+  You may publish a subset of the data to meet journal requirements for accessing 
+  data related to a particular publication. Contact us for permission for any other 
+  redistribution; we will consider requests for free and commercial redistribution.
+
+* CITATION: You will cite NHGIS appropriately.
+
+    * Publications and research reports employing NHGIS data (either tabular or GIS) 
+      should include the following citation:
+
+        Steven Manson, Jonathan Schroeder, David Van Riper, Katherine Knowles, Tracy Kugler, Finn Roberts, and Steven Ruggles.
+        IPUMS National Historical Geographic Information System: Version 18.0 
+        [dataset]. Minneapolis, MN: IPUMS. 2023.
+        http://doi.org/10.18128/D050.V18.0
+
+    * For policy briefs, online resources, or articles in the popular press, we 
+      recommend that you cite the use of NHGIS data as follows:
+
+        IPUMS NHGIS, University of Minnesota, www.nhgis.org.
+
+These terms of use are a legally binding agreement. You can use the data only in 
+accordance with these terms, and any other use is a violation of the agreement. 
+Violations may result in revocation of the agreement and prohibition from using other 
+IPUMS data. If IPUMS or our partners are harmed from your violation, you are 
+responsible for all damages, including reasonable attorney's fees and expenses.
+        
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+
+Send electronic material to: nhgis@umn.edu
+
+Printed matter should be sent to:
+
+    IPUMS NHGIS
+    Institute for Social Research and Data Innovation
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455

@@ -1,0 +1,49 @@
+        QSEE001:     Total
+        QSEE002:     Male
+        QSEE003:     Male: Under 5 years
+        QSEE004:     Male: 5 to 9 years
+        QSEE005:     Male: 10 to 14 years
+        QSEE006:     Male: 15 to 17 years
+        QSEE007:     Male: 18 and 19 years
+        QSEE008:     Male: 20 years
+        QSEE009:     Male: 21 years
+        QSEE010:     Male: 22 to 24 years
+        QSEE011:     Male: 25 to 29 years
+        QSEE012:     Male: 30 to 34 years
+        QSEE013:     Male: 35 to 39 years
+        QSEE014:     Male: 40 to 44 years
+        QSEE015:     Male: 45 to 49 years
+        QSEE016:     Male: 50 to 54 years
+        QSEE017:     Male: 55 to 59 years
+        QSEE018:     Male: 60 and 61 years
+        QSEE019:     Male: 62 to 64 years
+        QSEE020:     Male: 65 and 66 years
+        QSEE021:     Male: 67 to 69 years
+        QSEE022:     Male: 70 to 74 years
+        QSEE023:     Male: 75 to 79 years
+        QSEE024:     Male: 80 to 84 years
+        QSEE025:     Male: 85 years and over
+        QSEE026:     Female
+        QSEE027:     Female: Under 5 years
+        QSEE028:     Female: 5 to 9 years
+        QSEE029:     Female: 10 to 14 years
+        QSEE030:     Female: 15 to 17 years
+        QSEE031:     Female: 18 and 19 years
+        QSEE032:     Female: 20 years
+        QSEE033:     Female: 21 years
+        QSEE034:     Female: 22 to 24 years
+        QSEE035:     Female: 25 to 29 years
+        QSEE036:     Female: 30 to 34 years
+        QSEE037:     Female: 35 to 39 years
+        QSEE038:     Female: 40 to 44 years
+        QSEE039:     Female: 45 to 49 years
+        QSEE040:     Female: 50 to 54 years
+        QSEE041:     Female: 55 to 59 years
+        QSEE042:     Female: 60 and 61 years
+        QSEE043:     Female: 62 to 64 years
+        QSEE044:     Female: 65 and 66 years
+        QSEE045:     Female: 67 to 69 years
+        QSEE046:     Female: 70 to 74 years
+        QSEE047:     Female: 75 to 79 years
+        QSEE048:     Female: 80 to 84 years
+        QSEE049:     Female: 85 years and over

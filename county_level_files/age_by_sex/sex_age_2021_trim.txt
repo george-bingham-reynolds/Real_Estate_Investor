@@ -1,0 +1,49 @@
+        ANK8E001:    Total
+        ANK8E002:    Male
+        ANK8E003:    Male: Under 5 years
+        ANK8E004:    Male: 5 to 9 years
+        ANK8E005:    Male: 10 to 14 years
+        ANK8E006:    Male: 15 to 17 years
+        ANK8E007:    Male: 18 and 19 years
+        ANK8E008:    Male: 20 years
+        ANK8E009:    Male: 21 years
+        ANK8E010:    Male: 22 to 24 years
+        ANK8E011:    Male: 25 to 29 years
+        ANK8E012:    Male: 30 to 34 years
+        ANK8E013:    Male: 35 to 39 years
+        ANK8E014:    Male: 40 to 44 years
+        ANK8E015:    Male: 45 to 49 years
+        ANK8E016:    Male: 50 to 54 years
+        ANK8E017:    Male: 55 to 59 years
+        ANK8E018:    Male: 60 and 61 years
+        ANK8E019:    Male: 62 to 64 years
+        ANK8E020:    Male: 65 and 66 years
+        ANK8E021:    Male: 67 to 69 years
+        ANK8E022:    Male: 70 to 74 years
+        ANK8E023:    Male: 75 to 79 years
+        ANK8E024:    Male: 80 to 84 years
+        ANK8E025:    Male: 85 years and over
+        ANK8E026:    Female
+        ANK8E027:    Female: Under 5 years
+        ANK8E028:    Female: 5 to 9 years
+        ANK8E029:    Female: 10 to 14 years
+        ANK8E030:    Female: 15 to 17 years
+        ANK8E031:    Female: 18 and 19 years
+        ANK8E032:    Female: 20 years
+        ANK8E033:    Female: 21 years
+        ANK8E034:    Female: 22 to 24 years
+        ANK8E035:    Female: 25 to 29 years
+        ANK8E036:    Female: 30 to 34 years
+        ANK8E037:    Female: 35 to 39 years
+        ANK8E038:    Female: 40 to 44 years
+        ANK8E039:    Female: 45 to 49 years
+        ANK8E040:    Female: 50 to 54 years
+        ANK8E041:    Female: 55 to 59 years
+        ANK8E042:    Female: 60 and 61 years
+        ANK8E043:    Female: 62 to 64 years
+        ANK8E044:    Female: 65 and 66 years
+        ANK8E045:    Female: 67 to 69 years
+        ANK8E046:    Female: 70 to 74 years
+        ANK8E047:    Female: 75 to 79 years
+        ANK8E048:    Female: 80 to 84 years
+        ANK8E049:    Female: 85 years and over

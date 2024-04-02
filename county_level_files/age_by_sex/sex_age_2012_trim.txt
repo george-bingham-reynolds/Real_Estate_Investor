@@ -1,0 +1,49 @@
+        OILE001:     Total
+        OILE002:     Male
+        OILE003:     Male: Under 5 years
+        OILE004:     Male: 5 to 9 years
+        OILE005:     Male: 10 to 14 years
+        OILE006:     Male: 15 to 17 years
+        OILE007:     Male: 18 and 19 years
+        OILE008:     Male: 20 years
+        OILE009:     Male: 21 years
+        OILE010:     Male: 22 to 24 years
+        OILE011:     Male: 25 to 29 years
+        OILE012:     Male: 30 to 34 years
+        OILE013:     Male: 35 to 39 years
+        OILE014:     Male: 40 to 44 years
+        OILE015:     Male: 45 to 49 years
+        OILE016:     Male: 50 to 54 years
+        OILE017:     Male: 55 to 59 years
+        OILE018:     Male: 60 and 61 years
+        OILE019:     Male: 62 to 64 years
+        OILE020:     Male: 65 and 66 years
+        OILE021:     Male: 67 to 69 years
+        OILE022:     Male: 70 to 74 years
+        OILE023:     Male: 75 to 79 years
+        OILE024:     Male: 80 to 84 years
+        OILE025:     Male: 85 years and over
+        OILE026:     Female
+        OILE027:     Female: Under 5 years
+        OILE028:     Female: 5 to 9 years
+        OILE029:     Female: 10 to 14 years
+        OILE030:     Female: 15 to 17 years
+        OILE031:     Female: 18 and 19 years
+        OILE032:     Female: 20 years
+        OILE033:     Female: 21 years
+        OILE034:     Female: 22 to 24 years
+        OILE035:     Female: 25 to 29 years
+        OILE036:     Female: 30 to 34 years
+        OILE037:     Female: 35 to 39 years
+        OILE038:     Female: 40 to 44 years
+        OILE039:     Female: 45 to 49 years
+        OILE040:     Female: 50 to 54 years
+        OILE041:     Female: 55 to 59 years
+        OILE042:     Female: 60 and 61 years
+        OILE043:     Female: 62 to 64 years
+        OILE044:     Female: 65 and 66 years
+        OILE045:     Female: 67 to 69 years
+        OILE046:     Female: 70 to 74 years
+        OILE047:     Female: 75 to 79 years
+        OILE048:     Female: 80 to 84 years
+        OILE049:     Female: 85 years and over

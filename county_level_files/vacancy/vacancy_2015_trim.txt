@@ -1,0 +1,3 @@
+        ADAVE001:    Total
+        ADAVE002:    Occupied
+        ADAVE003:    Vacant

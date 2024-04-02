@@ -1,0 +1,10 @@
+        AJWNE001:    Total
+        AJWNE002:    White alone
+        AJWNE003:    Black or African American alone
+        AJWNE004:    American Indian and Alaska Native alone
+        AJWNE005:    Asian alone
+        AJWNE006:    Native Hawaiian and Other Pacific Islander alone
+        AJWNE007:    Some other race alone
+        AJWNE008:    Two or more races
+        AJWNE009:    Two or more races: Two races including Some other race
+        AJWNE010:    Two or more races: Two races excluding Some other race, and three or more races

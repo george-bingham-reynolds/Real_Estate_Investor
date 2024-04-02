@@ -1,0 +1,49 @@
+        ABAQE001:    Total
+        ABAQE002:    Male
+        ABAQE003:    Male: Under 5 years
+        ABAQE004:    Male: 5 to 9 years
+        ABAQE005:    Male: 10 to 14 years
+        ABAQE006:    Male: 15 to 17 years
+        ABAQE007:    Male: 18 and 19 years
+        ABAQE008:    Male: 20 years
+        ABAQE009:    Male: 21 years
+        ABAQE010:    Male: 22 to 24 years
+        ABAQE011:    Male: 25 to 29 years
+        ABAQE012:    Male: 30 to 34 years
+        ABAQE013:    Male: 35 to 39 years
+        ABAQE014:    Male: 40 to 44 years
+        ABAQE015:    Male: 45 to 49 years
+        ABAQE016:    Male: 50 to 54 years
+        ABAQE017:    Male: 55 to 59 years
+        ABAQE018:    Male: 60 and 61 years
+        ABAQE019:    Male: 62 to 64 years
+        ABAQE020:    Male: 65 and 66 years
+        ABAQE021:    Male: 67 to 69 years
+        ABAQE022:    Male: 70 to 74 years
+        ABAQE023:    Male: 75 to 79 years
+        ABAQE024:    Male: 80 to 84 years
+        ABAQE025:    Male: 85 years and over
+        ABAQE026:    Female
+        ABAQE027:    Female: Under 5 years
+        ABAQE028:    Female: 5 to 9 years
+        ABAQE029:    Female: 10 to 14 years
+        ABAQE030:    Female: 15 to 17 years
+        ABAQE031:    Female: 18 and 19 years
+        ABAQE032:    Female: 20 years
+        ABAQE033:    Female: 21 years
+        ABAQE034:    Female: 22 to 24 years
+        ABAQE035:    Female: 25 to 29 years
+        ABAQE036:    Female: 30 to 34 years
+        ABAQE037:    Female: 35 to 39 years
+        ABAQE038:    Female: 40 to 44 years
+        ABAQE039:    Female: 45 to 49 years
+        ABAQE040:    Female: 50 to 54 years
+        ABAQE041:    Female: 55 to 59 years
+        ABAQE042:    Female: 60 and 61 years
+        ABAQE043:    Female: 62 to 64 years
+        ABAQE044:    Female: 65 and 66 years
+        ABAQE045:    Female: 67 to 69 years
+        ABAQE046:    Female: 70 to 74 years
+        ABAQE047:    Female: 75 to 79 years
+        ABAQE048:    Female: 80 to 84 years
+        ABAQE049:    Female: 85 years and over

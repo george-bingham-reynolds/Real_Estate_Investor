@@ -1,0 +1,244 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0034_ds184_20115_place'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+Additional documentation on NHGIS data sources is available at: 
+    https://www.nhgis.org/documentation/tabular-data 
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             2007-2011
+Geographic level: Place (by State)
+Dataset:          2011 American Community Survey: 5-Year Data [2007-2011, Block Groups & Larger Areas]
+   NHGIS code:    2007_2011_ACS5a
+   NHGIS ID:      ds184
+Breakdown(s):     Geographic Component:
+                     Total area (00)
+Data type(s):     (E) Estimates
+                  (M) Margins of error
+ 
+Tables:
+ 
+1. Sex by Age
+   Universe:    Total population
+   Source code: B01001
+   NHGIS code:  MNI
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        GISJOIN:     GIS Join Match Code
+        YEAR:        Data File Year
+        STUSAB:      State Postal Abbreviation
+        REGIONA:     Region Code
+        DIVISIONA:   Division Code
+        STATE:       State Name
+        STATEA:      State Code
+        COUNTYA:     County Code
+        COUSUBA:     County Subdivision Code
+        PLACE:       Place Name
+        PLACEA:      Place Code
+        TRACTA:      Census Tract Code
+        BLKGRPA:     Block Group Code
+        CONCITA:     Consolidated City Code
+        AIANHHA:     American Indian Area/Alaska Native Area/Hawaiian Home Land Code
+        RES_ONLYA:   American Indian Area/Alaska Native Area (Reservation or Statistical Entity Only) Code
+        TRUSTA:      American Indian Area (Off-Reservation Trust Land Only)/Hawaiian Home Land Code
+        AIHHTLI:     American Indian Trust Land/ Hawaiian Home Land Indicator
+        AITSCEA:     Tribal Subdivision/Remainder Code
+        ANRCA:       Alaska Native Regional Corporation Code
+        CBSAA:       Metropolitan Statistical Area/Micropolitan Statistical Area Code
+        CSAA:        Combined Statistical Area Code
+        METDIVA:     Metropolitan Division Code
+        NECTAA:      New England City and Town Area Code
+        CNECTAA:     Combined New England City and Town Area Code
+        NECTADIVA:   New England City and Town Area Division Code
+        UAA:         Urban Area Code
+        CDCURRA:     Congressional District (111th Congress) Code
+        SLDUA:       State Legislative District (Upper Chamber) Code
+        SLDLA:       State Legislative District (Lower Chamber) Code
+        ZCTA5A:      5-Digit ZIP Code Tabulation Area Code
+        SUBMCDA:     Subminor Civil Division Code
+        SDELMA:      School District (Elementary)/Remainder Code
+        SDSECA:      School District (Secondary)/Remainder Code
+        SDUNIA:      School District (Unified)/Remainder Code
+        PCI:         Principal City Indicator
+        PUMAA:       Public Use Microdata Area Code
+        GEOID:       Geographic Identifier
+        BTTRA:       Tribal Census Tract Code
+        BTBGA:       Tribal Block Group Code
+ 
+Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Sex by Age
+    Universe:    Total population
+    Source code: B01001
+    NHGIS code:  MNI
+        MNIE001:     Total
+        MNIE002:     Male
+        MNIE003:     Male: Under 5 years
+        MNIE004:     Male: 5 to 9 years
+        MNIE005:     Male: 10 to 14 years
+        MNIE006:     Male: 15 to 17 years
+        MNIE007:     Male: 18 and 19 years
+        MNIE008:     Male: 20 years
+        MNIE009:     Male: 21 years
+        MNIE010:     Male: 22 to 24 years
+        MNIE011:     Male: 25 to 29 years
+        MNIE012:     Male: 30 to 34 years
+        MNIE013:     Male: 35 to 39 years
+        MNIE014:     Male: 40 to 44 years
+        MNIE015:     Male: 45 to 49 years
+        MNIE016:     Male: 50 to 54 years
+        MNIE017:     Male: 55 to 59 years
+        MNIE018:     Male: 60 and 61 years
+        MNIE019:     Male: 62 to 64 years
+        MNIE020:     Male: 65 and 66 years
+        MNIE021:     Male: 67 to 69 years
+        MNIE022:     Male: 70 to 74 years
+        MNIE023:     Male: 75 to 79 years
+        MNIE024:     Male: 80 to 84 years
+        MNIE025:     Male: 85 years and over
+        MNIE026:     Female
+        MNIE027:     Female: Under 5 years
+        MNIE028:     Female: 5 to 9 years
+        MNIE029:     Female: 10 to 14 years
+        MNIE030:     Female: 15 to 17 years
+        MNIE031:     Female: 18 and 19 years
+        MNIE032:     Female: 20 years
+        MNIE033:     Female: 21 years
+        MNIE034:     Female: 22 to 24 years
+        MNIE035:     Female: 25 to 29 years
+        MNIE036:     Female: 30 to 34 years
+        MNIE037:     Female: 35 to 39 years
+        MNIE038:     Female: 40 to 44 years
+        MNIE039:     Female: 45 to 49 years
+        MNIE040:     Female: 50 to 54 years
+        MNIE041:     Female: 55 to 59 years
+        MNIE042:     Female: 60 and 61 years
+        MNIE043:     Female: 62 to 64 years
+        MNIE044:     Female: 65 and 66 years
+        MNIE045:     Female: 67 to 69 years
+        MNIE046:     Female: 70 to 74 years
+        MNIE047:     Female: 75 to 79 years
+        MNIE048:     Female: 80 to 84 years
+        MNIE049:     Female: 85 years and over
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Sex by Age
+    Universe:    Total population
+    Source code: B01001
+    NHGIS code:  MNI
+        MNIM001:     Total
+        MNIM002:     Male
+        MNIM003:     Male: Under 5 years
+        MNIM004:     Male: 5 to 9 years
+        MNIM005:     Male: 10 to 14 years
+        MNIM006:     Male: 15 to 17 years
+        MNIM007:     Male: 18 and 19 years
+        MNIM008:     Male: 20 years
+        MNIM009:     Male: 21 years
+        MNIM010:     Male: 22 to 24 years
+        MNIM011:     Male: 25 to 29 years
+        MNIM012:     Male: 30 to 34 years
+        MNIM013:     Male: 35 to 39 years
+        MNIM014:     Male: 40 to 44 years
+        MNIM015:     Male: 45 to 49 years
+        MNIM016:     Male: 50 to 54 years
+        MNIM017:     Male: 55 to 59 years
+        MNIM018:     Male: 60 and 61 years
+        MNIM019:     Male: 62 to 64 years
+        MNIM020:     Male: 65 and 66 years
+        MNIM021:     Male: 67 to 69 years
+        MNIM022:     Male: 70 to 74 years
+        MNIM023:     Male: 75 to 79 years
+        MNIM024:     Male: 80 to 84 years
+        MNIM025:     Male: 85 years and over
+        MNIM026:     Female
+        MNIM027:     Female: Under 5 years
+        MNIM028:     Female: 5 to 9 years
+        MNIM029:     Female: 10 to 14 years
+        MNIM030:     Female: 15 to 17 years
+        MNIM031:     Female: 18 and 19 years
+        MNIM032:     Female: 20 years
+        MNIM033:     Female: 21 years
+        MNIM034:     Female: 22 to 24 years
+        MNIM035:     Female: 25 to 29 years
+        MNIM036:     Female: 30 to 34 years
+        MNIM037:     Female: 35 to 39 years
+        MNIM038:     Female: 40 to 44 years
+        MNIM039:     Female: 45 to 49 years
+        MNIM040:     Female: 50 to 54 years
+        MNIM041:     Female: 55 to 59 years
+        MNIM042:     Female: 60 and 61 years
+        MNIM043:     Female: 62 to 64 years
+        MNIM044:     Female: 65 and 66 years
+        MNIM045:     Female: 67 to 69 years
+        MNIM046:     Female: 70 to 74 years
+        MNIM047:     Female: 75 to 79 years
+        MNIM048:     Female: 80 to 84 years
+        MNIM049:     Female: 85 years and over
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* REDISTRIBUTION: You will not redistribute the data without permission.
+
+  You may publish a subset of the data to meet journal requirements for accessing 
+  data related to a particular publication. Contact us for permission for any other 
+  redistribution; we will consider requests for free and commercial redistribution.
+
+* CITATION: You will cite NHGIS appropriately.
+
+    * Publications and research reports employing NHGIS data (either tabular or GIS) 
+      should include the following citation:
+
+        Steven Manson, Jonathan Schroeder, David Van Riper, Katherine Knowles, Tracy Kugler, Finn Roberts, and Steven Ruggles.
+        IPUMS National Historical Geographic Information System: Version 18.0 
+        [dataset]. Minneapolis, MN: IPUMS. 2023.
+        http://doi.org/10.18128/D050.V18.0
+
+    * For policy briefs, online resources, or articles in the popular press, we 
+      recommend that you cite the use of NHGIS data as follows:
+
+        IPUMS NHGIS, University of Minnesota, www.nhgis.org.
+
+These terms of use are a legally binding agreement. You can use the data only in 
+accordance with these terms, and any other use is a violation of the agreement. 
+Violations may result in revocation of the agreement and prohibition from using other 
+IPUMS data. If IPUMS or our partners are harmed from your violation, you are 
+responsible for all damages, including reasonable attorney's fees and expenses.
+        
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+
+Send electronic material to: nhgis@umn.edu
+
+Printed matter should be sent to:
+
+    IPUMS NHGIS
+    Institute for Social Research and Data Innovation
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455

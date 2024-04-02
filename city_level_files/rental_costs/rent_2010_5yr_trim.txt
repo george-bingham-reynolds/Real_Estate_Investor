@@ -1,0 +1,24 @@
+        JSXE001:     Total
+        JSXE002:     With cash rent
+        JSXE003:     With cash rent: Less than $100
+        JSXE004:     With cash rent: $100 to $149
+        JSXE005:     With cash rent: $150 to $199
+        JSXE006:     With cash rent: $200 to $249
+        JSXE007:     With cash rent: $250 to $299
+        JSXE008:     With cash rent: $300 to $349
+        JSXE009:     With cash rent: $350 to $399
+        JSXE010:     With cash rent: $400 to $449
+        JSXE011:     With cash rent: $450 to $499
+        JSXE012:     With cash rent: $500 to $549
+        JSXE013:     With cash rent: $550 to $599
+        JSXE014:     With cash rent: $600 to $649
+        JSXE015:     With cash rent: $650 to $699
+        JSXE016:     With cash rent: $700 to $749
+        JSXE017:     With cash rent: $750 to $799
+        JSXE018:     With cash rent: $800 to $899
+        JSXE019:     With cash rent: $900 to $999
+        JSXE020:     With cash rent: $1,000 to $1,249
+        JSXE021:     With cash rent: $1,250 to $1,499
+        JSXE022:     With cash rent: $1,500 to $1,999
+        JSXE023:     With cash rent: $2,000 or more
+        JSXE024:     No cash rent

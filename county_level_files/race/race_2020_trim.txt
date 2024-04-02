@@ -1,0 +1,8 @@
+        U7J001:      Total
+        U7J002:      White alone
+        U7J003:      Black or African American alone
+        U7J004:      American Indian and Alaska Native alone
+        U7J005:      Asian alone
+        U7J006:      Native Hawaiian and Other Pacific Islander alone
+        U7J007:      Some Other Race alone
+        U7J008:      Two or More Races

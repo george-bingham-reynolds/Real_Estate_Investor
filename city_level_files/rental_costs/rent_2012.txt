@@ -1,0 +1,181 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0025_ds189_2012_place'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+Additional documentation on NHGIS data sources is available at: 
+    https://www.nhgis.org/documentation/tabular-data 
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             2012
+Geographic level: Place (by State)
+Dataset:          2012 American Community Survey: 1-Year Data
+   NHGIS code:    2012_ACS1
+   NHGIS ID:      ds189
+Breakdown(s):     Geographic Component:
+                     Total area (00)
+Data type(s):     (E) Estimates
+                  (M) Margins of error
+ 
+Tables:
+ 
+1. Contract Rent
+   Universe:    Renter-occupied housing units
+   Source code: B25056
+   NHGIS code:  PF8
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        GISJOIN:     GIS Join Match Code
+        YEAR:        Data File Year
+        STUSAB:      State Postal Abbreviation
+        REGIONA:     Region Code
+        DIVISIONA:   Division Code
+        STATE:       State Name
+        STATEA:      State Code
+        COUNTYA:     County Code
+        COUSUBA:     County Subdivision Code
+        PLACE:       Place Name
+        PLACEA:      Place Code
+        AIANHHA:     American Indian Area/Alaska Native Area/Hawaiian Home Land Code
+        ANRCA:       Alaska Native Regional Corporation Code
+        CBSAA:       Metropolitan Statistical Area/Micropolitan Statistical Area Code
+        CSAA:        Combined Statistical Area Code
+        METDIVA:     Metropolitan Division Code
+        NECTAA:      New England City and Town Area Code
+        CNECTAA:     Combined New England City and Town Area Code
+        NECTADIVA:   New England City and Town Area Division Code
+        UAA:         Urban Area Code
+        CDCURRA:     Congressional District (2013-2015, 113th Congress) Code
+        SDELMA:      School District (Elementary)/Remainder Code
+        SDSECA:      School District (Secondary)/Remainder Code
+        SDUNIA:      School District (Unified)/Remainder Code
+        PCI:         Principal City Indicator
+        PUMAA:       Public Use Microdata Area Code
+        GEOID:       Geographic Identifier
+ 
+Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Contract Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25056
+    NHGIS code:  PF8
+        PF8E001:     Total
+        PF8E002:     With cash rent
+        PF8E003:     With cash rent: Less than $100
+        PF8E004:     With cash rent: $100 to $149
+        PF8E005:     With cash rent: $150 to $199
+        PF8E006:     With cash rent: $200 to $249
+        PF8E007:     With cash rent: $250 to $299
+        PF8E008:     With cash rent: $300 to $349
+        PF8E009:     With cash rent: $350 to $399
+        PF8E010:     With cash rent: $400 to $449
+        PF8E011:     With cash rent: $450 to $499
+        PF8E012:     With cash rent: $500 to $549
+        PF8E013:     With cash rent: $550 to $599
+        PF8E014:     With cash rent: $600 to $649
+        PF8E015:     With cash rent: $650 to $699
+        PF8E016:     With cash rent: $700 to $749
+        PF8E017:     With cash rent: $750 to $799
+        PF8E018:     With cash rent: $800 to $899
+        PF8E019:     With cash rent: $900 to $999
+        PF8E020:     With cash rent: $1,000 to $1,249
+        PF8E021:     With cash rent: $1,250 to $1,499
+        PF8E022:     With cash rent: $1,500 to $1,999
+        PF8E023:     With cash rent: $2,000 or more
+        PF8E024:     No cash rent
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Contract Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25056
+    NHGIS code:  PF8
+        PF8M001:     Total
+        PF8M002:     With cash rent
+        PF8M003:     With cash rent: Less than $100
+        PF8M004:     With cash rent: $100 to $149
+        PF8M005:     With cash rent: $150 to $199
+        PF8M006:     With cash rent: $200 to $249
+        PF8M007:     With cash rent: $250 to $299
+        PF8M008:     With cash rent: $300 to $349
+        PF8M009:     With cash rent: $350 to $399
+        PF8M010:     With cash rent: $400 to $449
+        PF8M011:     With cash rent: $450 to $499
+        PF8M012:     With cash rent: $500 to $549
+        PF8M013:     With cash rent: $550 to $599
+        PF8M014:     With cash rent: $600 to $649
+        PF8M015:     With cash rent: $650 to $699
+        PF8M016:     With cash rent: $700 to $749
+        PF8M017:     With cash rent: $750 to $799
+        PF8M018:     With cash rent: $800 to $899
+        PF8M019:     With cash rent: $900 to $999
+        PF8M020:     With cash rent: $1,000 to $1,249
+        PF8M021:     With cash rent: $1,250 to $1,499
+        PF8M022:     With cash rent: $1,500 to $1,999
+        PF8M023:     With cash rent: $2,000 or more
+        PF8M024:     No cash rent
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* REDISTRIBUTION: You will not redistribute the data without permission.
+
+  You may publish a subset of the data to meet journal requirements for accessing 
+  data related to a particular publication. Contact us for permission for any other 
+  redistribution; we will consider requests for free and commercial redistribution.
+
+* CITATION: You will cite NHGIS appropriately.
+
+    * Publications and research reports employing NHGIS data (either tabular or GIS) 
+      should include the following citation:
+
+        Steven Manson, Jonathan Schroeder, David Van Riper, Katherine Knowles, Tracy Kugler, Finn Roberts, and Steven Ruggles.
+        IPUMS National Historical Geographic Information System: Version 18.0 
+        [dataset]. Minneapolis, MN: IPUMS. 2023.
+        http://doi.org/10.18128/D050.V18.0
+
+    * For policy briefs, online resources, or articles in the popular press, we 
+      recommend that you cite the use of NHGIS data as follows:
+
+        IPUMS NHGIS, University of Minnesota, www.nhgis.org.
+
+These terms of use are a legally binding agreement. You can use the data only in 
+accordance with these terms, and any other use is a violation of the agreement. 
+Violations may result in revocation of the agreement and prohibition from using other 
+IPUMS data. If IPUMS or our partners are harmed from your violation, you are 
+responsible for all damages, including reasonable attorney's fees and expenses.
+        
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+
+Send electronic material to: nhgis@umn.edu
+
+Printed matter should be sent to:
+
+    IPUMS NHGIS
+    Institute for Social Research and Data Innovation
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455

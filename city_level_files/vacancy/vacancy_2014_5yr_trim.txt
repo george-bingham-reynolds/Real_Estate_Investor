@@ -1,0 +1,3 @@
+        ABGWE001:    Total
+        ABGWE002:    Occupied
+        ABGWE003:    Vacant

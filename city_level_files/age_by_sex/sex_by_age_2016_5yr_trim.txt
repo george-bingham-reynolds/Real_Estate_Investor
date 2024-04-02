@@ -1,0 +1,49 @@
+        AF2AE001:    Total
+        AF2AE002:    Male
+        AF2AE003:    Male: Under 5 years
+        AF2AE004:    Male: 5 to 9 years
+        AF2AE005:    Male: 10 to 14 years
+        AF2AE006:    Male: 15 to 17 years
+        AF2AE007:    Male: 18 and 19 years
+        AF2AE008:    Male: 20 years
+        AF2AE009:    Male: 21 years
+        AF2AE010:    Male: 22 to 24 years
+        AF2AE011:    Male: 25 to 29 years
+        AF2AE012:    Male: 30 to 34 years
+        AF2AE013:    Male: 35 to 39 years
+        AF2AE014:    Male: 40 to 44 years
+        AF2AE015:    Male: 45 to 49 years
+        AF2AE016:    Male: 50 to 54 years
+        AF2AE017:    Male: 55 to 59 years
+        AF2AE018:    Male: 60 and 61 years
+        AF2AE019:    Male: 62 to 64 years
+        AF2AE020:    Male: 65 and 66 years
+        AF2AE021:    Male: 67 to 69 years
+        AF2AE022:    Male: 70 to 74 years
+        AF2AE023:    Male: 75 to 79 years
+        AF2AE024:    Male: 80 to 84 years
+        AF2AE025:    Male: 85 years and over
+        AF2AE026:    Female
+        AF2AE027:    Female: Under 5 years
+        AF2AE028:    Female: 5 to 9 years
+        AF2AE029:    Female: 10 to 14 years
+        AF2AE030:    Female: 15 to 17 years
+        AF2AE031:    Female: 18 and 19 years
+        AF2AE032:    Female: 20 years
+        AF2AE033:    Female: 21 years
+        AF2AE034:    Female: 22 to 24 years
+        AF2AE035:    Female: 25 to 29 years
+        AF2AE036:    Female: 30 to 34 years
+        AF2AE037:    Female: 35 to 39 years
+        AF2AE038:    Female: 40 to 44 years
+        AF2AE039:    Female: 45 to 49 years
+        AF2AE040:    Female: 50 to 54 years
+        AF2AE041:    Female: 55 to 59 years
+        AF2AE042:    Female: 60 and 61 years
+        AF2AE043:    Female: 62 to 64 years
+        AF2AE044:    Female: 65 and 66 years
+        AF2AE045:    Female: 67 to 69 years
+        AF2AE046:    Female: 70 to 74 years
+        AF2AE047:    Female: 75 to 79 years
+        AF2AE048:    Female: 80 to 84 years
+        AF2AE049:    Female: 85 years and over

@@ -1,0 +1,10 @@
+        AQNGE001:    Total
+        AQNGE002:    White alone
+        AQNGE003:    Black or African American alone
+        AQNGE004:    American Indian and Alaska Native alone
+        AQNGE005:    Asian alone
+        AQNGE006:    Native Hawaiian and Other Pacific Islander alone
+        AQNGE007:    Some Other Race alone
+        AQNGE008:    Two or More Races
+        AQNGE009:    Two or More Races: Two races including Some Other Race
+        AQNGE010:    Two or More Races: Two races excluding Some Other Race, and three or more races

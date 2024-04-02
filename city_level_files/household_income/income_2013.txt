@@ -1,0 +1,167 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0023_ds199_2013_place'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+Additional documentation on NHGIS data sources is available at: 
+    https://www.nhgis.org/documentation/tabular-data 
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             2013
+Geographic level: Place (by State)
+Dataset:          2013 American Community Survey: 1-Year Data
+   NHGIS code:    2013_ACS1
+   NHGIS ID:      ds199
+Breakdown(s):     Geographic Component:
+                     Total area (00)
+Data type(s):     (E) Estimates
+                  (M) Margins of error
+ 
+Tables:
+ 
+1. Household Income in the Past 12 Months (in 2013 Inflation-Adjusted Dollars)
+   Universe:    Households
+   Source code: B19001
+   NHGIS code:  SUY
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        GISJOIN:     GIS Join Match Code
+        YEAR:        Data File Year
+        STUSAB:      State Postal Abbreviation
+        REGIONA:     Region Code
+        DIVISIONA:   Division Code
+        STATE:       State Name
+        STATEA:      State Code
+        COUNTYA:     County Code
+        COUSUBA:     County Subdivision Code
+        PLACE:       Place Name
+        PLACEA:      Place Code
+        AIANHHA:     American Indian Area/Alaska Native Area/Hawaiian Home Land Code
+        ANRCA:       Alaska Native Regional Corporation Code
+        CBSAA:       Metropolitan Statistical Area/Micropolitan Statistical Area Code
+        CSAA:        Combined Statistical Area Code
+        METDIVA:     Metropolitan Division Code
+        NECTAA:      New England City and Town Area Code
+        CNECTAA:     Combined New England City and Town Area Code
+        NECTADIVA:   New England City and Town Area Division Code
+        UAA:         Urban Area Code
+        CDCURRA:     Congressional District (2013-2015, 113th Congress) Code
+        SDELMA:      School District (Elementary)/Remainder Code
+        SDSECA:      School District (Secondary)/Remainder Code
+        SDUNIA:      School District (Unified)/Remainder Code
+        PCI:         Principal City Indicator
+        PUMAA:       Public Use Microdata Area Code
+        GEOID:       Geographic Identifier
+ 
+Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Household Income in the Past 12 Months (in 2013 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  SUY
+        SUYE001:     Total
+        SUYE002:     Less than $10,000
+        SUYE003:     $10,000 to $14,999
+        SUYE004:     $15,000 to $19,999
+        SUYE005:     $20,000 to $24,999
+        SUYE006:     $25,000 to $29,999
+        SUYE007:     $30,000 to $34,999
+        SUYE008:     $35,000 to $39,999
+        SUYE009:     $40,000 to $44,999
+        SUYE010:     $45,000 to $49,999
+        SUYE011:     $50,000 to $59,999
+        SUYE012:     $60,000 to $74,999
+        SUYE013:     $75,000 to $99,999
+        SUYE014:     $100,000 to $124,999
+        SUYE015:     $125,000 to $149,999
+        SUYE016:     $150,000 to $199,999
+        SUYE017:     $200,000 or more
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Household Income in the Past 12 Months (in 2013 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  SUY
+        SUYM001:     Total
+        SUYM002:     Less than $10,000
+        SUYM003:     $10,000 to $14,999
+        SUYM004:     $15,000 to $19,999
+        SUYM005:     $20,000 to $24,999
+        SUYM006:     $25,000 to $29,999
+        SUYM007:     $30,000 to $34,999
+        SUYM008:     $35,000 to $39,999
+        SUYM009:     $40,000 to $44,999
+        SUYM010:     $45,000 to $49,999
+        SUYM011:     $50,000 to $59,999
+        SUYM012:     $60,000 to $74,999
+        SUYM013:     $75,000 to $99,999
+        SUYM014:     $100,000 to $124,999
+        SUYM015:     $125,000 to $149,999
+        SUYM016:     $150,000 to $199,999
+        SUYM017:     $200,000 or more
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* REDISTRIBUTION: You will not redistribute the data without permission.
+
+  You may publish a subset of the data to meet journal requirements for accessing 
+  data related to a particular publication. Contact us for permission for any other 
+  redistribution; we will consider requests for free and commercial redistribution.
+
+* CITATION: You will cite NHGIS appropriately.
+
+    * Publications and research reports employing NHGIS data (either tabular or GIS) 
+      should include the following citation:
+
+        Steven Manson, Jonathan Schroeder, David Van Riper, Katherine Knowles, Tracy Kugler, Finn Roberts, and Steven Ruggles.
+        IPUMS National Historical Geographic Information System: Version 18.0 
+        [dataset]. Minneapolis, MN: IPUMS. 2023.
+        http://doi.org/10.18128/D050.V18.0
+
+    * For policy briefs, online resources, or articles in the popular press, we 
+      recommend that you cite the use of NHGIS data as follows:
+
+        IPUMS NHGIS, University of Minnesota, www.nhgis.org.
+
+These terms of use are a legally binding agreement. You can use the data only in 
+accordance with these terms, and any other use is a violation of the agreement. 
+Violations may result in revocation of the agreement and prohibition from using other 
+IPUMS data. If IPUMS or our partners are harmed from your violation, you are 
+responsible for all damages, including reasonable attorney's fees and expenses.
+        
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+
+Send electronic material to: nhgis@umn.edu
+
+Printed matter should be sent to:
+
+    IPUMS NHGIS
+    Institute for Social Research and Data Innovation
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455

@@ -1,0 +1,49 @@
+        AE1IE001:    Total
+        AE1IE002:    Male
+        AE1IE003:    Male: Under 5 years
+        AE1IE004:    Male: 5 to 9 years
+        AE1IE005:    Male: 10 to 14 years
+        AE1IE006:    Male: 15 to 17 years
+        AE1IE007:    Male: 18 and 19 years
+        AE1IE008:    Male: 20 years
+        AE1IE009:    Male: 21 years
+        AE1IE010:    Male: 22 to 24 years
+        AE1IE011:    Male: 25 to 29 years
+        AE1IE012:    Male: 30 to 34 years
+        AE1IE013:    Male: 35 to 39 years
+        AE1IE014:    Male: 40 to 44 years
+        AE1IE015:    Male: 45 to 49 years
+        AE1IE016:    Male: 50 to 54 years
+        AE1IE017:    Male: 55 to 59 years
+        AE1IE018:    Male: 60 and 61 years
+        AE1IE019:    Male: 62 to 64 years
+        AE1IE020:    Male: 65 and 66 years
+        AE1IE021:    Male: 67 to 69 years
+        AE1IE022:    Male: 70 to 74 years
+        AE1IE023:    Male: 75 to 79 years
+        AE1IE024:    Male: 80 to 84 years
+        AE1IE025:    Male: 85 years and over
+        AE1IE026:    Female
+        AE1IE027:    Female: Under 5 years
+        AE1IE028:    Female: 5 to 9 years
+        AE1IE029:    Female: 10 to 14 years
+        AE1IE030:    Female: 15 to 17 years
+        AE1IE031:    Female: 18 and 19 years
+        AE1IE032:    Female: 20 years
+        AE1IE033:    Female: 21 years
+        AE1IE034:    Female: 22 to 24 years
+        AE1IE035:    Female: 25 to 29 years
+        AE1IE036:    Female: 30 to 34 years
+        AE1IE037:    Female: 35 to 39 years
+        AE1IE038:    Female: 40 to 44 years
+        AE1IE039:    Female: 45 to 49 years
+        AE1IE040:    Female: 50 to 54 years
+        AE1IE041:    Female: 55 to 59 years
+        AE1IE042:    Female: 60 and 61 years
+        AE1IE043:    Female: 62 to 64 years
+        AE1IE044:    Female: 65 and 66 years
+        AE1IE045:    Female: 67 to 69 years
+        AE1IE046:    Female: 70 to 74 years
+        AE1IE047:    Female: 75 to 79 years
+        AE1IE048:    Female: 80 to 84 years
+        AE1IE049:    Female: 85 years and over

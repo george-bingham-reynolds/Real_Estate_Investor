@@ -1,0 +1,27 @@
+        AF81E001:    Total
+        AF81E002:    With cash rent
+        AF81E003:    With cash rent: Less than $100
+        AF81E004:    With cash rent: $100 to $149
+        AF81E005:    With cash rent: $150 to $199
+        AF81E006:    With cash rent: $200 to $249
+        AF81E007:    With cash rent: $250 to $299
+        AF81E008:    With cash rent: $300 to $349
+        AF81E009:    With cash rent: $350 to $399
+        AF81E010:    With cash rent: $400 to $449
+        AF81E011:    With cash rent: $450 to $499
+        AF81E012:    With cash rent: $500 to $549
+        AF81E013:    With cash rent: $550 to $599
+        AF81E014:    With cash rent: $600 to $649
+        AF81E015:    With cash rent: $650 to $699
+        AF81E016:    With cash rent: $700 to $749
+        AF81E017:    With cash rent: $750 to $799
+        AF81E018:    With cash rent: $800 to $899
+        AF81E019:    With cash rent: $900 to $999
+        AF81E020:    With cash rent: $1,000 to $1,249
+        AF81E021:    With cash rent: $1,250 to $1,499
+        AF81E022:    With cash rent: $1,500 to $1,999
+        AF81E023:    With cash rent: $2,000 to $2,499
+        AF81E024:    With cash rent: $2,500 to $2,999
+        AF81E025:    With cash rent: $3,000 to $3,499
+        AF81E026:    With cash rent: $3,500 or more
+        AF81E027:    No cash rent

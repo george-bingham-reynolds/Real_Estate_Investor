@@ -1,0 +1,245 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0034_ds254_20215_place'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+Additional documentation on NHGIS data sources is available at: 
+    https://www.nhgis.org/documentation/tabular-data 
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             2017-2021
+Geographic level: Place (by State)
+Dataset:          2021 American Community Survey: 5-Year Data [2017-2021, Block Groups & Larger Areas]
+   NHGIS code:    2017_2021_ACS5a
+   NHGIS ID:      ds254
+Breakdown(s):     Geographic Component:
+                     Total area (00)
+Data type(s):     (E) Estimates
+                  (M) Margins of error
+ 
+Tables:
+ 
+1. Sex by Age
+   Universe:    Total population
+   Source code: B01001
+   NHGIS code:  AONT
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        GISJOIN:     GIS Join Match Code
+        YEAR:        Data File Year
+        STUSAB:      State/US-Abbreviation (USPS)
+        REGIONA:     Region Code
+        DIVISIONA:   Division Code
+        STATE:       State Name
+        STATEA:      State Code
+        COUNTYA:     County Code
+        COUSUBA:     County Subdivision Code
+        PLACE:       Place/Remainder Name
+        PLACEA:      Place/Remainder Code
+        TRACTA:      Census Tract Code
+        BLKGRPA:     Block Group Code
+        CONCITA:     Consolidated City Code
+        AIANHHA:     American Indian Area/Alaska Native Area/Hawaiian Home Land Code
+        RES_ONLYA:   American Indian Area/Alaska Native Area (Reservation or Statistical Entity Only) Code
+        TRUSTA:      American Indian Area (Off-Reservation Trust Land Only)/Hawaiian Home Land Code
+        AIHHTLI:     American Indian/Hawaiian Home Land Trust Land Indicator
+        AITSA:       Tribal Subdivision/Remainder Code
+        ANRCA:       Alaska Native Regional Corporation Code
+        CBSAA:       Metropolitan Statistical Area/Micropolitan Statistical Area Code
+        CSAA:        Combined Statistical Area Code
+        METDIVA:     Metropolitan Division Code
+        NECTAA:      New England City and Town Area Code
+        CNECTAA:     Combined New England City and Town Area Code
+        NECTADIVA:   New England City and Town Area Division Code
+        UAA:         Urban Area Code
+        CDCURRA:     Congressional District (2019-2021, 116th Congress) Code
+        SLDUA:       State Legislative District (Upper Chamber) Code
+        SLDLA:       State Legislative District (Lower Chamber) Code
+        ZCTA5A:      5-Digit ZIP Code Tabulation Area Code
+        SUBMCDA:     Subminor Civil Division Code
+        SDELMA:      School District (Elementary)/Remainder Code
+        SDSECA:      School District (Secondary)/Remainder Code
+        SDUNIA:      School District (Unified)/Remainder Code
+        PCI:         Metropolitan/Micropolitan Principal City Indicator
+        PUMAA:       Public Use Microdata Area Code
+        GEO_ID:      Census Geographic Area Identifier
+        BTTRA:       Tribal Census Tract Code
+        BTBGA:       Tribal Block Group Code
+        TL_GEO_ID:   TIGER/Line Shapefile Geographic Area Identifier
+ 
+Data Type (E):
+    Estimates
+ 
+        NAME_E:      Geographic Area Full Name
+ 
+    Table 1:     Sex by Age
+    Universe:    Total population
+    Source code: B01001
+    NHGIS code:  AONT
+        AONTE001:    Total
+        AONTE002:    Male
+        AONTE003:    Male: Under 5 years
+        AONTE004:    Male: 5 to 9 years
+        AONTE005:    Male: 10 to 14 years
+        AONTE006:    Male: 15 to 17 years
+        AONTE007:    Male: 18 and 19 years
+        AONTE008:    Male: 20 years
+        AONTE009:    Male: 21 years
+        AONTE010:    Male: 22 to 24 years
+        AONTE011:    Male: 25 to 29 years
+        AONTE012:    Male: 30 to 34 years
+        AONTE013:    Male: 35 to 39 years
+        AONTE014:    Male: 40 to 44 years
+        AONTE015:    Male: 45 to 49 years
+        AONTE016:    Male: 50 to 54 years
+        AONTE017:    Male: 55 to 59 years
+        AONTE018:    Male: 60 and 61 years
+        AONTE019:    Male: 62 to 64 years
+        AONTE020:    Male: 65 and 66 years
+        AONTE021:    Male: 67 to 69 years
+        AONTE022:    Male: 70 to 74 years
+        AONTE023:    Male: 75 to 79 years
+        AONTE024:    Male: 80 to 84 years
+        AONTE025:    Male: 85 years and over
+        AONTE026:    Female
+        AONTE027:    Female: Under 5 years
+        AONTE028:    Female: 5 to 9 years
+        AONTE029:    Female: 10 to 14 years
+        AONTE030:    Female: 15 to 17 years
+        AONTE031:    Female: 18 and 19 years
+        AONTE032:    Female: 20 years
+        AONTE033:    Female: 21 years
+        AONTE034:    Female: 22 to 24 years
+        AONTE035:    Female: 25 to 29 years
+        AONTE036:    Female: 30 to 34 years
+        AONTE037:    Female: 35 to 39 years
+        AONTE038:    Female: 40 to 44 years
+        AONTE039:    Female: 45 to 49 years
+        AONTE040:    Female: 50 to 54 years
+        AONTE041:    Female: 55 to 59 years
+        AONTE042:    Female: 60 and 61 years
+        AONTE043:    Female: 62 to 64 years
+        AONTE044:    Female: 65 and 66 years
+        AONTE045:    Female: 67 to 69 years
+        AONTE046:    Female: 70 to 74 years
+        AONTE047:    Female: 75 to 79 years
+        AONTE048:    Female: 80 to 84 years
+        AONTE049:    Female: 85 years and over
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Geographic Area Full Name
+ 
+    Table 1:     Sex by Age
+    Universe:    Total population
+    Source code: B01001
+    NHGIS code:  AONT
+        AONTM001:    Total
+        AONTM002:    Male
+        AONTM003:    Male: Under 5 years
+        AONTM004:    Male: 5 to 9 years
+        AONTM005:    Male: 10 to 14 years
+        AONTM006:    Male: 15 to 17 years
+        AONTM007:    Male: 18 and 19 years
+        AONTM008:    Male: 20 years
+        AONTM009:    Male: 21 years
+        AONTM010:    Male: 22 to 24 years
+        AONTM011:    Male: 25 to 29 years
+        AONTM012:    Male: 30 to 34 years
+        AONTM013:    Male: 35 to 39 years
+        AONTM014:    Male: 40 to 44 years
+        AONTM015:    Male: 45 to 49 years
+        AONTM016:    Male: 50 to 54 years
+        AONTM017:    Male: 55 to 59 years
+        AONTM018:    Male: 60 and 61 years
+        AONTM019:    Male: 62 to 64 years
+        AONTM020:    Male: 65 and 66 years
+        AONTM021:    Male: 67 to 69 years
+        AONTM022:    Male: 70 to 74 years
+        AONTM023:    Male: 75 to 79 years
+        AONTM024:    Male: 80 to 84 years
+        AONTM025:    Male: 85 years and over
+        AONTM026:    Female
+        AONTM027:    Female: Under 5 years
+        AONTM028:    Female: 5 to 9 years
+        AONTM029:    Female: 10 to 14 years
+        AONTM030:    Female: 15 to 17 years
+        AONTM031:    Female: 18 and 19 years
+        AONTM032:    Female: 20 years
+        AONTM033:    Female: 21 years
+        AONTM034:    Female: 22 to 24 years
+        AONTM035:    Female: 25 to 29 years
+        AONTM036:    Female: 30 to 34 years
+        AONTM037:    Female: 35 to 39 years
+        AONTM038:    Female: 40 to 44 years
+        AONTM039:    Female: 45 to 49 years
+        AONTM040:    Female: 50 to 54 years
+        AONTM041:    Female: 55 to 59 years
+        AONTM042:    Female: 60 and 61 years
+        AONTM043:    Female: 62 to 64 years
+        AONTM044:    Female: 65 and 66 years
+        AONTM045:    Female: 67 to 69 years
+        AONTM046:    Female: 70 to 74 years
+        AONTM047:    Female: 75 to 79 years
+        AONTM048:    Female: 80 to 84 years
+        AONTM049:    Female: 85 years and over
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* REDISTRIBUTION: You will not redistribute the data without permission.
+
+  You may publish a subset of the data to meet journal requirements for accessing 
+  data related to a particular publication. Contact us for permission for any other 
+  redistribution; we will consider requests for free and commercial redistribution.
+
+* CITATION: You will cite NHGIS appropriately.
+
+    * Publications and research reports employing NHGIS data (either tabular or GIS) 
+      should include the following citation:
+
+        Steven Manson, Jonathan Schroeder, David Van Riper, Katherine Knowles, Tracy Kugler, Finn Roberts, and Steven Ruggles.
+        IPUMS National Historical Geographic Information System: Version 18.0 
+        [dataset]. Minneapolis, MN: IPUMS. 2023.
+        http://doi.org/10.18128/D050.V18.0
+
+    * For policy briefs, online resources, or articles in the popular press, we 
+      recommend that you cite the use of NHGIS data as follows:
+
+        IPUMS NHGIS, University of Minnesota, www.nhgis.org.
+
+These terms of use are a legally binding agreement. You can use the data only in 
+accordance with these terms, and any other use is a violation of the agreement. 
+Violations may result in revocation of the agreement and prohibition from using other 
+IPUMS data. If IPUMS or our partners are harmed from your violation, you are 
+responsible for all damages, including reasonable attorney's fees and expenses.
+        
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+
+Send electronic material to: nhgis@umn.edu
+
+Printed matter should be sent to:
+
+    IPUMS NHGIS
+    Institute for Social Research and Data Innovation
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455

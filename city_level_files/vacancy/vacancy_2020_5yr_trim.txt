@@ -1,0 +1,3 @@
+        AMUEE001:    Total
+        AMUEE002:    Occupied
+        AMUEE003:    Vacant

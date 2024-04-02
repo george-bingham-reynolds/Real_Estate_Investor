@@ -1,0 +1,10 @@
+        AF2ME001:    Total
+        AF2ME002:    White alone
+        AF2ME003:    Black or African American alone
+        AF2ME004:    American Indian and Alaska Native alone
+        AF2ME005:    Asian alone
+        AF2ME006:    Native Hawaiian and Other Pacific Islander alone
+        AF2ME007:    Some other race alone
+        AF2ME008:    Two or more races
+        AF2ME009:    Two or more races: Two races including Some other race
+        AF2ME010:    Two or more races: Two races excluding Some other race, and three or more races

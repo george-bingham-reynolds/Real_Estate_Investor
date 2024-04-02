@@ -1,0 +1,27 @@
+        AOT1E001:    Total
+        AOT1E002:    With cash rent
+        AOT1E003:    With cash rent: Less than $100
+        AOT1E004:    With cash rent: $100 to $149
+        AOT1E005:    With cash rent: $150 to $199
+        AOT1E006:    With cash rent: $200 to $249
+        AOT1E007:    With cash rent: $250 to $299
+        AOT1E008:    With cash rent: $300 to $349
+        AOT1E009:    With cash rent: $350 to $399
+        AOT1E010:    With cash rent: $400 to $449
+        AOT1E011:    With cash rent: $450 to $499
+        AOT1E012:    With cash rent: $500 to $549
+        AOT1E013:    With cash rent: $550 to $599
+        AOT1E014:    With cash rent: $600 to $649
+        AOT1E015:    With cash rent: $650 to $699
+        AOT1E016:    With cash rent: $700 to $749
+        AOT1E017:    With cash rent: $750 to $799
+        AOT1E018:    With cash rent: $800 to $899
+        AOT1E019:    With cash rent: $900 to $999
+        AOT1E020:    With cash rent: $1,000 to $1,249
+        AOT1E021:    With cash rent: $1,250 to $1,499
+        AOT1E022:    With cash rent: $1,500 to $1,999
+        AOT1E023:    With cash rent: $2,000 to $2,499
+        AOT1E024:    With cash rent: $2,500 to $2,999
+        AOT1E025:    With cash rent: $3,000 to $3,499
+        AOT1E026:    With cash rent: $3,500 or more
+        AOT1E027:    No cash rent

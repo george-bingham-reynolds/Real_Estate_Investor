@@ -1,0 +1,10 @@
+        UEQE001:     Total
+        UEQE002:     White alone
+        UEQE003:     Black or African American alone
+        UEQE004:     American Indian and Alaska Native alone
+        UEQE005:     Asian alone
+        UEQE006:     Native Hawaiian and Other Pacific Islander alone
+        UEQE007:     Some other race alone
+        UEQE008:     Two or more races
+        UEQE009:     Two or more races: Two races including Some other race
+        UEQE010:     Two or more races: Two races excluding Some other race, and three or more races

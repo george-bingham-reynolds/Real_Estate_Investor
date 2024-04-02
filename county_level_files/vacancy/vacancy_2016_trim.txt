@@ -1,0 +1,3 @@
+        AFR5E001:    Total
+        AFR5E002:    Occupied
+        AFR5E003:    Vacant
