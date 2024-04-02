@@ -1,0 +1,10 @@
+        AON5E001:    Total
+        AON5E002:    White alone
+        AON5E003:    Black or African American alone
+        AON5E004:    American Indian and Alaska Native alone
+        AON5E005:    Asian alone
+        AON5E006:    Native Hawaiian and Other Pacific Islander alone
+        AON5E007:    Some other race alone
+        AON5E008:    Two or more races
+        AON5E009:    Two or more races: Two races including Some other race
+        AON5E010:    Two or more races: Two races excluding Some other race, and three or more races

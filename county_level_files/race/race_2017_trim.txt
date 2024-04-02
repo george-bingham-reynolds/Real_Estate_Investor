@@ -1,0 +1,10 @@
+        AGXGE001:    Total
+        AGXGE002:    White alone
+        AGXGE003:    Black or African American alone
+        AGXGE004:    American Indian and Alaska Native alone
+        AGXGE005:    Asian alone
+        AGXGE006:    Native Hawaiian and Other Pacific Islander alone
+        AGXGE007:    Some other race alone
+        AGXGE008:    Two or more races
+        AGXGE009:    Two or more races: Two races including Some other race
+        AGXGE010:    Two or more races: Two races excluding Some other race, and three or more races

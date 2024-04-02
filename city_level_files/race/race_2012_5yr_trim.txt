@@ -1,0 +1,10 @@
+        QSQE001:     Total
+        QSQE002:     White alone
+        QSQE003:     Black or African American alone
+        QSQE004:     American Indian and Alaska Native alone
+        QSQE005:     Asian alone
+        QSQE006:     Native Hawaiian and Other Pacific Islander alone
+        QSQE007:     Some other race alone
+        QSQE008:     Two or more races
+        QSQE009:     Two or more races: Two races including Some other race
+        QSQE010:     Two or more races: Two races excluding Some other race, and three or more races

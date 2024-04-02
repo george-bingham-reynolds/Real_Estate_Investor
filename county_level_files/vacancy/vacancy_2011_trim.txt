@@ -1,0 +1,3 @@
+        MDGE001:     Total
+        MDGE002:     Occupied
+        MDGE003:     Vacant

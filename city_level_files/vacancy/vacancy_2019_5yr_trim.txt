@@ -1,0 +1,3 @@
+        ALZKE001:    Total
+        ALZKE002:    Occupied
+        ALZKE003:    Vacant

@@ -1,0 +1,3 @@
+        AN6BE001:    Total
+        AN6BE002:    Occupied
+        AN6BE003:    Vacant

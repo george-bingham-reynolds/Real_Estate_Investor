@@ -1,0 +1,10 @@
+        SBME001:     Total
+        SBME002:     White alone
+        SBME003:     Black or African American alone
+        SBME004:     American Indian and Alaska Native alone
+        SBME005:     Asian alone
+        SBME006:     Native Hawaiian and Other Pacific Islander alone
+        SBME007:     Some other race alone
+        SBME008:     Two or more races
+        SBME009:     Two or more races: Two races including Some other race
+        SBME010:     Two or more races: Two races excluding Some other race, and three or more races

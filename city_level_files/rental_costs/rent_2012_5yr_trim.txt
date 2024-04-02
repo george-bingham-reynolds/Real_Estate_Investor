@@ -1,0 +1,24 @@
+        QZLE001:     Total
+        QZLE002:     With cash rent
+        QZLE003:     With cash rent: Less than $100
+        QZLE004:     With cash rent: $100 to $149
+        QZLE005:     With cash rent: $150 to $199
+        QZLE006:     With cash rent: $200 to $249
+        QZLE007:     With cash rent: $250 to $299
+        QZLE008:     With cash rent: $300 to $349
+        QZLE009:     With cash rent: $350 to $399
+        QZLE010:     With cash rent: $400 to $449
+        QZLE011:     With cash rent: $450 to $499
+        QZLE012:     With cash rent: $500 to $549
+        QZLE013:     With cash rent: $550 to $599
+        QZLE014:     With cash rent: $600 to $649
+        QZLE015:     With cash rent: $650 to $699
+        QZLE016:     With cash rent: $700 to $749
+        QZLE017:     With cash rent: $750 to $799
+        QZLE018:     With cash rent: $800 to $899
+        QZLE019:     With cash rent: $900 to $999
+        QZLE020:     With cash rent: $1,000 to $1,249
+        QZLE021:     With cash rent: $1,250 to $1,499
+        QZLE022:     With cash rent: $1,500 to $1,999
+        QZLE023:     With cash rent: $2,000 or more
+        QZLE024:     No cash rent

@@ -1,0 +1,3 @@
+        AJKWE001:    Total
+        AJKWE002:    Occupied
+        AJKWE003:    Vacant

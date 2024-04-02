@@ -1,0 +1,10 @@
+        JMBE001:     Total
+        JMBE002:     White alone
+        JMBE003:     Black or African American alone
+        JMBE004:     American Indian and Alaska Native alone
+        JMBE005:     Asian alone
+        JMBE006:     Native Hawaiian and Other Pacific Islander alone
+        JMBE007:     Some other race alone
+        JMBE008:     Two or more races
+        JMBE009:     Two or more races: Two races including Some other race
+        JMBE010:     Two or more races: Two races excluding Some other race, and three or more races

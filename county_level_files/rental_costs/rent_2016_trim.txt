@@ -1,0 +1,27 @@
+        AFUEE001:    Total
+        AFUEE002:    With cash rent
+        AFUEE003:    With cash rent: Less than $100
+        AFUEE004:    With cash rent: $100 to $149
+        AFUEE005:    With cash rent: $150 to $199
+        AFUEE006:    With cash rent: $200 to $249
+        AFUEE007:    With cash rent: $250 to $299
+        AFUEE008:    With cash rent: $300 to $349
+        AFUEE009:    With cash rent: $350 to $399
+        AFUEE010:    With cash rent: $400 to $449
+        AFUEE011:    With cash rent: $450 to $499
+        AFUEE012:    With cash rent: $500 to $549
+        AFUEE013:    With cash rent: $550 to $599
+        AFUEE014:    With cash rent: $600 to $649
+        AFUEE015:    With cash rent: $650 to $699
+        AFUEE016:    With cash rent: $700 to $749
+        AFUEE017:    With cash rent: $750 to $799
+        AFUEE018:    With cash rent: $800 to $899
+        AFUEE019:    With cash rent: $900 to $999
+        AFUEE020:    With cash rent: $1,000 to $1,249
+        AFUEE021:    With cash rent: $1,250 to $1,499
+        AFUEE022:    With cash rent: $1,500 to $1,999
+        AFUEE023:    With cash rent: $2,000 to $2,499
+        AFUEE024:    With cash rent: $2,500 to $2,999
+        AFUEE025:    With cash rent: $3,000 to $3,499
+        AFUEE026:    With cash rent: $3,500 or more
+        AFUEE027:    No cash rent

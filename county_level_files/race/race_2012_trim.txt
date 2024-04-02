@@ -1,0 +1,10 @@
+        OJFE001:     Total
+        OJFE002:     White alone
+        OJFE003:     Black or African American alone
+        OJFE004:     American Indian and Alaska Native alone
+        OJFE005:     Asian alone
+        OJFE006:     Native Hawaiian and Other Pacific Islander alone
+        OJFE007:     Some other race alone
+        OJFE008:     Two or more races
+        OJFE009:     Two or more races: Two races including Some other race
+        OJFE010:     Two or more races: Two races excluding Some other race, and three or more races

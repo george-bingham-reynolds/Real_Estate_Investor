@@ -1,0 +1,10 @@
+        AE2CE001:    Total
+        AE2CE002:    White alone
+        AE2CE003:    Black or African American alone
+        AE2CE004:    American Indian and Alaska Native alone
+        AE2CE005:    Asian alone
+        AE2CE006:    Native Hawaiian and Other Pacific Islander alone
+        AE2CE007:    Some other race alone
+        AE2CE008:    Two or more races
+        AE2CE009:    Two or more races: Two races including Some other race
+        AE2CE010:    Two or more races: Two races excluding Some other race, and three or more races

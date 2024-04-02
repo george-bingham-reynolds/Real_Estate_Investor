@@ -1,0 +1,3 @@
+        AQSPE001:    Total
+        AQSPE002:    Occupied
+        AQSPE003:    Vacant

@@ -1,0 +1,3 @@
+        AF7OE001:    Total
+        AF7OE002:    Occupied
+        AF7OE003:    Vacant

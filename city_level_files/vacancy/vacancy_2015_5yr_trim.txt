@@ -1,0 +1,3 @@
+        ADPZE001:    Total
+        ADPZE002:    Occupied
+        ADPZE003:    Vacant

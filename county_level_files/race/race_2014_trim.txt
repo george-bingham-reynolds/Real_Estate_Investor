@@ -1,0 +1,10 @@
+        AAA6E001:    Total
+        AAA6E002:    White alone
+        AAA6E003:    Black or African American alone
+        AAA6E004:    American Indian and Alaska Native alone
+        AAA6E005:    Asian alone
+        AAA6E006:    Native Hawaiian and Other Pacific Islander alone
+        AAA6E007:    Some other race alone
+        AAA6E008:    Two or more races
+        AAA6E009:    Two or more races: Two races including Some other race
+        AAA6E010:    Two or more races: Two races excluding Some other race, and three or more races

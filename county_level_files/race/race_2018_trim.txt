@@ -1,0 +1,10 @@
+        AIUXE001:    Total
+        AIUXE002:    White alone
+        AIUXE003:    Black or African American alone
+        AIUXE004:    American Indian and Alaska Native alone
+        AIUXE005:    Asian alone
+        AIUXE006:    Native Hawaiian and Other Pacific Islander alone
+        AIUXE007:    Some other race alone
+        AIUXE008:    Two or more races
+        AIUXE009:    Two or more races: Two races including Some other race
+        AIUXE010:    Two or more races: Two races excluding Some other race, and three or more races

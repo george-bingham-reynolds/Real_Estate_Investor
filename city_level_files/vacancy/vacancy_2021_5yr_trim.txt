@@ -1,0 +1,3 @@
+        AOSOE001:    Total
+        AOSOE002:    Occupied
+        AOSOE003:    Vacant

@@ -1,0 +1,10 @@
+        RLAE001:     Total
+        RLAE002:     White alone
+        RLAE003:     Black or African American alone
+        RLAE004:     American Indian and Alaska Native alone
+        RLAE005:     Asian alone
+        RLAE006:     Native Hawaiian and Other Pacific Islander alone
+        RLAE007:     Some other race alone
+        RLAE008:     Two or more races
+        RLAE009:     Two or more races: Two races including Some other race
+        RLAE010:     Two or more races: Two races excluding Some other race, and three or more races

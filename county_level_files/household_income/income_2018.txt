@@ -1,0 +1,167 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0007_ds238_2018_county'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+Additional documentation on NHGIS data sources is available at: 
+    https://www.nhgis.org/documentation/tabular-data 
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             2018
+Geographic level: County (by State)
+Dataset:          2018 American Community Survey: 1-Year Data
+   NHGIS code:    2018_ACS1
+   NHGIS ID:      ds238
+Breakdown(s):     Geographic Component:
+                     Total area (00)
+Data type(s):     (E) Estimates
+                  (M) Margins of error
+ 
+Tables:
+ 
+1. Household Income in the Past 12 Months (in 2018 Inflation-Adjusted Dollars)
+   Universe:    Households
+   Source code: B19001
+   NHGIS code:  AJCT
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        GISJOIN:     GIS Join Match Code
+        YEAR:        Data File Year
+        STUSAB:      State Postal Abbreviation
+        REGIONA:     Region Code
+        DIVISIONA:   Division Code
+        STATE:       State Name
+        STATEA:      State Code
+        COUNTY:      County Name
+        COUNTYA:     County Code
+        COUSUBA:     County Subdivision Code
+        PLACEA:      Place Code
+        AIANHHA:     American Indian Area/Alaska Native Area/Hawaiian Home Land Code
+        ANRCA:       Alaska Native Regional Corporation Code
+        CBSAA:       Metropolitan Statistical Area/Micropolitan Statistical Area Code
+        CSAA:        Combined Statistical Area Code
+        METDIVA:     Metropolitan Division Code
+        NECTAA:      New England City and Town Area Code
+        CNECTAA:     Combined New England City and Town Area Code
+        NECTADIVA:   New England City and Town Area Division Code
+        UAA:         Urban Area Code
+        CDCURRA:     Congressional District (2019-2021, 116th Congress) Code
+        SDELMA:      School District (Elementary)/Remainder Code
+        SDSECA:      School District (Secondary)/Remainder Code
+        SDUNIA:      School District (Unified)/Remainder Code
+        PCI:         Principal City Indicator
+        PUMAA:       Public Use Microdata Area Code
+        GEOID:       Census Geographic Identifier
+ 
+Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Household Income in the Past 12 Months (in 2018 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AJCT
+        AJCTE001:    Total
+        AJCTE002:    Less than $10,000
+        AJCTE003:    $10,000 to $14,999
+        AJCTE004:    $15,000 to $19,999
+        AJCTE005:    $20,000 to $24,999
+        AJCTE006:    $25,000 to $29,999
+        AJCTE007:    $30,000 to $34,999
+        AJCTE008:    $35,000 to $39,999
+        AJCTE009:    $40,000 to $44,999
+        AJCTE010:    $45,000 to $49,999
+        AJCTE011:    $50,000 to $59,999
+        AJCTE012:    $60,000 to $74,999
+        AJCTE013:    $75,000 to $99,999
+        AJCTE014:    $100,000 to $124,999
+        AJCTE015:    $125,000 to $149,999
+        AJCTE016:    $150,000 to $199,999
+        AJCTE017:    $200,000 or more
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Household Income in the Past 12 Months (in 2018 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AJCT
+        AJCTM001:    Total
+        AJCTM002:    Less than $10,000
+        AJCTM003:    $10,000 to $14,999
+        AJCTM004:    $15,000 to $19,999
+        AJCTM005:    $20,000 to $24,999
+        AJCTM006:    $25,000 to $29,999
+        AJCTM007:    $30,000 to $34,999
+        AJCTM008:    $35,000 to $39,999
+        AJCTM009:    $40,000 to $44,999
+        AJCTM010:    $45,000 to $49,999
+        AJCTM011:    $50,000 to $59,999
+        AJCTM012:    $60,000 to $74,999
+        AJCTM013:    $75,000 to $99,999
+        AJCTM014:    $100,000 to $124,999
+        AJCTM015:    $125,000 to $149,999
+        AJCTM016:    $150,000 to $199,999
+        AJCTM017:    $200,000 or more
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* REDISTRIBUTION: You will not redistribute the data without permission.
+
+  You may publish a subset of the data to meet journal requirements for accessing 
+  data related to a particular publication. Contact us for permission for any other 
+  redistribution; we will consider requests for free and commercial redistribution.
+
+* CITATION: You will cite NHGIS appropriately.
+
+    * Publications and research reports employing NHGIS data (either tabular or GIS) 
+      should include the following citation:
+
+        Steven Manson, Jonathan Schroeder, David Van Riper, Katherine Knowles, Tracy Kugler, Finn Roberts, and Steven Ruggles.
+        IPUMS National Historical Geographic Information System: Version 18.0 
+        [dataset]. Minneapolis, MN: IPUMS. 2023.
+        http://doi.org/10.18128/D050.V18.0
+
+    * For policy briefs, online resources, or articles in the popular press, we 
+      recommend that you cite the use of NHGIS data as follows:
+
+        IPUMS NHGIS, University of Minnesota, www.nhgis.org.
+
+These terms of use are a legally binding agreement. You can use the data only in 
+accordance with these terms, and any other use is a violation of the agreement. 
+Violations may result in revocation of the agreement and prohibition from using other 
+IPUMS data. If IPUMS or our partners are harmed from your violation, you are 
+responsible for all damages, including reasonable attorney's fees and expenses.
+        
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+
+Send electronic material to: nhgis@umn.edu
+
+Printed matter should be sent to:
+
+    IPUMS NHGIS
+    Institute for Social Research and Data Innovation
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455

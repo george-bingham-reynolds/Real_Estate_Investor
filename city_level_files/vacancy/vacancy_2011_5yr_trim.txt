@@ -1,0 +1,3 @@
+        MS3E001:     Total
+        MS3E002:     Occupied
+        MS3E003:     Vacant

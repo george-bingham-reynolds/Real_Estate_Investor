@@ -1,0 +1,3 @@
+        ALIME001:    Total
+        ALIME002:    Occupied
+        ALIME003:    Vacant

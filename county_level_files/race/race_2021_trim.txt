@@ -1,0 +1,10 @@
+        ANLTE001:    Total
+        ANLTE002:    White alone
+        ANLTE003:    Black or African American alone
+        ANLTE004:    American Indian and Alaska Native alone
+        ANLTE005:    Asian alone
+        ANLTE006:    Native Hawaiian and Other Pacific Islander alone
+        ANLTE007:    Some other race alone
+        ANLTE008:    Two or more races
+        ANLTE009:    Two or more races: Two races including Some other race
+        ANLTE010:    Two or more races: Two races excluding Some other race, and three or more races

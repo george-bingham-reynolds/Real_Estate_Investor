@@ -1,0 +1,27 @@
+        AN8FE001:    Total
+        AN8FE002:    With cash rent
+        AN8FE003:    With cash rent: Less than $100
+        AN8FE004:    With cash rent: $100 to $149
+        AN8FE005:    With cash rent: $150 to $199
+        AN8FE006:    With cash rent: $200 to $249
+        AN8FE007:    With cash rent: $250 to $299
+        AN8FE008:    With cash rent: $300 to $349
+        AN8FE009:    With cash rent: $350 to $399
+        AN8FE010:    With cash rent: $400 to $449
+        AN8FE011:    With cash rent: $450 to $499
+        AN8FE012:    With cash rent: $500 to $549
+        AN8FE013:    With cash rent: $550 to $599
+        AN8FE014:    With cash rent: $600 to $649
+        AN8FE015:    With cash rent: $650 to $699
+        AN8FE016:    With cash rent: $700 to $749
+        AN8FE017:    With cash rent: $750 to $799
+        AN8FE018:    With cash rent: $800 to $899
+        AN8FE019:    With cash rent: $900 to $999
+        AN8FE020:    With cash rent: $1,000 to $1,249
+        AN8FE021:    With cash rent: $1,250 to $1,499
+        AN8FE022:    With cash rent: $1,500 to $1,999
+        AN8FE023:    With cash rent: $2,000 to $2,499
+        AN8FE024:    With cash rent: $2,500 to $2,999
+        AN8FE025:    With cash rent: $3,000 to $3,499
+        AN8FE026:    With cash rent: $3,500 or more
+        AN8FE027:    No cash rent

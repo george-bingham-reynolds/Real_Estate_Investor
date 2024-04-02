@@ -1,0 +1,10 @@
+   NHGIS code:  H7X
+    NHGIS code:  H7X
+        H7X001:      Total
+        H7X002:      White alone
+        H7X003:      Black or African American alone
+        H7X004:      American Indian and Alaska Native alone
+        H7X005:      Asian alone
+        H7X006:      Native Hawaiian and Other Pacific Islander alone
+        H7X007:      Some Other Race alone
+        H7X008:      Two or More Races

@@ -1,0 +1,200 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0032_ds215_20155_place'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+Additional documentation on NHGIS data sources is available at: 
+    https://www.nhgis.org/documentation/tabular-data 
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             2011-2015
+Geographic level: Place (by State)
+Dataset:          2015 American Community Survey: 5-Year Data [2011-2015, Block Groups & Larger Areas]
+   NHGIS code:    2011_2015_ACS5a
+   NHGIS ID:      ds215
+Breakdown(s):     Geographic Component:
+                     Total area (00)
+Data type(s):     (E) Estimates
+                  (M) Margins of error
+ 
+Tables:
+ 
+1. Contract Rent
+   Universe:    Renter-occupied housing units
+   Source code: B25056
+   NHGIS code:  ADRC
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        GISJOIN:     GIS Join Match Code
+        YEAR:        Data File Year
+        STUSAB:      State Postal Abbreviation
+        REGIONA:     Region Code
+        DIVISIONA:   Division Code
+        STATE:       State Name
+        STATEA:      State Code
+        COUNTYA:     County Code
+        COUSUBA:     County Subdivision Code
+        PLACE:       Place Name
+        PLACEA:      Place Code
+        TRACTA:      Census Tract Code
+        BLKGRPA:     Block Group Code
+        CONCITA:     Consolidated City Code
+        AIANHHA:     American Indian Area/Alaska Native Area/Hawaiian Home Land Code
+        RES_ONLYA:   American Indian Area/Alaska Native Area (Reservation or Statistical Entity Only) Code
+        TRUSTA:      American Indian Area (Off-Reservation Trust Land Only)/Hawaiian Home Land Code
+        AIHHTLI:     American Indian Trust Land/ Hawaiian Home Land Indicator
+        AITSCEA:     Tribal Subdivision/Remainder Code
+        ANRCA:       Alaska Native Regional Corporation Code
+        CBSAA:       Metropolitan Statistical Area/Micropolitan Statistical Area Code
+        CSAA:        Combined Statistical Area Code
+        METDIVA:     Metropolitan Division Code
+        NECTAA:      New England City and Town Area Code
+        CNECTAA:     Combined New England City and Town Area Code
+        NECTADIVA:   New England City and Town Area Division Code
+        UAA:         Urban Area Code
+        CDCURRA:     Congressional District (2013-2017, 113th-114th Congress) Code
+        SLDUA:       State Legislative District (Upper Chamber) Code
+        SLDLA:       State Legislative District (Lower Chamber) Code
+        ZCTA5A:      5-Digit ZIP Code Tabulation Area Code
+        SUBMCDA:     Subminor Civil Division Code
+        SDELMA:      School District (Elementary)/Remainder Code
+        SDSECA:      School District (Secondary)/Remainder Code
+        SDUNIA:      School District (Unified)/Remainder Code
+        PCI:         Principal City Indicator
+        PUMAA:       Public Use Microdata Area Code
+        GEOID:       Geographic Identifier
+        BTTRA:       Tribal Census Tract Code
+        BTBGA:       Tribal Block Group Code
+ 
+Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Contract Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25056
+    NHGIS code:  ADRC
+        ADRCE001:    Total
+        ADRCE002:    With cash rent
+        ADRCE003:    With cash rent: Less than $100
+        ADRCE004:    With cash rent: $100 to $149
+        ADRCE005:    With cash rent: $150 to $199
+        ADRCE006:    With cash rent: $200 to $249
+        ADRCE007:    With cash rent: $250 to $299
+        ADRCE008:    With cash rent: $300 to $349
+        ADRCE009:    With cash rent: $350 to $399
+        ADRCE010:    With cash rent: $400 to $449
+        ADRCE011:    With cash rent: $450 to $499
+        ADRCE012:    With cash rent: $500 to $549
+        ADRCE013:    With cash rent: $550 to $599
+        ADRCE014:    With cash rent: $600 to $649
+        ADRCE015:    With cash rent: $650 to $699
+        ADRCE016:    With cash rent: $700 to $749
+        ADRCE017:    With cash rent: $750 to $799
+        ADRCE018:    With cash rent: $800 to $899
+        ADRCE019:    With cash rent: $900 to $999
+        ADRCE020:    With cash rent: $1,000 to $1,249
+        ADRCE021:    With cash rent: $1,250 to $1,499
+        ADRCE022:    With cash rent: $1,500 to $1,999
+        ADRCE023:    With cash rent: $2,000 to $2,499
+        ADRCE024:    With cash rent: $2,500 to $2,999
+        ADRCE025:    With cash rent: $3,000 to $3,499
+        ADRCE026:    With cash rent: $3,500 or more
+        ADRCE027:    No cash rent
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Contract Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25056
+    NHGIS code:  ADRC
+        ADRCM001:    Total
+        ADRCM002:    With cash rent
+        ADRCM003:    With cash rent: Less than $100
+        ADRCM004:    With cash rent: $100 to $149
+        ADRCM005:    With cash rent: $150 to $199
+        ADRCM006:    With cash rent: $200 to $249
+        ADRCM007:    With cash rent: $250 to $299
+        ADRCM008:    With cash rent: $300 to $349
+        ADRCM009:    With cash rent: $350 to $399
+        ADRCM010:    With cash rent: $400 to $449
+        ADRCM011:    With cash rent: $450 to $499
+        ADRCM012:    With cash rent: $500 to $549
+        ADRCM013:    With cash rent: $550 to $599
+        ADRCM014:    With cash rent: $600 to $649
+        ADRCM015:    With cash rent: $650 to $699
+        ADRCM016:    With cash rent: $700 to $749
+        ADRCM017:    With cash rent: $750 to $799
+        ADRCM018:    With cash rent: $800 to $899
+        ADRCM019:    With cash rent: $900 to $999
+        ADRCM020:    With cash rent: $1,000 to $1,249
+        ADRCM021:    With cash rent: $1,250 to $1,499
+        ADRCM022:    With cash rent: $1,500 to $1,999
+        ADRCM023:    With cash rent: $2,000 to $2,499
+        ADRCM024:    With cash rent: $2,500 to $2,999
+        ADRCM025:    With cash rent: $3,000 to $3,499
+        ADRCM026:    With cash rent: $3,500 or more
+        ADRCM027:    No cash rent
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* REDISTRIBUTION: You will not redistribute the data without permission.
+
+  You may publish a subset of the data to meet journal requirements for accessing 
+  data related to a particular publication. Contact us for permission for any other 
+  redistribution; we will consider requests for free and commercial redistribution.
+
+* CITATION: You will cite NHGIS appropriately.
+
+    * Publications and research reports employing NHGIS data (either tabular or GIS) 
+      should include the following citation:
+
+        Steven Manson, Jonathan Schroeder, David Van Riper, Katherine Knowles, Tracy Kugler, Finn Roberts, and Steven Ruggles.
+        IPUMS National Historical Geographic Information System: Version 18.0 
+        [dataset]. Minneapolis, MN: IPUMS. 2023.
+        http://doi.org/10.18128/D050.V18.0
+
+    * For policy briefs, online resources, or articles in the popular press, we 
+      recommend that you cite the use of NHGIS data as follows:
+
+        IPUMS NHGIS, University of Minnesota, www.nhgis.org.
+
+These terms of use are a legally binding agreement. You can use the data only in 
+accordance with these terms, and any other use is a violation of the agreement. 
+Violations may result in revocation of the agreement and prohibition from using other 
+IPUMS data. If IPUMS or our partners are harmed from your violation, you are 
+responsible for all damages, including reasonable attorney's fees and expenses.
+        
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+
+Send electronic material to: nhgis@umn.edu
+
+Printed matter should be sent to:
+
+    IPUMS NHGIS
+    Institute for Social Research and Data Innovation
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455

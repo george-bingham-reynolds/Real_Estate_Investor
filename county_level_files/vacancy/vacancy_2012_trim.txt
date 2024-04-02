@@ -1,0 +1,3 @@
+        PDHE001:     Total
+        PDHE002:     Occupied
+        PDHE003:     Vacant

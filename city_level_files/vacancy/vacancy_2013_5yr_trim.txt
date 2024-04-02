@@ -1,0 +1,3 @@
+        UKNE001:     Total
+        UKNE002:     Occupied
+        UKNE003:     Vacant

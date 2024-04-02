@@ -1,0 +1,49 @@
+        LIIE001:     Total
+        LIIE002:     Male
+        LIIE003:     Male: Under 5 years
+        LIIE004:     Male: 5 to 9 years
+        LIIE005:     Male: 10 to 14 years
+        LIIE006:     Male: 15 to 17 years
+        LIIE007:     Male: 18 and 19 years
+        LIIE008:     Male: 20 years
+        LIIE009:     Male: 21 years
+        LIIE010:     Male: 22 to 24 years
+        LIIE011:     Male: 25 to 29 years
+        LIIE012:     Male: 30 to 34 years
+        LIIE013:     Male: 35 to 39 years
+        LIIE014:     Male: 40 to 44 years
+        LIIE015:     Male: 45 to 49 years
+        LIIE016:     Male: 50 to 54 years
+        LIIE017:     Male: 55 to 59 years
+        LIIE018:     Male: 60 and 61 years
+        LIIE019:     Male: 62 to 64 years
+        LIIE020:     Male: 65 and 66 years
+        LIIE021:     Male: 67 to 69 years
+        LIIE022:     Male: 70 to 74 years
+        LIIE023:     Male: 75 to 79 years
+        LIIE024:     Male: 80 to 84 years
+        LIIE025:     Male: 85 years and over
+        LIIE026:     Female
+        LIIE027:     Female: Under 5 years
+        LIIE028:     Female: 5 to 9 years
+        LIIE029:     Female: 10 to 14 years
+        LIIE030:     Female: 15 to 17 years
+        LIIE031:     Female: 18 and 19 years
+        LIIE032:     Female: 20 years
+        LIIE033:     Female: 21 years
+        LIIE034:     Female: 22 to 24 years
+        LIIE035:     Female: 25 to 29 years
+        LIIE036:     Female: 30 to 34 years
+        LIIE037:     Female: 35 to 39 years
+        LIIE038:     Female: 40 to 44 years
+        LIIE039:     Female: 45 to 49 years
+        LIIE040:     Female: 50 to 54 years
+        LIIE041:     Female: 55 to 59 years
+        LIIE042:     Female: 60 and 61 years
+        LIIE043:     Female: 62 to 64 years
+        LIIE044:     Female: 65 and 66 years
+        LIIE045:     Female: 67 to 69 years
+        LIIE046:     Female: 70 to 74 years
+        LIIE047:     Female: 75 to 79 years
+        LIIE048:     Female: 80 to 84 years
+        LIIE049:     Female: 85 years and over

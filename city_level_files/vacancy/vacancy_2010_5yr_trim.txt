@@ -1,0 +1,3 @@
+        JRJE001:     Total
+        JRJE002:     Occupied
+        JRJE003:     Vacant

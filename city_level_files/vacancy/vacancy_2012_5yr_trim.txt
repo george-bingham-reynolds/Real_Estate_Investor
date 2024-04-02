@@ -1,0 +1,3 @@
+        QX7E001:     Total
+        QX7E002:     Occupied
+        QX7E003:     Vacant

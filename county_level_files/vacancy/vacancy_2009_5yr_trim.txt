@@ -1,0 +1,3 @@
+        RP8E001:     Total
+        RP8E002:     Occupied
+        RP8E003:     Vacant

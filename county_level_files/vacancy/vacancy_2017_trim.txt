@@ -1,0 +1,3 @@
+        AHNBE001:    Total
+        AHNBE002:    Occupied
+        AHNBE003:    Vacant

@@ -1,0 +1,232 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0027_ds253_2021_place'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+Additional documentation on NHGIS data sources is available at: 
+    https://www.nhgis.org/documentation/tabular-data 
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             2021
+Geographic level: Place (by State)
+Dataset:          2021 American Community Survey: 1-Year Data
+   NHGIS code:    2021_ACS1
+   NHGIS ID:      ds253
+Breakdown(s):     Geographic Component:
+                     Total area (00)
+Data type(s):     (E) Estimates
+                  (M) Margins of error
+ 
+Tables:
+ 
+1. Sex by Age
+   Universe:    Total population
+   Source code: B01001
+   NHGIS code:  ANK8
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        GISJOIN:     GIS Join Match Code
+        YEAR:        Data File Year
+        STUSAB:      State/US-Abbreviation (USPS)
+        REGIONA:     Region Code
+        DIVISIONA:   Division Code
+        STATE:       State Name
+        STATEA:      State Code
+        COUNTYA:     County Code
+        COUSUBA:     County Subdivision Code
+        PLACE:       Place Name
+        PLACEA:      Place Code
+        AIANHHA:     American Indian Area/Alaska Native Area/Hawaiian Home Land Code
+        ANRCA:       Alaska Native Regional Corporation Code
+        CBSAA:       Metropolitan Statistical Area/Micropolitan Statistical Area Code
+        CSAA:        Combined Statistical Area Code
+        METDIVA:     Metropolitan Division Code
+        NECTAA:      New England City and Town Area Code
+        CNECTAA:     Combined New England City and Town Area Code
+        NECTADIVA:   New England City and Town Area Division Code
+        UAA:         Urban Area Code
+        CDCURRA:     Congressional District (2019-2021, 116th Congress) Code
+        SDELMA:      School District (Elementary)/Remainder Code
+        SDSECA:      School District (Secondary)/Remainder Code
+        SDUNIA:      School District (Unified)/Remainder Code
+        PCI:         Metropolitan/Micropolitan Principal City Indicator
+        PUMAA:       Public Use Microdata Area Code
+        GEO_ID:      Census Geographic Area Identifier
+        TL_GEO_ID:   TIGER/Line Shapefile Geographic Area Identifier
+ 
+Data Type (E):
+    Estimates
+ 
+        NAME_E:      Geographic Area Full Name
+ 
+    Table 1:     Sex by Age
+    Universe:    Total population
+    Source code: B01001
+    NHGIS code:  ANK8
+        ANK8E001:    Total
+        ANK8E002:    Male
+        ANK8E003:    Male: Under 5 years
+        ANK8E004:    Male: 5 to 9 years
+        ANK8E005:    Male: 10 to 14 years
+        ANK8E006:    Male: 15 to 17 years
+        ANK8E007:    Male: 18 and 19 years
+        ANK8E008:    Male: 20 years
+        ANK8E009:    Male: 21 years
+        ANK8E010:    Male: 22 to 24 years
+        ANK8E011:    Male: 25 to 29 years
+        ANK8E012:    Male: 30 to 34 years
+        ANK8E013:    Male: 35 to 39 years
+        ANK8E014:    Male: 40 to 44 years
+        ANK8E015:    Male: 45 to 49 years
+        ANK8E016:    Male: 50 to 54 years
+        ANK8E017:    Male: 55 to 59 years
+        ANK8E018:    Male: 60 and 61 years
+        ANK8E019:    Male: 62 to 64 years
+        ANK8E020:    Male: 65 and 66 years
+        ANK8E021:    Male: 67 to 69 years
+        ANK8E022:    Male: 70 to 74 years
+        ANK8E023:    Male: 75 to 79 years
+        ANK8E024:    Male: 80 to 84 years
+        ANK8E025:    Male: 85 years and over
+        ANK8E026:    Female
+        ANK8E027:    Female: Under 5 years
+        ANK8E028:    Female: 5 to 9 years
+        ANK8E029:    Female: 10 to 14 years
+        ANK8E030:    Female: 15 to 17 years
+        ANK8E031:    Female: 18 and 19 years
+        ANK8E032:    Female: 20 years
+        ANK8E033:    Female: 21 years
+        ANK8E034:    Female: 22 to 24 years
+        ANK8E035:    Female: 25 to 29 years
+        ANK8E036:    Female: 30 to 34 years
+        ANK8E037:    Female: 35 to 39 years
+        ANK8E038:    Female: 40 to 44 years
+        ANK8E039:    Female: 45 to 49 years
+        ANK8E040:    Female: 50 to 54 years
+        ANK8E041:    Female: 55 to 59 years
+        ANK8E042:    Female: 60 and 61 years
+        ANK8E043:    Female: 62 to 64 years
+        ANK8E044:    Female: 65 and 66 years
+        ANK8E045:    Female: 67 to 69 years
+        ANK8E046:    Female: 70 to 74 years
+        ANK8E047:    Female: 75 to 79 years
+        ANK8E048:    Female: 80 to 84 years
+        ANK8E049:    Female: 85 years and over
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Geographic Area Full Name
+ 
+    Table 1:     Sex by Age
+    Universe:    Total population
+    Source code: B01001
+    NHGIS code:  ANK8
+        ANK8M001:    Total
+        ANK8M002:    Male
+        ANK8M003:    Male: Under 5 years
+        ANK8M004:    Male: 5 to 9 years
+        ANK8M005:    Male: 10 to 14 years
+        ANK8M006:    Male: 15 to 17 years
+        ANK8M007:    Male: 18 and 19 years
+        ANK8M008:    Male: 20 years
+        ANK8M009:    Male: 21 years
+        ANK8M010:    Male: 22 to 24 years
+        ANK8M011:    Male: 25 to 29 years
+        ANK8M012:    Male: 30 to 34 years
+        ANK8M013:    Male: 35 to 39 years
+        ANK8M014:    Male: 40 to 44 years
+        ANK8M015:    Male: 45 to 49 years
+        ANK8M016:    Male: 50 to 54 years
+        ANK8M017:    Male: 55 to 59 years
+        ANK8M018:    Male: 60 and 61 years
+        ANK8M019:    Male: 62 to 64 years
+        ANK8M020:    Male: 65 and 66 years
+        ANK8M021:    Male: 67 to 69 years
+        ANK8M022:    Male: 70 to 74 years
+        ANK8M023:    Male: 75 to 79 years
+        ANK8M024:    Male: 80 to 84 years
+        ANK8M025:    Male: 85 years and over
+        ANK8M026:    Female
+        ANK8M027:    Female: Under 5 years
+        ANK8M028:    Female: 5 to 9 years
+        ANK8M029:    Female: 10 to 14 years
+        ANK8M030:    Female: 15 to 17 years
+        ANK8M031:    Female: 18 and 19 years
+        ANK8M032:    Female: 20 years
+        ANK8M033:    Female: 21 years
+        ANK8M034:    Female: 22 to 24 years
+        ANK8M035:    Female: 25 to 29 years
+        ANK8M036:    Female: 30 to 34 years
+        ANK8M037:    Female: 35 to 39 years
+        ANK8M038:    Female: 40 to 44 years
+        ANK8M039:    Female: 45 to 49 years
+        ANK8M040:    Female: 50 to 54 years
+        ANK8M041:    Female: 55 to 59 years
+        ANK8M042:    Female: 60 and 61 years
+        ANK8M043:    Female: 62 to 64 years
+        ANK8M044:    Female: 65 and 66 years
+        ANK8M045:    Female: 67 to 69 years
+        ANK8M046:    Female: 70 to 74 years
+        ANK8M047:    Female: 75 to 79 years
+        ANK8M048:    Female: 80 to 84 years
+        ANK8M049:    Female: 85 years and over
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* REDISTRIBUTION: You will not redistribute the data without permission.
+
+  You may publish a subset of the data to meet journal requirements for accessing 
+  data related to a particular publication. Contact us for permission for any other 
+  redistribution; we will consider requests for free and commercial redistribution.
+
+* CITATION: You will cite NHGIS appropriately.
+
+    * Publications and research reports employing NHGIS data (either tabular or GIS) 
+      should include the following citation:
+
+        Steven Manson, Jonathan Schroeder, David Van Riper, Katherine Knowles, Tracy Kugler, Finn Roberts, and Steven Ruggles.
+        IPUMS National Historical Geographic Information System: Version 18.0 
+        [dataset]. Minneapolis, MN: IPUMS. 2023.
+        http://doi.org/10.18128/D050.V18.0
+
+    * For policy briefs, online resources, or articles in the popular press, we 
+      recommend that you cite the use of NHGIS data as follows:
+
+        IPUMS NHGIS, University of Minnesota, www.nhgis.org.
+
+These terms of use are a legally binding agreement. You can use the data only in 
+accordance with these terms, and any other use is a violation of the agreement. 
+Violations may result in revocation of the agreement and prohibition from using other 
+IPUMS data. If IPUMS or our partners are harmed from your violation, you are 
+responsible for all damages, including reasonable attorney's fees and expenses.
+        
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+
+Send electronic material to: nhgis@umn.edu
+
+Printed matter should be sent to:
+
+    IPUMS NHGIS
+    Institute for Social Research and Data Innovation
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455

@@ -1,0 +1,231 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0006_ds183_2011_county'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+Additional documentation on NHGIS data sources is available at: 
+    https://www.nhgis.org/documentation/tabular-data 
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             2011
+Geographic level: County (by State)
+Dataset:          2011 American Community Survey: 1-Year Data
+   NHGIS code:    2011_ACS1
+   NHGIS ID:      ds183
+Breakdown(s):     Geographic Component:
+                     Total area (00)
+Data type(s):     (E) Estimates
+                  (M) Margins of error
+ 
+Tables:
+ 
+1. Sex by Age
+   Universe:    Total population
+   Source code: B01001
+   NHGIS code:  LII
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        GISJOIN:     GIS Join Match Code
+        YEAR:        Data File Year
+        STUSAB:      State Postal Abbreviation
+        REGIONA:     Region Code
+        DIVISIONA:   Division Code
+        STATE:       State Name
+        STATEA:      State Code
+        COUNTY:      County Name
+        COUNTYA:     County Code
+        COUSUBA:     County Subdivision Code
+        PLACEA:      Place Code
+        AIANHHA:     American Indian Area/Alaska Native Area/Hawaiian Home Land Code
+        ANRCA:       Alaska Native Regional Corporation Code
+        CBSAA:       Metropolitan Statistical Area/Micropolitan Statistical Area Code
+        CSAA:        Combined Statistical Area Code
+        METDIVA:     Metropolitan Division Code
+        NECTAA:      New England City and Town Area Code
+        CNECTAA:     Combined New England City and Town Area Code
+        NECTADIVA:   New England City and Town Area Division Code
+        UAA:         Urban Area Code
+        CDCURRA:     Congressional District (111th Congress) Code
+        SDELMA:      School District (Elementary)/Remainder Code
+        SDSECA:      School District (Secondary)/Remainder Code
+        SDUNIA:      School District (Unified)/Remainder Code
+        PCI:         Principal City Indicator
+        PUMAA:       Public Use Microdata Area Code
+        GEOID:       Geographic Identifier
+ 
+Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Sex by Age
+    Universe:    Total population
+    Source code: B01001
+    NHGIS code:  LII
+        LIIE001:     Total
+        LIIE002:     Male
+        LIIE003:     Male: Under 5 years
+        LIIE004:     Male: 5 to 9 years
+        LIIE005:     Male: 10 to 14 years
+        LIIE006:     Male: 15 to 17 years
+        LIIE007:     Male: 18 and 19 years
+        LIIE008:     Male: 20 years
+        LIIE009:     Male: 21 years
+        LIIE010:     Male: 22 to 24 years
+        LIIE011:     Male: 25 to 29 years
+        LIIE012:     Male: 30 to 34 years
+        LIIE013:     Male: 35 to 39 years
+        LIIE014:     Male: 40 to 44 years
+        LIIE015:     Male: 45 to 49 years
+        LIIE016:     Male: 50 to 54 years
+        LIIE017:     Male: 55 to 59 years
+        LIIE018:     Male: 60 and 61 years
+        LIIE019:     Male: 62 to 64 years
+        LIIE020:     Male: 65 and 66 years
+        LIIE021:     Male: 67 to 69 years
+        LIIE022:     Male: 70 to 74 years
+        LIIE023:     Male: 75 to 79 years
+        LIIE024:     Male: 80 to 84 years
+        LIIE025:     Male: 85 years and over
+        LIIE026:     Female
+        LIIE027:     Female: Under 5 years
+        LIIE028:     Female: 5 to 9 years
+        LIIE029:     Female: 10 to 14 years
+        LIIE030:     Female: 15 to 17 years
+        LIIE031:     Female: 18 and 19 years
+        LIIE032:     Female: 20 years
+        LIIE033:     Female: 21 years
+        LIIE034:     Female: 22 to 24 years
+        LIIE035:     Female: 25 to 29 years
+        LIIE036:     Female: 30 to 34 years
+        LIIE037:     Female: 35 to 39 years
+        LIIE038:     Female: 40 to 44 years
+        LIIE039:     Female: 45 to 49 years
+        LIIE040:     Female: 50 to 54 years
+        LIIE041:     Female: 55 to 59 years
+        LIIE042:     Female: 60 and 61 years
+        LIIE043:     Female: 62 to 64 years
+        LIIE044:     Female: 65 and 66 years
+        LIIE045:     Female: 67 to 69 years
+        LIIE046:     Female: 70 to 74 years
+        LIIE047:     Female: 75 to 79 years
+        LIIE048:     Female: 80 to 84 years
+        LIIE049:     Female: 85 years and over
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Sex by Age
+    Universe:    Total population
+    Source code: B01001
+    NHGIS code:  LII
+        LIIM001:     Total
+        LIIM002:     Male
+        LIIM003:     Male: Under 5 years
+        LIIM004:     Male: 5 to 9 years
+        LIIM005:     Male: 10 to 14 years
+        LIIM006:     Male: 15 to 17 years
+        LIIM007:     Male: 18 and 19 years
+        LIIM008:     Male: 20 years
+        LIIM009:     Male: 21 years
+        LIIM010:     Male: 22 to 24 years
+        LIIM011:     Male: 25 to 29 years
+        LIIM012:     Male: 30 to 34 years
+        LIIM013:     Male: 35 to 39 years
+        LIIM014:     Male: 40 to 44 years
+        LIIM015:     Male: 45 to 49 years
+        LIIM016:     Male: 50 to 54 years
+        LIIM017:     Male: 55 to 59 years
+        LIIM018:     Male: 60 and 61 years
+        LIIM019:     Male: 62 to 64 years
+        LIIM020:     Male: 65 and 66 years
+        LIIM021:     Male: 67 to 69 years
+        LIIM022:     Male: 70 to 74 years
+        LIIM023:     Male: 75 to 79 years
+        LIIM024:     Male: 80 to 84 years
+        LIIM025:     Male: 85 years and over
+        LIIM026:     Female
+        LIIM027:     Female: Under 5 years
+        LIIM028:     Female: 5 to 9 years
+        LIIM029:     Female: 10 to 14 years
+        LIIM030:     Female: 15 to 17 years
+        LIIM031:     Female: 18 and 19 years
+        LIIM032:     Female: 20 years
+        LIIM033:     Female: 21 years
+        LIIM034:     Female: 22 to 24 years
+        LIIM035:     Female: 25 to 29 years
+        LIIM036:     Female: 30 to 34 years
+        LIIM037:     Female: 35 to 39 years
+        LIIM038:     Female: 40 to 44 years
+        LIIM039:     Female: 45 to 49 years
+        LIIM040:     Female: 50 to 54 years
+        LIIM041:     Female: 55 to 59 years
+        LIIM042:     Female: 60 and 61 years
+        LIIM043:     Female: 62 to 64 years
+        LIIM044:     Female: 65 and 66 years
+        LIIM045:     Female: 67 to 69 years
+        LIIM046:     Female: 70 to 74 years
+        LIIM047:     Female: 75 to 79 years
+        LIIM048:     Female: 80 to 84 years
+        LIIM049:     Female: 85 years and over
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* REDISTRIBUTION: You will not redistribute the data without permission.
+
+  You may publish a subset of the data to meet journal requirements for accessing 
+  data related to a particular publication. Contact us for permission for any other 
+  redistribution; we will consider requests for free and commercial redistribution.
+
+* CITATION: You will cite NHGIS appropriately.
+
+    * Publications and research reports employing NHGIS data (either tabular or GIS) 
+      should include the following citation:
+
+        Steven Manson, Jonathan Schroeder, David Van Riper, Katherine Knowles, Tracy Kugler, Finn Roberts, and Steven Ruggles.
+        IPUMS National Historical Geographic Information System: Version 18.0 
+        [dataset]. Minneapolis, MN: IPUMS. 2023.
+        http://doi.org/10.18128/D050.V18.0
+
+    * For policy briefs, online resources, or articles in the popular press, we 
+      recommend that you cite the use of NHGIS data as follows:
+
+        IPUMS NHGIS, University of Minnesota, www.nhgis.org.
+
+These terms of use are a legally binding agreement. You can use the data only in 
+accordance with these terms, and any other use is a violation of the agreement. 
+Violations may result in revocation of the agreement and prohibition from using other 
+IPUMS data. If IPUMS or our partners are harmed from your violation, you are 
+responsible for all damages, including reasonable attorney's fees and expenses.
+        
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+
+Send electronic material to: nhgis@umn.edu
+
+Printed matter should be sent to:
+
+    IPUMS NHGIS
+    Institute for Social Research and Data Innovation
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455

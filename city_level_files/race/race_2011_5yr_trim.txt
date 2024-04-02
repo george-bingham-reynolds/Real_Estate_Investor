@@ -1,0 +1,10 @@
+        MNUE001:     Total
+        MNUE002:     White alone
+        MNUE003:     Black or African American alone
+        MNUE004:     American Indian and Alaska Native alone
+        MNUE005:     Asian alone
+        MNUE006:     Native Hawaiian and Other Pacific Islander alone
+        MNUE007:     Some other race alone
+        MNUE008:     Two or more races
+        MNUE009:     Two or more races: Two races including Some other race
+        MNUE010:     Two or more races: Two races excluding Some other race, and three or more races

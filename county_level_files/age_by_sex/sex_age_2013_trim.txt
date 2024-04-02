@@ -1,0 +1,49 @@
+        SASE001:     Total
+        SASE002:     Male
+        SASE003:     Male: Under 5 years
+        SASE004:     Male: 5 to 9 years
+        SASE005:     Male: 10 to 14 years
+        SASE006:     Male: 15 to 17 years
+        SASE007:     Male: 18 and 19 years
+        SASE008:     Male: 20 years
+        SASE009:     Male: 21 years
+        SASE010:     Male: 22 to 24 years
+        SASE011:     Male: 25 to 29 years
+        SASE012:     Male: 30 to 34 years
+        SASE013:     Male: 35 to 39 years
+        SASE014:     Male: 40 to 44 years
+        SASE015:     Male: 45 to 49 years
+        SASE016:     Male: 50 to 54 years
+        SASE017:     Male: 55 to 59 years
+        SASE018:     Male: 60 and 61 years
+        SASE019:     Male: 62 to 64 years
+        SASE020:     Male: 65 and 66 years
+        SASE021:     Male: 67 to 69 years
+        SASE022:     Male: 70 to 74 years
+        SASE023:     Male: 75 to 79 years
+        SASE024:     Male: 80 to 84 years
+        SASE025:     Male: 85 years and over
+        SASE026:     Female
+        SASE027:     Female: Under 5 years
+        SASE028:     Female: 5 to 9 years
+        SASE029:     Female: 10 to 14 years
+        SASE030:     Female: 15 to 17 years
+        SASE031:     Female: 18 and 19 years
+        SASE032:     Female: 20 years
+        SASE033:     Female: 21 years
+        SASE034:     Female: 22 to 24 years
+        SASE035:     Female: 25 to 29 years
+        SASE036:     Female: 30 to 34 years
+        SASE037:     Female: 35 to 39 years
+        SASE038:     Female: 40 to 44 years
+        SASE039:     Female: 45 to 49 years
+        SASE040:     Female: 50 to 54 years
+        SASE041:     Female: 55 to 59 years
+        SASE042:     Female: 60 and 61 years
+        SASE043:     Female: 62 to 64 years
+        SASE044:     Female: 65 and 66 years
+        SASE045:     Female: 67 to 69 years
+        SASE046:     Female: 70 to 74 years
+        SASE047:     Female: 75 to 79 years
+        SASE048:     Female: 80 to 84 years
+        SASE049:     Female: 85 years and over

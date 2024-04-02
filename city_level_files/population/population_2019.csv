@@ -1,0 +1,635 @@
+GISJOIN,YEAR,STUSAB,REGIONA,DIVISIONA,STATE,STATEA,COUNTYA,COUSUBA,PLACE,PLACEA,AIANHHA,ANRCA,CBSAA,CSAA,METDIVA,NECTAA,CNECTAA,NECTADIVA,UAA,CDCURRA,SDELMA,SDSECA,SDUNIA,PCI,PUMAA,GEOID,NAME_E,AKSLE001,NAME_M,AKSLM001
+"G01003076","2019","AL",,,"Alabama","01",,,"Auburn city","03076",,,,,,,,,,,,,,,,"16000US0103076","Auburn city, Alabama",66254,"Auburn city, Alabama",30
+"G01007000","2019","AL",,,"Alabama","01",,,"Birmingham city","07000",,,,,,,,,,,,,,,,"16000US0107000","Birmingham city, Alabama",210080,"Birmingham city, Alabama",1405
+"G01021184","2019","AL",,,"Alabama","01",,,"Dothan city","21184",,,,,,,,,,,,,,,,"16000US0121184","Dothan city, Alabama",68522,"Dothan city, Alabama",688
+"G01035896","2019","AL",,,"Alabama","01",,,"Hoover city","35896",,,,,,,,,,,,,,,,"16000US0135896","Hoover city, Alabama",85772,"Hoover city, Alabama",38
+"G01037000","2019","AL",,,"Alabama","01",,,"Huntsville city","37000",,,,,,,,,,,,,,,,"16000US0137000","Huntsville city, Alabama",201594,"Huntsville city, Alabama",1872
+"G01050000","2019","AL",,,"Alabama","01",,,"Mobile city","50000",,,,,,,,,,,,,,,,"16000US0150000","Mobile city, Alabama",188710,"Mobile city, Alabama",45
+"G01051000","2019","AL",,,"Alabama","01",,,"Montgomery city","51000",,,,,,,,,,,,,,,,"16000US0151000","Montgomery city, Alabama",198525,"Montgomery city, Alabama",23
+"G01077256","2019","AL",,,"Alabama","01",,,"Tuscaloosa city","77256",,,,,,,,,,,,,,,,"16000US0177256","Tuscaloosa city, Alabama",101133,"Tuscaloosa city, Alabama",28
+"G02003000","2019","AK",,,"Alaska","02",,,"Anchorage municipality","03000",,,,,,,,,,,,,,,,"16000US0203000","Anchorage municipality, Alaska",288000,"Anchorage municipality, Alaska",0
+"G04004720","2019","AZ",,,"Arizona","04",,,"Avondale city","04720",,,,,,,,,,,,,,,,"16000US0404720","Avondale city, Arizona",87917,"Avondale city, Arizona",55
+"G04007940","2019","AZ",,,"Arizona","04",,,"Buckeye city","07940",,,,,,,,,,,,,,,,"16000US0407940","Buckeye city, Arizona",79624,"Buckeye city, Arizona",33
+"G04010670","2019","AZ",,,"Arizona","04",,,"Casas Adobes CDP","10670",,,,,,,,,,,,,,,,"16000US0410670","Casas Adobes CDP, Arizona",70840,"Casas Adobes CDP, Arizona",6052
+"G04012000","2019","AZ",,,"Arizona","04",,,"Chandler city","12000",,,,,,,,,,,,,,,,"16000US0412000","Chandler city, Arizona",261149,"Chandler city, Arizona",77
+"G04023620","2019","AZ",,,"Arizona","04",,,"Flagstaff city","23620",,,,,,,,,,,,,,,,"16000US0423620","Flagstaff city, Arizona",75044,"Flagstaff city, Arizona",25
+"G04027400","2019","AZ",,,"Arizona","04",,,"Gilbert town","27400",,,,,,,,,,,,,,,,"16000US0427400","Gilbert town, Arizona",254115,"Gilbert town, Arizona",49
+"G04027820","2019","AZ",,,"Arizona","04",,,"Glendale city","27820",,,,,,,,,,,,,,,,"16000US0427820","Glendale city, Arizona",252384,"Glendale city, Arizona",54
+"G04028380","2019","AZ",,,"Arizona","04",,,"Goodyear city","28380",,,,,,,,,,,,,,,,"16000US0428380","Goodyear city, Arizona",86843,"Goodyear city, Arizona",36
+"G04046000","2019","AZ",,,"Arizona","04",,,"Mesa city","46000",,,,,,,,,,,,,,,,"16000US0446000","Mesa city, Arizona",517981,"Mesa city, Arizona",99
+"G04054050","2019","AZ",,,"Arizona","04",,,"Peoria city","54050",,,,,,,,,,,,,,,,"16000US0454050","Peoria city, Arizona",175960,"Peoria city, Arizona",52
+"G04055000","2019","AZ",,,"Arizona","04",,,"Phoenix city","55000",,,,,,,,,,,,,,,,"16000US0455000","Phoenix city, Arizona",1680988,"Phoenix city, Arizona",76
+"G04064210","2019","AZ",,,"Arizona","04",,,"San Tan Valley CDP","64210",,,,,,,,,,,,,,,,"16000US0464210","San Tan Valley CDP, Arizona",100732,"San Tan Valley CDP, Arizona",9421
+"G04065000","2019","AZ",,,"Arizona","04",,,"Scottsdale city","65000",,,,,,,,,,,,,,,,"16000US0465000","Scottsdale city, Arizona",258064,"Scottsdale city, Arizona",42
+"G04071510","2019","AZ",,,"Arizona","04",,,"Surprise city","71510",,,,,,,,,,,,,,,,"16000US0471510","Surprise city, Arizona",141674,"Surprise city, Arizona",43
+"G04073000","2019","AZ",,,"Arizona","04",,,"Tempe city","73000",,,,,,,,,,,,,,,,"16000US0473000","Tempe city, Arizona",195816,"Tempe city, Arizona",50
+"G04077000","2019","AZ",,,"Arizona","04",,,"Tucson city","77000",,,,,,,,,,,,,,,,"16000US0477000","Tucson city, Arizona",548082,"Tucson city, Arizona",61
+"G04085540","2019","AZ",,,"Arizona","04",,,"Yuma city","85540",,,,,,,,,,,,,,,,"16000US0485540","Yuma city, Arizona",98296,"Yuma city, Arizona",47
+"G05015190","2019","AR",,,"Arkansas","05",,,"Conway city","15190",,,,,,,,,,,,,,,,"16000US0515190","Conway city, Arkansas",67640,"Conway city, Arkansas",17
+"G05023290","2019","AR",,,"Arkansas","05",,,"Fayetteville city","23290",,,,,,,,,,,,,,,,"16000US0523290","Fayetteville city, Arkansas",87585,"Fayetteville city, Arkansas",33
+"G05024550","2019","AR",,,"Arkansas","05",,,"Fort Smith city","24550",,,,,,,,,,,,,,,,"16000US0524550","Fort Smith city, Arkansas",87895,"Fort Smith city, Arkansas",21
+"G05035710","2019","AR",,,"Arkansas","05",,,"Jonesboro city","35710",,,,,,,,,,,,,,,,"16000US0535710","Jonesboro city, Arkansas",78380,"Jonesboro city, Arkansas",49
+"G05041000","2019","AR",,,"Arkansas","05",,,"Little Rock city","41000",,,,,,,,,,,,,,,,"16000US0541000","Little Rock city, Arkansas",197318,"Little Rock city, Arkansas",42
+"G05050450","2019","AR",,,"Arkansas","05",,,"North Little Rock city","50450",,,,,,,,,,,,,,,,"16000US0550450","North Little Rock city, Arkansas",65899,"North Little Rock city, Arkansas",30
+"G05060410","2019","AR",,,"Arkansas","05",,,"Rogers city","60410",,,,,,,,,,,,,,,,"16000US0560410","Rogers city, Arkansas",68674,"Rogers city, Arkansas",34
+"G05066080","2019","AR",,,"Arkansas","05",,,"Springdale city","66080",,,,,,,,,,,,,,,,"16000US0566080","Springdale city, Arkansas",80454,"Springdale city, Arkansas",2308
+"G06000562","2019","CA",,,"California","06",,,"Alameda city","00562",,,,,,,,,,,,,,,,"16000US0600562","Alameda city, California",77630,"Alameda city, California",35
+"G06000884","2019","CA",,,"California","06",,,"Alhambra city","00884",,,,,,,,,,,,,,,,"16000US0600884","Alhambra city, California",83732,"Alhambra city, California",73
+"G06002000","2019","CA",,,"California","06",,,"Anaheim city","02000",,,,,,,,,,,,,,,,"16000US0602000","Anaheim city, California",350351,"Anaheim city, California",74
+"G06002252","2019","CA",,,"California","06",,,"Antioch city","02252",,,,,,,,,,,,,,,,"16000US0602252","Antioch city, California",111506,"Antioch city, California",37
+"G06002364","2019","CA",,,"California","06",,,"Apple Valley town","02364",,,,,,,,,,,,,,,,"16000US0602364","Apple Valley town, California",73464,"Apple Valley town, California",43
+"G06002553","2019","CA",,,"California","06",,,"Arden-Arcade CDP","02553",,,,,,,,,,,,,,,,"16000US0602553","Arden-Arcade CDP, California",108227,"Arden-Arcade CDP, California",8080
+"G06003526","2019","CA",,,"California","06",,,"Bakersfield city","03526",,,,,,,,,,,,,,,,"16000US0603526","Bakersfield city, California",384159,"Bakersfield city, California",62
+"G06003666","2019","CA",,,"California","06",,,"Baldwin Park city","03666",,,,,,,,,,,,,,,,"16000US0603666","Baldwin Park city, California",75240,"Baldwin Park city, California",50
+"G06004982","2019","CA",,,"California","06",,,"Bellflower city","04982",,,,,,,,,,,,,,,,"16000US0604982","Bellflower city, California",76445,"Bellflower city, California",42
+"G06006000","2019","CA",,,"California","06",,,"Berkeley city","06000",,,,,,,,,,,,,,,,"16000US0606000","Berkeley city, California",121353,"Berkeley city, California",43
+"G06008786","2019","CA",,,"California","06",,,"Buena Park city","08786",,,,,,,,,,,,,,,,"16000US0608786","Buena Park city, California",81783,"Buena Park city, California",37
+"G06008954","2019","CA",,,"California","06",,,"Burbank city","08954",,,,,,,,,,,,,,,,"16000US0608954","Burbank city, California",102508,"Burbank city, California",32
+"G06010046","2019","CA",,,"California","06",,,"Camarillo city","10046",,,,,,,,,,,,,,,,"16000US0610046","Camarillo city, California",69887,"Camarillo city, California",29
+"G06011194","2019","CA",,,"California","06",,,"Carlsbad city","11194",,,,,,,,,,,,,,,,"16000US0611194","Carlsbad city, California",115386,"Carlsbad city, California",37
+"G06011390","2019","CA",,,"California","06",,,"Carmichael CDP","11390",,,,,,,,,,,,,,,,"16000US0611390","Carmichael CDP, California",66800,"Carmichael CDP, California",6863
+"G06011530","2019","CA",,,"California","06",,,"Carson city","11530",,,,,,,,,,,,,,,,"16000US0611530","Carson city, California",91407,"Carson city, California",48
+"G06013014","2019","CA",,,"California","06",,,"Chico city","13014",,,,,,,,,,,,,,,,"16000US0613014","Chico city, California",103315,"Chico city, California",54
+"G06013210","2019","CA",,,"California","06",,,"Chino city","13210",,,,,,,,,,,,,,,,"16000US0613210","Chino city, California",94352,"Chino city, California",75
+"G06013214","2019","CA",,,"California","06",,,"Chino Hills city","13214",,,,,,,,,,,,,,,,"16000US0613214","Chino Hills city, California",83843,"Chino Hills city, California",46
+"G06013392","2019","CA",,,"California","06",,,"Chula Vista city","13392",,,,,,,,,,,,,,,,"16000US0613392","Chula Vista city, California",274485,"Chula Vista city, California",52
+"G06013588","2019","CA",,,"California","06",,,"Citrus Heights city","13588",,,,,,,,,,,,,,,,"16000US0613588","Citrus Heights city, California",87792,"Citrus Heights city, California",32
+"G06014218","2019","CA",,,"California","06",,,"Clovis city","14218",,,,,,,,,,,,,,,,"16000US0614218","Clovis city, California",114582,"Clovis city, California",34
+"G06015044","2019","CA",,,"California","06",,,"Compton city","15044",,,,,,,,,,,,,,,,"16000US0615044","Compton city, California",95601,"Compton city, California",36
+"G06016000","2019","CA",,,"California","06",,,"Concord city","16000",,,,,,,,,,,,,,,,"16000US0616000","Concord city, California",129320,"Concord city, California",90
+"G06016350","2019","CA",,,"California","06",,,"Corona city","16350",,,,,,,,,,,,,,,,"16000US0616350","Corona city, California",169854,"Corona city, California",68
+"G06016532","2019","CA",,,"California","06",,,"Costa Mesa city","16532",,,,,,,,,,,,,,,,"16000US0616532","Costa Mesa city, California",113011,"Costa Mesa city, California",46
+"G06017918","2019","CA",,,"California","06",,,"Daly City city","17918",,,,,,,,,,,,,,,,"16000US0617918","Daly City city, California",106294,"Daly City city, California",52
+"G06018100","2019","CA",,,"California","06",,,"Davis city","18100",,,,,,,,,,,,,,,,"16000US0618100","Davis city, California",69420,"Davis city, California",34
+"G06019766","2019","CA",,,"California","06",,,"Downey city","19766",,,,,,,,,,,,,,,,"16000US0619766","Downey city, California",111127,"Downey city, California",26
+"G06020802","2019","CA",,,"California","06",,,"East Los Angeles CDP","20802",,,,,,,,,,,,,,,,"16000US0620802","East Los Angeles CDP, California",119890,"East Los Angeles CDP, California",10492
+"G06021712","2019","CA",,,"California","06",,,"El Cajon city","21712",,,,,,,,,,,,,,,,"16000US0621712","El Cajon city, California",102699,"El Cajon city, California",36
+"G06022020","2019","CA",,,"California","06",,,"Elk Grove city","22020",,,,,,,,,,,,,,,,"16000US0622020","Elk Grove city, California",174791,"Elk Grove city, California",69
+"G06022230","2019","CA",,,"California","06",,,"El Monte city","22230",,,,,,,,,,,,,,,,"16000US0622230","El Monte city, California",115477,"El Monte city, California",48
+"G06022804","2019","CA",,,"California","06",,,"Escondido city","22804",,,,,,,,,,,,,,,,"16000US0622804","Escondido city, California",151619,"Escondido city, California",42
+"G06023182","2019","CA",,,"California","06",,,"Fairfield city","23182",,,,,,,,,,,,,,,,"16000US0623182","Fairfield city, California",117136,"Fairfield city, California",37
+"G06024477","2019","CA",,,"California","06",,,"Florence-Graham CDP","24477",,,,,,,,,,,,,,,,"16000US0624477","Florence-Graham CDP, California",70149,"Florence-Graham CDP, California",8060
+"G06024638","2019","CA",,,"California","06",,,"Folsom city","24638",,,,,,,,,,,,,,,,"16000US0624638","Folsom city, California",81324,"Folsom city, California",28
+"G06024680","2019","CA",,,"California","06",,,"Fontana city","24680",,,,,,,,,,,,,,,,"16000US0624680","Fontana city, California",214557,"Fontana city, California",57
+"G06026000","2019","CA",,,"California","06",,,"Fremont city","26000",,,,,,,,,,,,,,,,"16000US0626000","Fremont city, California",241117,"Fremont city, California",43
+"G06027000","2019","CA",,,"California","06",,,"Fresno city","27000",,,,,,,,,,,,,,,,"16000US0627000","Fresno city, California",531581,"Fresno city, California",59
+"G06028000","2019","CA",,,"California","06",,,"Fullerton city","28000",,,,,,,,,,,,,,,,"16000US0628000","Fullerton city, California",138638,"Fullerton city, California",44
+"G06029000","2019","CA",,,"California","06",,,"Garden Grove city","29000",,,,,,,,,,,,,,,,"16000US0629000","Garden Grove city, California",171670,"Garden Grove city, California",80
+"G06030000","2019","CA",,,"California","06",,,"Glendale city","30000",,,,,,,,,,,,,,,,"16000US0630000","Glendale city, California",199301,"Glendale city, California",37
+"G06032548","2019","CA",,,"California","06",,,"Hawthorne city","32548",,,,,,,,,,,,,,,,"16000US0632548","Hawthorne city, California",86062,"Hawthorne city, California",41
+"G06033000","2019","CA",,,"California","06",,,"Hayward city","33000",,,,,,,,,,,,,,,,"16000US0633000","Hayward city, California",159202,"Hayward city, California",35
+"G06033182","2019","CA",,,"California","06",,,"Hemet city","33182",,,,,,,,,,,,,,,,"16000US0633182","Hemet city, California",85341,"Hemet city, California",39
+"G06033434","2019","CA",,,"California","06",,,"Hesperia city","33434",,,,,,,,,,,,,,,,"16000US0633434","Hesperia city, California",95753,"Hesperia city, California",27
+"G06036000","2019","CA",,,"California","06",,,"Huntington Beach city","36000",,,,,,,,,,,,,,,,"16000US0636000","Huntington Beach city, California",199228,"Huntington Beach city, California",45
+"G06036448","2019","CA",,,"California","06",,,"Indio city","36448",,,,,,,,,,,,,,,,"16000US0636448","Indio city, California",91756,"Indio city, California",38
+"G06036546","2019","CA",,,"California","06",,,"Inglewood city","36546",,,,,,,,,,,,,,,,"16000US0636546","Inglewood city, California",108170,"Inglewood city, California",67
+"G06036770","2019","CA",,,"California","06",,,"Irvine city","36770",,,,,,,,,,,,,,,,"16000US0636770","Irvine city, California",287387,"Irvine city, California",48
+"G06037692","2019","CA",,,"California","06",,,"Jurupa Valley city","37692",,,,,,,,,,,,,,,,"16000US0637692","Jurupa Valley city, California",109525,"Jurupa Valley city, California",31
+"G06039248","2019","CA",,,"California","06",,,"Laguna Niguel city","39248",,,,,,,,,,,,,,,,"16000US0639248","Laguna Niguel city, California",66384,"Laguna Niguel city, California",27
+"G06039486","2019","CA",,,"California","06",,,"Lake Elsinore city","39486",,,,,,,,,,,,,,,,"16000US0639486","Lake Elsinore city, California",69283,"Lake Elsinore city, California",31
+"G06039496","2019","CA",,,"California","06",,,"Lake Forest city","39496",,,,,,,,,,,,,,,,"16000US0639496","Lake Forest city, California",85529,"Lake Forest city, California",33
+"G06039892","2019","CA",,,"California","06",,,"Lakewood city","39892",,,,,,,,,,,,,,,,"16000US0639892","Lakewood city, California",79302,"Lakewood city, California",37
+"G06040130","2019","CA",,,"California","06",,,"Lancaster city","40130",,,,,,,,,,,,,,,,"16000US0640130","Lancaster city, California",157604,"Lancaster city, California",39
+"G06041992","2019","CA",,,"California","06",,,"Livermore city","41992",,,,,,,,,,,,,,,,"16000US0641992","Livermore city, California",90188,"Livermore city, California",33
+"G06042202","2019","CA",,,"California","06",,,"Lodi city","42202",,,,,,,,,,,,,,,,"16000US0642202","Lodi city, California",67581,"Lodi city, California",31
+"G06043000","2019","CA",,,"California","06",,,"Long Beach city","43000",,,,,,,,,,,,,,,,"16000US0643000","Long Beach city, California",462645,"Long Beach city, California",81
+"G06044000","2019","CA",,,"California","06",,,"Los Angeles city","44000",,,,,,,,,,,,,,,,"16000US0644000","Los Angeles city, California",3979537,"Los Angeles city, California",103
+"G06044574","2019","CA",,,"California","06",,,"Lynwood city","44574",,,,,,,,,,,,,,,,"16000US0644574","Lynwood city, California",69902,"Lynwood city, California",56
+"G06045022","2019","CA",,,"California","06",,,"Madera city","45022",,,,,,,,,,,,,,,,"16000US0645022","Madera city, California",65859,"Madera city, California",20
+"G06045484","2019","CA",,,"California","06",,,"Manteca city","45484",,,,,,,,,,,,,,,,"16000US0645484","Manteca city, California",83037,"Manteca city, California",38
+"G06046842","2019","CA",,,"California","06",,,"Menifee city","46842",,,,,,,,,,,,,,,,"16000US0646842","Menifee city, California",94738,"Menifee city, California",63
+"G06046898","2019","CA",,,"California","06",,,"Merced city","46898",,,,,,,,,,,,,,,,"16000US0646898","Merced city, California",83668,"Merced city, California",37
+"G06047766","2019","CA",,,"California","06",,,"Milpitas city","47766",,,,,,,,,,,,,,,,"16000US0647766","Milpitas city, California",84184,"Milpitas city, California",48
+"G06048256","2019","CA",,,"California","06",,,"Mission Viejo city","48256",,,,,,,,,,,,,,,,"16000US0648256","Mission Viejo city, California",94375,"Mission Viejo city, California",43
+"G06048354","2019","CA",,,"California","06",,,"Modesto city","48354",,,,,,,,,,,,,,,,"16000US0648354","Modesto city, California",215196,"Modesto city, California",33
+"G06049270","2019","CA",,,"California","06",,,"Moreno Valley city","49270",,,,,,,,,,,,,,,,"16000US0649270","Moreno Valley city, California",213064,"Moreno Valley city, California",55
+"G06049670","2019","CA",,,"California","06",,,"Mountain View city","49670",,,,,,,,,,,,,,,,"16000US0649670","Mountain View city, California",82726,"Mountain View city, California",46
+"G06050076","2019","CA",,,"California","06",,,"Murrieta city","50076",,,,,,,,,,,,,,,,"16000US0650076","Murrieta city, California",116223,"Murrieta city, California",39
+"G06050258","2019","CA",,,"California","06",,,"Napa city","50258",,,,,,,,,,,,,,,,"16000US0650258","Napa city, California",78130,"Napa city, California",25
+"G06051182","2019","CA",,,"California","06",,,"Newport Beach city","51182",,,,,,,,,,,,,,,,"16000US0651182","Newport Beach city, California",84522,"Newport Beach city, California",48
+"G06052526","2019","CA",,,"California","06",,,"Norwalk city","52526",,,,,,,,,,,,,,,,"16000US0652526","Norwalk city, California",103946,"Norwalk city, California",42
+"G06053000","2019","CA",,,"California","06",,,"Oakland city","53000",,,,,,,,,,,,,,,,"16000US0653000","Oakland city, California",433044,"Oakland city, California",61
+"G06053322","2019","CA",,,"California","06",,,"Oceanside city","53322",,,,,,,,,,,,,,,,"16000US0653322","Oceanside city, California",175762,"Oceanside city, California",81
+"G06053896","2019","CA",,,"California","06",,,"Ontario city","53896",,,,,,,,,,,,,,,,"16000US0653896","Ontario city, California",184999,"Ontario city, California",52
+"G06053980","2019","CA",,,"California","06",,,"Orange city","53980",,,,,,,,,,,,,,,,"16000US0653980","Orange city, California",138661,"Orange city, California",47
+"G06054652","2019","CA",,,"California","06",,,"Oxnard city","54652",,,,,,,,,,,,,,,,"16000US0654652","Oxnard city, California",208875,"Oxnard city, California",57
+"G06055156","2019","CA",,,"California","06",,,"Palmdale city","55156",,,,,,,,,,,,,,,,"16000US0655156","Palmdale city, California",155065,"Palmdale city, California",60
+"G06055282","2019","CA",,,"California","06",,,"Palo Alto city","55282",,,,,,,,,,,,,,,,"16000US0655282","Palo Alto city, California",65365,"Palo Alto city, California",27
+"G06056000","2019","CA",,,"California","06",,,"Pasadena city","56000",,,,,,,,,,,,,,,,"16000US0656000","Pasadena city, California",141040,"Pasadena city, California",50
+"G06056700","2019","CA",,,"California","06",,,"Perris city","56700",,,,,,,,,,,,,,,,"16000US0656700","Perris city, California",79294,"Perris city, California",28
+"G06057456","2019","CA",,,"California","06",,,"Pittsburg city","57456",,,,,,,,,,,,,,,,"16000US0657456","Pittsburg city, California",72569,"Pittsburg city, California",75
+"G06057792","2019","CA",,,"California","06",,,"Pleasanton city","57792",,,,,,,,,,,,,,,,"16000US0657792","Pleasanton city, California",81794,"Pleasanton city, California",65
+"G06058072","2019","CA",,,"California","06",,,"Pomona city","58072",,,,,,,,,,,,,,,,"16000US0658072","Pomona city, California",151696,"Pomona city, California",43
+"G06059444","2019","CA",,,"California","06",,,"Rancho Cordova city","59444",,,,,,,,,,,,,,,,"16000US0659444","Rancho Cordova city, California",75086,"Rancho Cordova city, California",32
+"G06059451","2019","CA",,,"California","06",,,"Rancho Cucamonga city","59451",,,,,,,,,,,,,,,,"16000US0659451","Rancho Cucamonga city, California",177614,"Rancho Cucamonga city, California",48
+"G06059920","2019","CA",,,"California","06",,,"Redding city","59920",,,,,,,,,,,,,,,,"16000US0659920","Redding city, California",92598,"Redding city, California",38
+"G06059962","2019","CA",,,"California","06",,,"Redlands city","59962",,,,,,,,,,,,,,,,"16000US0659962","Redlands city, California",71516,"Redlands city, California",29
+"G06060018","2019","CA",,,"California","06",,,"Redondo Beach city","60018",,,,,,,,,,,,,,,,"16000US0660018","Redondo Beach city, California",66757,"Redondo Beach city, California",41
+"G06060102","2019","CA",,,"California","06",,,"Redwood City city","60102",,,,,,,,,,,,,,,,"16000US0660102","Redwood City city, California",85926,"Redwood City city, California",35
+"G06060466","2019","CA",,,"California","06",,,"Rialto city","60466",,,,,,,,,,,,,,,,"16000US0660466","Rialto city, California",103540,"Rialto city, California",58
+"G06060620","2019","CA",,,"California","06",,,"Richmond city","60620",,,,,,,,,,,,,,,,"16000US0660620","Richmond city, California",110575,"Richmond city, California",44
+"G06062000","2019","CA",,,"California","06",,,"Riverside city","62000",,,,,,,,,,,,,,,,"16000US0662000","Riverside city, California",331369,"Riverside city, California",62
+"G06062364","2019","CA",,,"California","06",,,"Rocklin city","62364",,,,,,,,,,,,,,,,"16000US0662364","Rocklin city, California",68815,"Rocklin city, California",45
+"G06062938","2019","CA",,,"California","06",,,"Roseville city","62938",,,,,,,,,,,,,,,,"16000US0662938","Roseville city, California",141492,"Roseville city, California",38
+"G06064000","2019","CA",,,"California","06",,,"Sacramento city","64000",,,,,,,,,,,,,,,,"16000US0664000","Sacramento city, California",513620,"Sacramento city, California",55
+"G06064224","2019","CA",,,"California","06",,,"Salinas city","64224",,,,,,,,,,,,,,,,"16000US0664224","Salinas city, California",155473,"Salinas city, California",43
+"G06065000","2019","CA",,,"California","06",,,"San Bernardino city","65000",,,,,,,,,,,,,,,,"16000US0665000","San Bernardino city, California",215780,"San Bernardino city, California",38
+"G06065042","2019","CA",,,"California","06",,,"San Buenaventura (Ventura) city","65042",,,,,,,,,,,,,,,,"16000US0665042","San Buenaventura (Ventura) city, California",109108,"San Buenaventura (Ventura) city, California",31
+"G06065084","2019","CA",,,"California","06",,,"San Clemente city","65084",,,,,,,,,,,,,,,,"16000US0665084","San Clemente city, California",64562,"San Clemente city, California",33
+"G06066000","2019","CA",,,"California","06",,,"San Diego city","66000",,,,,,,,,,,,,,,,"16000US0666000","San Diego city, California",1423852,"San Diego city, California",72
+"G06067000","2019","CA",,,"California","06",,,"San Francisco city","67000",,,,,,,,,,,,,,,,"16000US0667000","San Francisco city, California",881549,"San Francisco city, California",0
+"G06068000","2019","CA",,,"California","06",,,"San Jose city","68000",,,,,,,,,,,,,,,,"16000US0668000","San Jose city, California",1021786,"San Jose city, California",78
+"G06068084","2019","CA",,,"California","06",,,"San Leandro city","68084",,,,,,,,,,,,,,,,"16000US0668084","San Leandro city, California",88822,"San Leandro city, California",36
+"G06068196","2019","CA",,,"California","06",,,"San Marcos city","68196",,,,,,,,,,,,,,,,"16000US0668196","San Marcos city, California",96673,"San Marcos city, California",45
+"G06068252","2019","CA",,,"California","06",,,"San Mateo city","68252",,,,,,,,,,,,,,,,"16000US0668252","San Mateo city, California",104438,"San Mateo city, California",48
+"G06068378","2019","CA",,,"California","06",,,"San Ramon city","68378",,,,,,,,,,,,,,,,"16000US0668378","San Ramon city, California",75984,"San Ramon city, California",51
+"G06069000","2019","CA",,,"California","06",,,"Santa Ana city","69000",,,,,,,,,,,,,,,,"16000US0669000","Santa Ana city, California",332332,"Santa Ana city, California",54
+"G06069070","2019","CA",,,"California","06",,,"Santa Barbara city","69070",,,,,,,,,,,,,,,,"16000US0669070","Santa Barbara city, California",91357,"Santa Barbara city, California",36
+"G06069084","2019","CA",,,"California","06",,,"Santa Clara city","69084",,,,,,,,,,,,,,,,"16000US0669084","Santa Clara city, California",130371,"Santa Clara city, California",39
+"G06069088","2019","CA",,,"California","06",,,"Santa Clarita city","69088",,,,,,,,,,,,,,,,"16000US0669088","Santa Clarita city, California",212975,"Santa Clarita city, California",50
+"G06069112","2019","CA",,,"California","06",,,"Santa Cruz city","69112",,,,,,,,,,,,,,,,"16000US0669112","Santa Cruz city, California",64605,"Santa Cruz city, California",25
+"G06069196","2019","CA",,,"California","06",,,"Santa Maria city","69196",,,,,,,,,,,,,,,,"16000US0669196","Santa Maria city, California",107273,"Santa Maria city, California",32
+"G06070000","2019","CA",,,"California","06",,,"Santa Monica city","70000",,,,,,,,,,,,,,,,"16000US0670000","Santa Monica city, California",90401,"Santa Monica city, California",26
+"G06070098","2019","CA",,,"California","06",,,"Santa Rosa city","70098",,,,,,,,,,,,,,,,"16000US0670098","Santa Rosa city, California",176761,"Santa Rosa city, California",40
+"G06072016","2019","CA",,,"California","06",,,"Simi Valley city","72016",,,,,,,,,,,,,,,,"16000US0672016","Simi Valley city, California",125594,"Simi Valley city, California",75
+"G06073080","2019","CA",,,"California","06",,,"South Gate city","73080",,,,,,,,,,,,,,,,"16000US0673080","South Gate city, California",93433,"South Gate city, California",43
+"G06073262","2019","CA",,,"California","06",,,"South San Francisco city","73262",,,,,,,,,,,,,,,,"16000US0673262","South San Francisco city, California",67781,"South San Francisco city, California",39
+"G06075000","2019","CA",,,"California","06",,,"Stockton city","75000",,,,,,,,,,,,,,,,"16000US0675000","Stockton city, California",312682,"Stockton city, California",74
+"G06077000","2019","CA",,,"California","06",,,"Sunnyvale city","77000",,,,,,,,,,,,,,,,"16000US0677000","Sunnyvale city, California",152710,"Sunnyvale city, California",43
+"G06078120","2019","CA",,,"California","06",,,"Temecula city","78120",,,,,,,,,,,,,,,,"16000US0678120","Temecula city, California",114751,"Temecula city, California",48
+"G06078582","2019","CA",,,"California","06",,,"Thousand Oaks city","78582",,,,,,,,,,,,,,,,"16000US0678582","Thousand Oaks city, California",126815,"Thousand Oaks city, California",37
+"G06080000","2019","CA",,,"California","06",,,"Torrance city","80000",,,,,,,,,,,,,,,,"16000US0680000","Torrance city, California",143589,"Torrance city, California",33
+"G06080238","2019","CA",,,"California","06",,,"Tracy city","80238",,,,,,,,,,,,,,,,"16000US0680238","Tracy city, California",94751,"Tracy city, California",51
+"G06080644","2019","CA",,,"California","06",,,"Tulare city","80644",,,,,,,,,,,,,,,,"16000US0680644","Tulare city, California",65508,"Tulare city, California",48
+"G06080812","2019","CA",,,"California","06",,,"Turlock city","80812",,,,,,,,,,,,,,,,"16000US0680812","Turlock city, California",73629,"Turlock city, California",27
+"G06080854","2019","CA",,,"California","06",,,"Tustin city","80854",,,,,,,,,,,,,,,,"16000US0680854","Tustin city, California",79346,"Tustin city, California",35
+"G06081204","2019","CA",,,"California","06",,,"Union City city","81204",,,,,,,,,,,,,,,,"16000US0681204","Union City city, California",74099,"Union City city, California",46
+"G06081344","2019","CA",,,"California","06",,,"Upland city","81344",,,,,,,,,,,,,,,,"16000US0681344","Upland city, California",77123,"Upland city, California",62
+"G06081554","2019","CA",,,"California","06",,,"Vacaville city","81554",,,,,,,,,,,,,,,,"16000US0681554","Vacaville city, California",100669,"Vacaville city, California",42
+"G06081666","2019","CA",,,"California","06",,,"Vallejo city","81666",,,,,,,,,,,,,,,,"16000US0681666","Vallejo city, California",121692,"Vallejo city, California",39
+"G06082590","2019","CA",,,"California","06",,,"Victorville city","82590",,,,,,,,,,,,,,,,"16000US0682590","Victorville city, California",122399,"Victorville city, California",55
+"G06082954","2019","CA",,,"California","06",,,"Visalia city","82954",,,,,,,,,,,,,,,,"16000US0682954","Visalia city, California",134608,"Visalia city, California",37
+"G06082996","2019","CA",,,"California","06",,,"Vista city","82996",,,,,,,,,,,,,,,,"16000US0682996","Vista city, California",101639,"Vista city, California",31
+"G06083346","2019","CA",,,"California","06",,,"Walnut Creek city","83346",,,,,,,,,,,,,,,,"16000US0683346","Walnut Creek city, California",70161,"Walnut Creek city, California",33
+"G06084200","2019","CA",,,"California","06",,,"West Covina city","84200",,,,,,,,,,,,,,,,"16000US0684200","West Covina city, California",105114,"West Covina city, California",57
+"G06084550","2019","CA",,,"California","06",,,"Westminster city","84550",,,,,,,,,,,,,,,,"16000US0684550","Westminster city, California",90642,"Westminster city, California",36
+"G06085292","2019","CA",,,"California","06",,,"Whittier city","85292",,,,,,,,,,,,,,,,"16000US0685292","Whittier city, California",85087,"Whittier city, California",49
+"G06086832","2019","CA",,,"California","06",,,"Yorba Linda city","86832",,,,,,,,,,,,,,,,"16000US0686832","Yorba Linda city, California",67645,"Yorba Linda city, California",30
+"G06086972","2019","CA",,,"California","06",,,"Yuba City city","86972",,,,,,,,,,,,,,,,"16000US0686972","Yuba City city, California",67009,"Yuba City city, California",26
+"G08003455","2019","CO",,,"Colorado","08",,,"Arvada city","03455",,,,,,,,,,,,,,,,"16000US0803455","Arvada city, Colorado",121095,"Arvada city, Colorado",1132
+"G08004000","2019","CO",,,"Colorado","08",,,"Aurora city","04000",,,,,,,,,,,,,,,,"16000US0804000","Aurora city, Colorado",379312,"Aurora city, Colorado",676
+"G08007850","2019","CO",,,"Colorado","08",,,"Boulder city","07850",,,,,,,,,,,,,,,,"16000US0807850","Boulder city, Colorado",105670,"Boulder city, Colorado",28
+"G08009280","2019","CO",,,"Colorado","08",,,"Broomfield city","09280",,,,,,,,,,,,,,,,"16000US0809280","Broomfield city, Colorado",70465,"Broomfield city, Colorado",0
+"G08012415","2019","CO",,,"Colorado","08",,,"Castle Rock town","12415",,,,,,,,,,,,,,,,"16000US0812415","Castle Rock town, Colorado",68494,"Castle Rock town, Colorado",45
+"G08012815","2019","CO",,,"Colorado","08",,,"Centennial city","12815",,,,,,,,,,,,,,,,"16000US0812815","Centennial city, Colorado",110911,"Centennial city, Colorado",96
+"G08016000","2019","CO",,,"Colorado","08",,,"Colorado Springs city","16000",,,,,,,,,,,,,,,,"16000US0816000","Colorado Springs city, Colorado",478215,"Colorado Springs city, Colorado",44
+"G08020000","2019","CO",,,"Colorado","08",,,"Denver city","20000",,,,,,,,,,,,,,,,"16000US0820000","Denver city, Colorado",727211,"Denver city, Colorado",0
+"G08027425","2019","CO",,,"Colorado","08",,,"Fort Collins city","27425",,,,,,,,,,,,,,,,"16000US0827425","Fort Collins city, Colorado",170245,"Fort Collins city, Colorado",29
+"G08032155","2019","CO",,,"Colorado","08",,,"Greeley city","32155",,,,,,,,,,,,,,,,"16000US0832155","Greeley city, Colorado",108650,"Greeley city, Colorado",25
+"G08036410","2019","CO",,,"Colorado","08",,,"Highlands Ranch CDP","36410",,,,,,,,,,,,,,,,"16000US0836410","Highlands Ranch CDP, Colorado",99810,"Highlands Ranch CDP, Colorado",4373
+"G08043000","2019","CO",,,"Colorado","08",,,"Lakewood city","43000",,,,,,,,,,,,,,,,"16000US0843000","Lakewood city, Colorado",157917,"Lakewood city, Colorado",68
+"G08045970","2019","CO",,,"Colorado","08",,,"Longmont city","45970",,,,,,,,,,,,,,,,"16000US0845970","Longmont city, Colorado",96672,"Longmont city, Colorado",24
+"G08046465","2019","CO",,,"Colorado","08",,,"Loveland city","46465",,,,,,,,,,,,,,,,"16000US0846465","Loveland city, Colorado",78871,"Loveland city, Colorado",34
+"G08062000","2019","CO",,,"Colorado","08",,,"Pueblo city","62000",,,,,,,,,,,,,,,,"16000US0862000","Pueblo city, Colorado",112357,"Pueblo city, Colorado",28
+"G08077290","2019","CO",,,"Colorado","08",,,"Thornton city","77290",,,,,,,,,,,,,,,,"16000US0877290","Thornton city, Colorado",141454,"Thornton city, Colorado",49
+"G08083835","2019","CO",,,"Colorado","08",,,"Westminster city","83835",,,,,,,,,,,,,,,,"16000US0883835","Westminster city, Colorado",113179,"Westminster city, Colorado",52
+"G09008000","2019","CT",,,"Connecticut","09",,,"Bridgeport city","08000",,,,,,,,,,,,,,,,"16000US0908000","Bridgeport city, Connecticut",144365,"Bridgeport city, Connecticut",115
+"G09018430","2019","CT",,,"Connecticut","09",,,"Danbury city","18430",,,,,,,,,,,,,,,,"16000US0918430","Danbury city, Connecticut",84692,"Danbury city, Connecticut",26
+"G09037000","2019","CT",,,"Connecticut","09",,,"Hartford city","37000",,,,,,,,,,,,,,,,"16000US0937000","Hartford city, Connecticut",122107,"Hartford city, Connecticut",33
+"G09050370","2019","CT",,,"Connecticut","09",,,"New Britain city","50370",,,,,,,,,,,,,,,,"16000US0950370","New Britain city, Connecticut",72491,"New Britain city, Connecticut",31
+"G09052000","2019","CT",,,"Connecticut","09",,,"New Haven city","52000",,,,,,,,,,,,,,,,"16000US0952000","New Haven city, Connecticut",130257,"New Haven city, Connecticut",38
+"G09055990","2019","CT",,,"Connecticut","09",,,"Norwalk city","55990",,,,,,,,,,,,,,,,"16000US0955990","Norwalk city, Connecticut",88826,"Norwalk city, Connecticut",44
+"G09073000","2019","CT",,,"Connecticut","09",,,"Stamford city","73000",,,,,,,,,,,,,,,,"16000US0973000","Stamford city, Connecticut",129636,"Stamford city, Connecticut",26
+"G09080000","2019","CT",,,"Connecticut","09",,,"Waterbury city","80000",,,,,,,,,,,,,,,,"16000US0980000","Waterbury city, Connecticut",107577,"Waterbury city, Connecticut",48
+"G10077580","2019","DE",,,"Delaware","10",,,"Wilmington city","77580",,,,,,,,,,,,,,,,"16000US1077580","Wilmington city, Delaware",70164,"Wilmington city, Delaware",27
+"G11050000","2019","DC",,,"District of Columbia","11",,,"Washington city","50000",,,,,,,,,,,,,,,,"16000US1150000","Washington city, District of Columbia",705749,"Washington city, District of Columbia",0
+"G12000410","2019","FL",,,"Florida","12",,,"Alafaya CDP","00410",,,,,,,,,,,,,,,,"16000US1200410","Alafaya CDP, Florida",96528,"Alafaya CDP, Florida",15251
+"G12007300","2019","FL",,,"Florida","12",,,"Boca Raton city","07300",,,,,,,,,,,,,,,,"16000US1207300","Boca Raton city, Florida",99795,"Boca Raton city, Florida",41
+"G12007875","2019","FL",,,"Florida","12",,,"Boynton Beach city","07875",,,,,,,,,,,,,,,,"16000US1207875","Boynton Beach city, Florida",78690,"Boynton Beach city, Florida",46
+"G12008150","2019","FL",,,"Florida","12",,,"Brandon CDP","08150",,,,,,,,,,,,,,,,"16000US1208150","Brandon CDP, Florida",116829,"Brandon CDP, Florida",10196
+"G12010275","2019","FL",,,"Florida","12",,,"Cape Coral city","10275",,,,,,,,,,,,,,,,"16000US1210275","Cape Coral city, Florida",194504,"Cape Coral city, Florida",37
+"G12012875","2019","FL",,,"Florida","12",,,"Clearwater city","12875",,,,,,,,,,,,,,,,"16000US1212875","Clearwater city, Florida",116938,"Clearwater city, Florida",37
+"G12014400","2019","FL",,,"Florida","12",,,"Coral Springs city","14400",,,,,,,,,,,,,,,,"16000US1214400","Coral Springs city, Florida",133765,"Coral Springs city, Florida",40
+"G12016475","2019","FL",,,"Florida","12",,,"Davie town","16475",,,,,,,,,,,,,,,,"16000US1216475","Davie town, Florida",106310,"Davie town, Florida",37
+"G12016525","2019","FL",,,"Florida","12",,,"Daytona Beach city","16525",,,,,,,,,,,,,,,,"16000US1216525","Daytona Beach city, Florida",69197,"Daytona Beach city, Florida",47
+"G12016725","2019","FL",,,"Florida","12",,,"Deerfield Beach city","16725",,,,,,,,,,,,,,,,"16000US1216725","Deerfield Beach city, Florida",81070,"Deerfield Beach city, Florida",33
+"G12017100","2019","FL",,,"Florida","12",,,"Delray Beach city","17100",,,,,,,,,,,,,,,,"16000US1217100","Delray Beach city, Florida",69449,"Delray Beach city, Florida",29
+"G12017200","2019","FL",,,"Florida","12",,,"Deltona city","17200",,,,,,,,,,,,,,,,"16000US1217200","Deltona city, Florida",92752,"Deltona city, Florida",35
+"G12017935","2019","FL",,,"Florida","12",,,"Doral city","17935",,,,,,,,,,,,,,,,"16000US1217935","Doral city, Florida",65746,"Doral city, Florida",28
+"G12024000","2019","FL",,,"Florida","12",,,"Fort Lauderdale city","24000",,,,,,,,,,,,,,,,"16000US1224000","Fort Lauderdale city, Florida",182434,"Fort Lauderdale city, Florida",33
+"G12024125","2019","FL",,,"Florida","12",,,"Fort Myers city","24125",,,,,,,,,,,,,,,,"16000US1224125","Fort Myers city, Florida",87111,"Fort Myers city, Florida",45
+"G12024562","2019","FL",,,"Florida","12",,,"Fountainebleau CDP","24562",,,,,,,,,,,,,,,,"16000US1224562","Fountainebleau CDP, Florida",68619,"Fountainebleau CDP, Florida",6984
+"G12025175","2019","FL",,,"Florida","12",,,"Gainesville city","25175",,,,,,,,,,,,,,,,"16000US1225175","Gainesville city, Florida",133990,"Gainesville city, Florida",39
+"G12030000","2019","FL",,,"Florida","12",,,"Hialeah city","30000",,,,,,,,,,,,,,,,"16000US1230000","Hialeah city, Florida",233362,"Hialeah city, Florida",74
+"G12032000","2019","FL",,,"Florida","12",,,"Hollywood city","32000",,,,,,,,,,,,,,,,"16000US1232000","Hollywood city, Florida",154802,"Hollywood city, Florida",62
+"G12032275","2019","FL",,,"Florida","12",,,"Homestead city","32275",,,,,,,,,,,,,,,,"16000US1232275","Homestead city, Florida",69526,"Homestead city, Florida",29
+"G12035000","2019","FL",,,"Florida","12",,,"Jacksonville city","35000",,,,,,,,,,,,,,,,"16000US1235000","Jacksonville city, Florida",911528,"Jacksonville city, Florida",74
+"G12035875","2019","FL",,,"Florida","12",,,"Jupiter town","35875",,,,,,,,,,,,,,,,"16000US1235875","Jupiter town, Florida",65797,"Jupiter town, Florida",33
+"G12036100","2019","FL",,,"Florida","12",,,"Kendall CDP","36100",,,,,,,,,,,,,,,,"16000US1236100","Kendall CDP, Florida",80410,"Kendall CDP, Florida",9473
+"G12036950","2019","FL",,,"Florida","12",,,"Kissimmee city","36950",,,,,,,,,,,,,,,,"16000US1236950","Kissimmee city, Florida",72701,"Kissimmee city, Florida",58
+"G12038250","2019","FL",,,"Florida","12",,,"Lakeland city","38250",,,,,,,,,,,,,,,,"16000US1238250","Lakeland city, Florida",112142,"Lakeland city, Florida",45
+"G12039425","2019","FL",,,"Florida","12",,,"Largo city","39425",,,,,,,,,,,,,,,,"16000US1239425","Largo city, Florida",84957,"Largo city, Florida",36
+"G12039550","2019","FL",,,"Florida","12",,,"Lauderhill city","39550",,,,,,,,,,,,,,,,"16000US1239550","Lauderhill city, Florida",71863,"Lauderhill city, Florida",34
+"G12039925","2019","FL",,,"Florida","12",,,"Lehigh Acres CDP","39925",,,,,,,,,,,,,,,,"16000US1239925","Lehigh Acres CDP, Florida",134667,"Lehigh Acres CDP, Florida",7726
+"G12043975","2019","FL",,,"Florida","12",,,"Melbourne city","43975",,,,,,,,,,,,,,,,"16000US1243975","Melbourne city, Florida",83030,"Melbourne city, Florida",32
+"G12045000","2019","FL",,,"Florida","12",,,"Miami city","45000",,,,,,,,,,,,,,,,"16000US1245000","Miami city, Florida",467968,"Miami city, Florida",56
+"G12045025","2019","FL",,,"Florida","12",,,"Miami Beach city","45025",,,,,,,,,,,,,,,,"16000US1245025","Miami Beach city, Florida",88885,"Miami Beach city, Florida",24
+"G12045060","2019","FL",,,"Florida","12",,,"Miami Gardens city","45060",,,,,,,,,,,,,,,,"16000US1245060","Miami Gardens city, Florida",110003,"Miami Gardens city, Florida",32
+"G12045975","2019","FL",,,"Florida","12",,,"Miramar city","45975",,,,,,,,,,,,,,,,"16000US1245975","Miramar city, Florida",141196,"Miramar city, Florida",38
+"G12049675","2019","FL",,,"Florida","12",,,"North Port city","49675",,,,,,,,,,,,,,,,"16000US1249675","North Port city, Florida",70722,"North Port city, Florida",21
+"G12053000","2019","FL",,,"Florida","12",,,"Orlando city","53000",,,,,,,,,,,,,,,,"16000US1253000","Orlando city, Florida",287435,"Orlando city, Florida",49
+"G12054000","2019","FL",,,"Florida","12",,,"Palm Bay city","54000",,,,,,,,,,,,,,,,"16000US1254000","Palm Bay city, Florida",115560,"Palm Bay city, Florida",33
+"G12054200","2019","FL",,,"Florida","12",,,"Palm Coast city","54200",,,,,,,,,,,,,,,,"16000US1254200","Palm Coast city, Florida",89797,"Palm Coast city, Florida",23
+"G12055775","2019","FL",,,"Florida","12",,,"Pembroke Pines city","55775",,,,,,,,,,,,,,,,"16000US1255775","Pembroke Pines city, Florida",173591,"Pembroke Pines city, Florida",41
+"G12056825","2019","FL",,,"Florida","12",,,"Pine Hills CDP","56825",,,,,,,,,,,,,,,,"16000US1256825","Pine Hills CDP, Florida",94802,"Pine Hills CDP, Florida",12640
+"G12057425","2019","FL",,,"Florida","12",,,"Plantation city","57425",,,,,,,,,,,,,,,,"16000US1257425","Plantation city, Florida",94605,"Plantation city, Florida",89
+"G12057900","2019","FL",,,"Florida","12",,,"Poinciana CDP","57900",,,,,,,,,,,,,,,,"16000US1257900","Poinciana CDP, Florida",72545,"Poinciana CDP, Florida",13199
+"G12058050","2019","FL",,,"Florida","12",,,"Pompano Beach city","58050",,,,,,,,,,,,,,,,"16000US1258050","Pompano Beach city, Florida",112122,"Pompano Beach city, Florida",36
+"G12058350","2019","FL",,,"Florida","12",,,"Port Charlotte CDP","58350",,,,,,,,,,,,,,,,"16000US1258350","Port Charlotte CDP, Florida",65951,"Port Charlotte CDP, Florida",5480
+"G12058715","2019","FL",,,"Florida","12",,,"Port St. Lucie city","58715",,,,,,,,,,,,,,,,"16000US1258715","Port St. Lucie city, Florida",201858,"Port St. Lucie city, Florida",46
+"G12060950","2019","FL",,,"Florida","12",,,"Riverview CDP","60950",,,,,,,,,,,,,,,,"16000US1260950","Riverview CDP, Florida",97034,"Riverview CDP, Florida",10200
+"G12063000","2019","FL",,,"Florida","12",,,"St. Petersburg city","63000",,,,,,,,,,,,,,,,"16000US1263000","St. Petersburg city, Florida",265358,"St. Petersburg city, Florida",47
+"G12068350","2019","FL",,,"Florida","12",,,"Spring Hill CDP","68350",,,,,,,,,,,,,,,,"16000US1268350","Spring Hill CDP, Florida",113787,"Spring Hill CDP, Florida",4597
+"G12069700","2019","FL",,,"Florida","12",,,"Sunrise city","69700",,,,,,,,,,,,,,,,"16000US1269700","Sunrise city, Florida",95153,"Sunrise city, Florida",49
+"G12070600","2019","FL",,,"Florida","12",,,"Tallahassee city","70600",,,,,,,,,,,,,,,,"16000US1270600","Tallahassee city, Florida",194503,"Tallahassee city, Florida",36
+"G12070675","2019","FL",,,"Florida","12",,,"Tamarac city","70675",,,,,,,,,,,,,,,,"16000US1270675","Tamarac city, Florida",66712,"Tamarac city, Florida",42
+"G12071000","2019","FL",,,"Florida","12",,,"Tampa city","71000",,,,,,,,,,,,,,,,"16000US1271000","Tampa city, Florida",399690,"Tampa city, Florida",57
+"G12071569","2019","FL",,,"Florida","12",,,"The Hammocks CDP","71569",,,,,,,,,,,,,,,,"16000US1271569","The Hammocks CDP, Florida",65765,"The Hammocks CDP, Florida",9145
+"G12071625","2019","FL",,,"Florida","12",,,"The Villages CDP","71625",,,,,,,,,,,,,,,,"16000US1271625","The Villages CDP, Florida",85377,"The Villages CDP, Florida",5204
+"G12072145","2019","FL",,,"Florida","12",,,"Town 'n' Country CDP","72145",,,,,,,,,,,,,,,,"16000US1272145","Town 'n' Country CDP, Florida",98550,"Town 'n' Country CDP, Florida",12248
+"G12075812","2019","FL",,,"Florida","12",,,"Wellington village","75812",,,,,,,,,,,,,,,,"16000US1275812","Wellington village, Florida",65389,"Wellington village, Florida",40
+"G12075875","2019","FL",,,"Florida","12",,,"Wesley Chapel CDP","75875",,,,,,,,,,,,,,,,"16000US1275875","Wesley Chapel CDP, Florida",62516,"Wesley Chapel CDP, Florida",5646
+"G12076582","2019","FL",,,"Florida","12",,,"Weston city","76582",,,,,,,,,,,,,,,,"16000US1276582","Weston city, Florida",71164,"Weston city, Florida",25
+"G12076600","2019","FL",,,"Florida","12",,,"West Palm Beach city","76600",,,,,,,,,,,,,,,,"16000US1276600","West Palm Beach city, Florida",111952,"West Palm Beach city, Florida",36
+"G13001052","2019","GA",,,"Georgia","13",,,"Albany city","01052",,,,,,,,,,,,,,,,"16000US1301052","Albany city, Georgia",70643,"Albany city, Georgia",2918
+"G13001696","2019","GA",,,"Georgia","13",,,"Alpharetta city","01696",,,,,,,,,,,,,,,,"16000US1301696","Alpharetta city, Georgia",67208,"Alpharetta city, Georgia",33
+"G13003440","2019","GA",,,"Georgia","13",,,"Athens-Clarke County unified government (balance)","03440",,,,,,,,,,,,,,,,"16000US1303440","Athens-Clarke County unified government (balance), Georgia",126718,"Athens-Clarke County unified government (balance), Georgia",861
+"G13004000","2019","GA",,,"Georgia","13",,,"Atlanta city","04000",,,,,,,,,,,,,,,,"16000US1304000","Atlanta city, Georgia",506804,"Atlanta city, Georgia",49
+"G13004204","2019","GA",,,"Georgia","13",,,"Augusta-Richmond County consolidated government (balance)","04204",,,,,,,,,,,,,,,,"16000US1304204","Augusta-Richmond County consolidated government (balance), Georgia",197325,"Augusta-Richmond County consolidated government (balance), Georgia",2268
+"G13019000","2019","GA",,,"Georgia","13",,,"Columbus city","19000",,,,,,,,,,,,,,,,"16000US1319000","Columbus city, Georgia",195769,"Columbus city, Georgia",0
+"G13042425","2019","GA",,,"Georgia","13",,,"Johns Creek city","42425",,,,,,,,,,,,,,,,"16000US1342425","Johns Creek city, Georgia",84590,"Johns Creek city, Georgia",53
+"G13049008","2019","GA",,,"Georgia","13",,,"Macon-Bibb County","49008",,,,,,,,,,,,,,,,"16000US1349008","Macon-Bibb County, Georgia",153159,"Macon-Bibb County, Georgia",0
+"G13067284","2019","GA",,,"Georgia","13",,,"Roswell city","67284",,,,,,,,,,,,,,,,"16000US1367284","Roswell city, Georgia",94747,"Roswell city, Georgia",63
+"G13068516","2019","GA",,,"Georgia","13",,,"Sandy Springs city","68516",,,,,,,,,,,,,,,,"16000US1368516","Sandy Springs city, Georgia",109466,"Sandy Springs city, Georgia",50
+"G13069000","2019","GA",,,"Georgia","13",,,"Savannah city","69000",,,,,,,,,,,,,,,,"16000US1369000","Savannah city, Georgia",144457,"Savannah city, Georgia",37
+"G13072122","2019","GA",,,"Georgia","13",,,"South Fulton city","72122",,,,,,,,,,,,,,,,"16000US1372122","South Fulton city, Georgia",99152,"South Fulton city, Georgia",21
+"G13080508","2019","GA",,,"Georgia","13",,,"Warner Robins city","80508",,,,,,,,,,,,,,,,"16000US1380508","Warner Robins city, Georgia",77421,"Warner Robins city, Georgia",399
+"G15071550","2019","HI",,,"Hawaii","15",,,"Urban Honolulu CDP","71550",,,,,,,,,,,,,,,,"16000US1571550","Urban Honolulu CDP, Hawaii",345055,"Urban Honolulu CDP, Hawaii",57
+"G16008830","2019","ID",,,"Idaho","16",,,"Boise City city","08830",,,,,,,,,,,,,,,,"16000US1608830","Boise City city, Idaho",228965,"Boise City city, Idaho",32
+"G16052120","2019","ID",,,"Idaho","16",,,"Meridian city","52120",,,,,,,,,,,,,,,,"16000US1652120","Meridian city, Idaho",114161,"Meridian city, Idaho",24
+"G16056260","2019","ID",,,"Idaho","16",,,"Nampa city","56260",,,,,,,,,,,,,,,,"16000US1656260","Nampa city, Idaho",99276,"Nampa city, Idaho",25
+"G17002154","2019","IL",,,"Illinois","17",,,"Arlington Heights village","02154",,,,,,,,,,,,,,,,"16000US1702154","Arlington Heights village, Illinois",71825,"Arlington Heights village, Illinois",2491
+"G17003012","2019","IL",,,"Illinois","17",,,"Aurora city","03012",,,,,,,,,,,,,,,,"16000US1703012","Aurora city, Illinois",198827,"Aurora city, Illinois",6694
+"G17006613","2019","IL",,,"Illinois","17",,,"Bloomington city","06613",,,,,,,,,,,,,,,,"16000US1706613","Bloomington city, Illinois",77323,"Bloomington city, Illinois",30
+"G17007133","2019","IL",,,"Illinois","17",,,"Bolingbrook village","07133",,,,,,,,,,,,,,,,"16000US1707133","Bolingbrook village, Illinois",73304,"Bolingbrook village, Illinois",4151
+"G17012385","2019","IL",,,"Illinois","17",,,"Champaign city","12385",,,,,,,,,,,,,,,,"16000US1712385","Champaign city, Illinois",88919,"Champaign city, Illinois",43
+"G17014000","2019","IL",,,"Illinois","17",,,"Chicago city","14000",,,,,,,,,,,,,,,,"16000US1714000","Chicago city, Illinois",2693959,"Chicago city, Illinois",61
+"G17014351","2019","IL",,,"Illinois","17",,,"Cicero town","14351",,,,,,,,,,,,,,,,"16000US1714351","Cicero town, Illinois",80801,"Cicero town, Illinois",25
+"G17018823","2019","IL",,,"Illinois","17",,,"Decatur city","18823",,,,,,,,,,,,,,,,"16000US1718823","Decatur city, Illinois",69553,"Decatur city, Illinois",2316
+"G17023074","2019","IL",,,"Illinois","17",,,"Elgin city","23074",,,,,,,,,,,,,,,,"16000US1723074","Elgin city, Illinois",110889,"Elgin city, Illinois",4928
+"G17024582","2019","IL",,,"Illinois","17",,,"Evanston city","24582",,,,,,,,,,,,,,,,"16000US1724582","Evanston city, Illinois",73470,"Evanston city, Illinois",30
+"G17038570","2019","IL",,,"Illinois","17",,,"Joliet city","38570",,,,,,,,,,,,,,,,"16000US1738570","Joliet city, Illinois",148806,"Joliet city, Illinois",6480
+"G17051622","2019","IL",,,"Illinois","17",,,"Naperville city","51622",,,,,,,,,,,,,,,,"16000US1751622","Naperville city, Illinois",149640,"Naperville city, Illinois",2082
+"G17057225","2019","IL",,,"Illinois","17",,,"Palatine village","57225",,,,,,,,,,,,,,,,"16000US1757225","Palatine village, Illinois",67436,"Palatine village, Illinois",31
+"G17059000","2019","IL",,,"Illinois","17",,,"Peoria city","59000",,,,,,,,,,,,,,,,"16000US1759000","Peoria city, Illinois",109936,"Peoria city, Illinois",2128
+"G17065000","2019","IL",,,"Illinois","17",,,"Rockford city","65000",,,,,,,,,,,,,,,,"16000US1765000","Rockford city, Illinois",143707,"Rockford city, Illinois",1852
+"G17068003","2019","IL",,,"Illinois","17",,,"Schaumburg village","68003",,,,,,,,,,,,,,,,"16000US1768003","Schaumburg village, Illinois",72862,"Schaumburg village, Illinois",1748
+"G17070122","2019","IL",,,"Illinois","17",,,"Skokie village","70122",,,,,,,,,,,,,,,,"16000US1770122","Skokie village, Illinois",62691,"Skokie village, Illinois",43
+"G17072000","2019","IL",,,"Illinois","17",,,"Springfield city","72000",,,,,,,,,,,,,,,,"16000US1772000","Springfield city, Illinois",114171,"Springfield city, Illinois",180
+"G17079293","2019","IL",,,"Illinois","17",,,"Waukegan city","79293",,,,,,,,,,,,,,,,"16000US1779293","Waukegan city, Illinois",86262,"Waukegan city, Illinois",4926
+"G18005860","2019","IN",,,"Indiana","18",,,"Bloomington city","05860",,,,,,,,,,,,,,,,"16000US1805860","Bloomington city, Indiana",86630,"Bloomington city, Indiana",2838
+"G18010342","2019","IN",,,"Indiana","18",,,"Carmel city","10342",,,,,,,,,,,,,,,,"16000US1810342","Carmel city, Indiana",101918,"Carmel city, Indiana",941
+"G18022000","2019","IN",,,"Indiana","18",,,"Evansville city","22000",,,,,,,,,,,,,,,,"16000US1822000","Evansville city, Indiana",117557,"Evansville city, Indiana",3793
+"G18023278","2019","IN",,,"Indiana","18",,,"Fishers city","23278",,,,,,,,,,,,,,,,"16000US1823278","Fishers city, Indiana",96301,"Fishers city, Indiana",1772
+"G18025000","2019","IN",,,"Indiana","18",,,"Fort Wayne city","25000",,,,,,,,,,,,,,,,"16000US1825000","Fort Wayne city, Indiana",262907,"Fort Wayne city, Indiana",4274
+"G18027000","2019","IN",,,"Indiana","18",,,"Gary city","27000",,,,,,,,,,,,,,,,"16000US1827000","Gary city, Indiana",70778,"Gary city, Indiana",3871
+"G18031000","2019","IN",,,"Indiana","18",,,"Hammond city","31000",,,,,,,,,,,,,,,,"16000US1831000","Hammond city, Indiana",75517,"Hammond city, Indiana",33
+"G18036003","2019","IN",,,"Indiana","18",,,"Indianapolis city (balance)","36003",,,,,,,,,,,,,,,,"16000US1836003","Indianapolis city (balance), Indiana",870340,"Indianapolis city (balance), Indiana",6347
+"G18040788","2019","IN",,,"Indiana","18",,,"Lafayette city","40788",,,,,,,,,,,,,,,,"16000US1840788","Lafayette city, Indiana",72633,"Lafayette city, Indiana",2786
+"G18051876","2019","IN",,,"Indiana","18",,,"Muncie city","51876",,,,,,,,,,,,,,,,"16000US1851876","Muncie city, Indiana",67967,"Muncie city, Indiana",1934
+"G18054180","2019","IN",,,"Indiana","18",,,"Noblesville city","54180",,,,,,,,,,,,,,,,"16000US1854180","Noblesville city, Indiana",63325,"Noblesville city, Indiana",2880
+"G18071000","2019","IN",,,"Indiana","18",,,"South Bend city","71000",,,,,,,,,,,,,,,,"16000US1871000","South Bend city, Indiana",102602,"South Bend city, Indiana",3393
+"G19001855","2019","IA",,,"Iowa","19",,,"Ames city","01855",,,,,,,,,,,,,,,,"16000US1901855","Ames city, Iowa",66258,"Ames city, Iowa",18
+"G19002305","2019","IA",,,"Iowa","19",,,"Ankeny city","02305",,,,,,,,,,,,,,,,"16000US1902305","Ankeny city, Iowa",67347,"Ankeny city, Iowa",34
+"G19012000","2019","IA",,,"Iowa","19",,,"Cedar Rapids city","12000",,,,,,,,,,,,,,,,"16000US1912000","Cedar Rapids city, Iowa",133563,"Cedar Rapids city, Iowa",27
+"G19019000","2019","IA",,,"Iowa","19",,,"Davenport city","19000",,,,,,,,,,,,,,,,"16000US1919000","Davenport city, Iowa",101591,"Davenport city, Iowa",22
+"G19021000","2019","IA",,,"Iowa","19",,,"Des Moines city","21000",,,,,,,,,,,,,,,,"16000US1921000","Des Moines city, Iowa",214200,"Des Moines city, Iowa",417
+"G19038595","2019","IA",,,"Iowa","19",,,"Iowa City city","38595",,,,,,,,,,,,,,,,"16000US1938595","Iowa City city, Iowa",75149,"Iowa City city, Iowa",68
+"G19073335","2019","IA",,,"Iowa","19",,,"Sioux City city","73335",,,,,,,,,,,,,,,,"16000US1973335","Sioux City city, Iowa",83288,"Sioux City city, Iowa",2791
+"G19082425","2019","IA",,,"Iowa","19",,,"Waterloo city","82425",,,,,,,,,,,,,,,,"16000US1982425","Waterloo city, Iowa",67326,"Waterloo city, Iowa",25
+"G19083910","2019","IA",,,"Iowa","19",,,"West Des Moines city","83910",,,,,,,,,,,,,,,,"16000US1983910","West Des Moines city, Iowa",67696,"West Des Moines city, Iowa",2717
+"G20036000","2019","KS",,,"Kansas","20",,,"Kansas City city","36000",,,,,,,,,,,,,,,,"16000US2036000","Kansas City city, Kansas",152818,"Kansas City city, Kansas",2594
+"G20038900","2019","KS",,,"Kansas","20",,,"Lawrence city","38900",,,,,,,,,,,,,,,,"16000US2038900","Lawrence city, Kansas",98196,"Lawrence city, Kansas",20
+"G20052575","2019","KS",,,"Kansas","20",,,"Olathe city","52575",,,,,,,,,,,,,,,,"16000US2052575","Olathe city, Kansas",140557,"Olathe city, Kansas",60
+"G20053775","2019","KS",,,"Kansas","20",,,"Overland Park city","53775",,,,,,,,,,,,,,,,"16000US2053775","Overland Park city, Kansas",195483,"Overland Park city, Kansas",64
+"G20064500","2019","KS",,,"Kansas","20",,,"Shawnee city","64500",,,,,,,,,,,,,,,,"16000US2064500","Shawnee city, Kansas",65810,"Shawnee city, Kansas",30
+"G20071000","2019","KS",,,"Kansas","20",,,"Topeka city","71000",,,,,,,,,,,,,,,,"16000US2071000","Topeka city, Kansas",125318,"Topeka city, Kansas",37
+"G20079000","2019","KS",,,"Kansas","20",,,"Wichita city","79000",,,,,,,,,,,,,,,,"16000US2079000","Wichita city, Kansas",389914,"Wichita city, Kansas",87
+"G21008902","2019","KY",,,"Kentucky","21",,,"Bowling Green city","08902",,,,,,,,,,,,,,,,"16000US2108902","Bowling Green city, Kentucky",70542,"Bowling Green city, Kentucky",23
+"G21046027","2019","KY",,,"Kentucky","21",,,"Lexington-Fayette urban county","46027",,,,,,,,,,,,,,,,"16000US2146027","Lexington-Fayette urban county, Kentucky",323152,"Lexington-Fayette urban county, Kentucky",0
+"G21048006","2019","KY",,,"Kentucky","21",,,"Louisville/Jefferson County metro government (balance)","48006",,,,,,,,,,,,,,,,"16000US2148006","Louisville/Jefferson County metro government (balance), Kentucky",617630,"Louisville/Jefferson County metro government (balance), Kentucky",69
+"G22005000","2019","LA",,,"Louisiana","22",,,"Baton Rouge city","05000",,,,,,,,,,,,,,,,"16000US2205000","Baton Rouge city, Louisiana",220248,"Baton Rouge city, Louisiana",52
+"G22008920","2019","LA",,,"Louisiana","22",,,"Bossier City city","08920",,,,,,,,,,,,,,,,"16000US2208920","Bossier City city, Louisiana",68147,"Bossier City city, Louisiana",44
+"G22039475","2019","LA",,,"Louisiana","22",,,"Kenner city","39475",,,,,,,,,,,,,,,,"16000US2239475","Kenner city, Louisiana",66355,"Kenner city, Louisiana",57
+"G22040735","2019","LA",,,"Louisiana","22",,,"Lafayette city","40735",,,,,,,,,,,,,,,,"16000US2240735","Lafayette city, Louisiana",126199,"Lafayette city, Louisiana",52
+"G22041155","2019","LA",,,"Louisiana","22",,,"Lake Charles city","41155",,,,,,,,,,,,,,,,"16000US2241155","Lake Charles city, Louisiana",78395,"Lake Charles city, Louisiana",25
+"G22050115","2019","LA",,,"Louisiana","22",,,"Metairie CDP","50115",,,,,,,,,,,,,,,,"16000US2250115","Metairie CDP, Louisiana",130427,"Metairie CDP, Louisiana",7720
+"G22055000","2019","LA",,,"Louisiana","22",,,"New Orleans city","55000",,,,,,,,,,,,,,,,"16000US2255000","New Orleans city, Louisiana",390144,"New Orleans city, Louisiana",0
+"G22070000","2019","LA",,,"Louisiana","22",,,"Shreveport city","70000",,,,,,,,,,,,,,,,"16000US2270000","Shreveport city, Louisiana",186815,"Shreveport city, Louisiana",1005
+"G23060545","2019","ME",,,"Maine","23",,,"Portland city","60545",,,,,,,,,,,,,,,,"16000US2360545","Portland city, Maine",66218,"Portland city, Maine",21
+"G24004000","2019","MD",,,"Maryland","24",,,"Baltimore city","04000",,,,,,,,,,,,,,,,"16000US2404000","Baltimore city, Maryland",593490,"Baltimore city, Maryland",0
+"G24019125","2019","MD",,,"Maryland","24",,,"Columbia CDP","19125",,,,,,,,,,,,,,,,"16000US2419125","Columbia CDP, Maryland",104726,"Columbia CDP, Maryland",6700
+"G24026000","2019","MD",,,"Maryland","24",,,"Ellicott City CDP","26000",,,,,,,,,,,,,,,,"16000US2426000","Ellicott City CDP, Maryland",72605,"Ellicott City CDP, Maryland",5668
+"G24030325","2019","MD",,,"Maryland","24",,,"Frederick city","30325",,,,,,,,,,,,,,,,"16000US2430325","Frederick city, Maryland",72237,"Frederick city, Maryland",33
+"G24031175","2019","MD",,,"Maryland","24",,,"Gaithersburg city","31175",,,,,,,,,,,,,,,,"16000US2431175","Gaithersburg city, Maryland",67982,"Gaithersburg city, Maryland",31
+"G24032025","2019","MD",,,"Maryland","24",,,"Germantown CDP","32025",,,,,,,,,,,,,,,,"16000US2432025","Germantown CDP, Maryland",83707,"Germantown CDP, Maryland",7934
+"G24032650","2019","MD",,,"Maryland","24",,,"Glen Burnie CDP","32650",,,,,,,,,,,,,,,,"16000US2432650","Glen Burnie CDP, Maryland",74956,"Glen Burnie CDP, Maryland",6147
+"G24067675","2019","MD",,,"Maryland","24",,,"Rockville city","67675",,,,,,,,,,,,,,,,"16000US2467675","Rockville city, Maryland",68085,"Rockville city, Maryland",34
+"G24072450","2019","MD",,,"Maryland","24",,,"Silver Spring CDP","72450",,,,,,,,,,,,,,,,"16000US2472450","Silver Spring CDP, Maryland",83247,"Silver Spring CDP, Maryland",6829
+"G24081175","2019","MD",,,"Maryland","24",,,"Waldorf CDP","81175",,,,,,,,,,,,,,,,"16000US2481175","Waldorf CDP, Maryland",80971,"Waldorf CDP, Maryland",4977
+"G25007000","2019","MA",,,"Massachusetts","25",,,"Boston city","07000",,,,,,,,,,,,,,,,"16000US2507000","Boston city, Massachusetts",694295,"Boston city, Massachusetts",3415
+"G25009000","2019","MA",,,"Massachusetts","25",,,"Brockton city","09000",,,,,,,,,,,,,,,,"16000US2509000","Brockton city, Massachusetts",95705,"Brockton city, Massachusetts",24
+"G25011000","2019","MA",,,"Massachusetts","25",,,"Cambridge city","11000",,,,,,,,,,,,,,,,"16000US2511000","Cambridge city, Massachusetts",118925,"Cambridge city, Massachusetts",28
+"G25023000","2019","MA",,,"Massachusetts","25",,,"Fall River city","23000",,,,,,,,,,,,,,,,"16000US2523000","Fall River city, Massachusetts",89534,"Fall River city, Massachusetts",32
+"G25024960","2019","MA",,,"Massachusetts","25",,,"Framingham city","24960",,,,,,,,,,,,,,,,"16000US2524960","Framingham city, Massachusetts",74429,"Framingham city, Massachusetts",47
+"G25034550","2019","MA",,,"Massachusetts","25",,,"Lawrence city","34550",,,,,,,,,,,,,,,,"16000US2534550","Lawrence city, Massachusetts",80038,"Lawrence city, Massachusetts",33
+"G25037000","2019","MA",,,"Massachusetts","25",,,"Lowell city","37000",,,,,,,,,,,,,,,,"16000US2537000","Lowell city, Massachusetts",110990,"Lowell city, Massachusetts",45
+"G25037490","2019","MA",,,"Massachusetts","25",,,"Lynn city","37490",,,,,,,,,,,,,,,,"16000US2537490","Lynn city, Massachusetts",94300,"Lynn city, Massachusetts",29
+"G25045000","2019","MA",,,"Massachusetts","25",,,"New Bedford city","45000",,,,,,,,,,,,,,,,"16000US2545000","New Bedford city, Massachusetts",95348,"New Bedford city, Massachusetts",55
+"G25045560","2019","MA",,,"Massachusetts","25",,,"Newton city","45560",,,,,,,,,,,,,,,,"16000US2545560","Newton city, Massachusetts",88411,"Newton city, Massachusetts",29
+"G25055745","2019","MA",,,"Massachusetts","25",,,"Quincy city","55745",,,,,,,,,,,,,,,,"16000US2555745","Quincy city, Massachusetts",94468,"Quincy city, Massachusetts",29
+"G25062535","2019","MA",,,"Massachusetts","25",,,"Somerville city","62535",,,,,,,,,,,,,,,,"16000US2562535","Somerville city, Massachusetts",81358,"Somerville city, Massachusetts",24
+"G25067000","2019","MA",,,"Massachusetts","25",,,"Springfield city","67000",,,,,,,,,,,,,,,,"16000US2567000","Springfield city, Massachusetts",153599,"Springfield city, Massachusetts",53
+"G25082000","2019","MA",,,"Massachusetts","25",,,"Worcester city","82000",,,,,,,,,,,,,,,,"16000US2582000","Worcester city, Massachusetts",185421,"Worcester city, Massachusetts",41
+"G26003000","2019","MI",,,"Michigan","26",,,"Ann Arbor city","03000",,,,,,,,,,,,,,,,"16000US2603000","Ann Arbor city, Michigan",119976,"Ann Arbor city, Michigan",30
+"G26021000","2019","MI",,,"Michigan","26",,,"Dearborn city","21000",,,,,,,,,,,,,,,,"16000US2621000","Dearborn city, Michigan",93927,"Dearborn city, Michigan",32
+"G26022000","2019","MI",,,"Michigan","26",,,"Detroit city","22000",,,,,,,,,,,,,,,,"16000US2622000","Detroit city, Michigan",670052,"Detroit city, Michigan",55
+"G26027440","2019","MI",,,"Michigan","26",,,"Farmington Hills city","27440",,,,,,,,,,,,,,,,"16000US2627440","Farmington Hills city, Michigan",80597,"Farmington Hills city, Michigan",59
+"G26029000","2019","MI",,,"Michigan","26",,,"Flint city","29000",,,,,,,,,,,,,,,,"16000US2629000","Flint city, Michigan",95541,"Flint city, Michigan",29
+"G26034000","2019","MI",,,"Michigan","26",,,"Grand Rapids city","34000",,,,,,,,,,,,,,,,"16000US2634000","Grand Rapids city, Michigan",201004,"Grand Rapids city, Michigan",49
+"G26042160","2019","MI",,,"Michigan","26",,,"Kalamazoo city","42160",,,,,,,,,,,,,,,,"16000US2642160","Kalamazoo city, Michigan",76201,"Kalamazoo city, Michigan",27
+"G26046000","2019","MI",,,"Michigan","26",,,"Lansing city","46000",,,,,,,,,,,,,,,,"16000US2646000","Lansing city, Michigan",116677,"Lansing city, Michigan",1335
+"G26049000","2019","MI",,,"Michigan","26",,,"Livonia city","49000",,,,,,,,,,,,,,,,"16000US2649000","Livonia city, Michigan",93664,"Livonia city, Michigan",28
+"G26069035","2019","MI",,,"Michigan","26",,,"Rochester Hills city","69035",,,,,,,,,,,,,,,,"16000US2669035","Rochester Hills city, Michigan",74509,"Rochester Hills city, Michigan",34
+"G26074900","2019","MI",,,"Michigan","26",,,"Southfield city","74900",,,,,,,,,,,,,,,,"16000US2674900","Southfield city, Michigan",72700,"Southfield city, Michigan",47
+"G26076460","2019","MI",,,"Michigan","26",,,"Sterling Heights city","76460",,,,,,,,,,,,,,,,"16000US2676460","Sterling Heights city, Michigan",132429,"Sterling Heights city, Michigan",43
+"G26080700","2019","MI",,,"Michigan","26",,,"Troy city","80700",,,,,,,,,,,,,,,,"16000US2680700","Troy city, Michigan",84087,"Troy city, Michigan",39
+"G26084000","2019","MI",,,"Michigan","26",,,"Warren city","84000",,,,,,,,,,,,,,,,"16000US2684000","Warren city, Michigan",133944,"Warren city, Michigan",35
+"G26086000","2019","MI",,,"Michigan","26",,,"Westland city","86000",,,,,,,,,,,,,,,,"16000US2686000","Westland city, Michigan",81524,"Westland city, Michigan",55
+"G26088940","2019","MI",,,"Michigan","26",,,"Wyoming city","88940",,,,,,,,,,,,,,,,"16000US2688940","Wyoming city, Michigan",75660,"Wyoming city, Michigan",35
+"G27006382","2019","MN",,,"Minnesota","27",,,"Blaine city","06382",,,,,,,,,,,,,,,,"16000US2706382","Blaine city, Minnesota",65612,"Blaine city, Minnesota",30
+"G27006616","2019","MN",,,"Minnesota","27",,,"Bloomington city","06616",,,,,,,,,,,,,,,,"16000US2706616","Bloomington city, Minnesota",84935,"Bloomington city, Minnesota",41
+"G27007966","2019","MN",,,"Minnesota","27",,,"Brooklyn Park city","07966",,,,,,,,,,,,,,,,"16000US2707966","Brooklyn Park city, Minnesota",80401,"Brooklyn Park city, Minnesota",47
+"G27017000","2019","MN",,,"Minnesota","27",,,"Duluth city","17000",,,,,,,,,,,,,,,,"16000US2717000","Duluth city, Minnesota",85617,"Duluth city, Minnesota",19
+"G27017288","2019","MN",,,"Minnesota","27",,,"Eagan city","17288",,,,,,,,,,,,,,,,"16000US2717288","Eagan city, Minnesota",66376,"Eagan city, Minnesota",31
+"G27035180","2019","MN",,,"Minnesota","27",,,"Lakeville city","35180",,,,,,,,,,,,,,,,"16000US2735180","Lakeville city, Minnesota",67326,"Lakeville city, Minnesota",40
+"G27040166","2019","MN",,,"Minnesota","27",,,"Maple Grove city","40166",,,,,,,,,,,,,,,,"16000US2740166","Maple Grove city, Minnesota",72616,"Maple Grove city, Minnesota",32
+"G27043000","2019","MN",,,"Minnesota","27",,,"Minneapolis city","43000",,,,,,,,,,,,,,,,"16000US2743000","Minneapolis city, Minnesota",429605,"Minneapolis city, Minnesota",39
+"G27051730","2019","MN",,,"Minnesota","27",,,"Plymouth city","51730",,,,,,,,,,,,,,,,"16000US2751730","Plymouth city, Minnesota",79785,"Plymouth city, Minnesota",66
+"G27054880","2019","MN",,,"Minnesota","27",,,"Rochester city","54880",,,,,,,,,,,,,,,,"16000US2754880","Rochester city, Minnesota",118924,"Rochester city, Minnesota",46
+"G27056896","2019","MN",,,"Minnesota","27",,,"St. Cloud city","56896",,,,,,,,,,,,,,,,"16000US2756896","St. Cloud city, Minnesota",66741,"St. Cloud city, Minnesota",2007
+"G27058000","2019","MN",,,"Minnesota","27",,,"St. Paul city","58000",,,,,,,,,,,,,,,,"16000US2758000","St. Paul city, Minnesota",308096,"St. Paul city, Minnesota",29
+"G27071428","2019","MN",,,"Minnesota","27",,,"Woodbury city","71428",,,,,,,,,,,,,,,,"16000US2771428","Woodbury city, Minnesota",72813,"Woodbury city, Minnesota",56
+"G28029700","2019","MS",,,"Mississippi","28",,,"Gulfport city","29700",,,,,,,,,,,,,,,,"16000US2829700","Gulfport city, Mississippi",71701,"Gulfport city, Mississippi",26
+"G28036000","2019","MS",,,"Mississippi","28",,,"Jackson city","36000",,,,,,,,,,,,,,,,"16000US2836000","Jackson city, Mississippi",160532,"Jackson city, Mississippi",259
+"G29015670","2019","MO",,,"Missouri","29",,,"Columbia city","15670",,,,,,,,,,,,,,,,"16000US2915670","Columbia city, Missouri",123204,"Columbia city, Missouri",35
+"G29035000","2019","MO",,,"Missouri","29",,,"Independence city","35000",,,,,,,,,,,,,,,,"16000US2935000","Independence city, Missouri",116673,"Independence city, Missouri",32
+"G29038000","2019","MO",,,"Missouri","29",,,"Kansas City city","38000",,,,,,,,,,,,,,,,"16000US2938000","Kansas City city, Missouri",495278,"Kansas City city, Missouri",142
+"G29041348","2019","MO",,,"Missouri","29",,,"Lee's Summit city","41348",,,,,,,,,,,,,,,,"16000US2941348","Lee's Summit city, Missouri",99290,"Lee's Summit city, Missouri",1225
+"G29054074","2019","MO",,,"Missouri","29",,,"O'Fallon city","54074",,,,,,,,,,,,,,,,"16000US2954074","O'Fallon city, Missouri",88659,"O'Fallon city, Missouri",55
+"G29064082","2019","MO",,,"Missouri","29",,,"St. Charles city","64082",,,,,,,,,,,,,,,,"16000US2964082","St. Charles city, Missouri",71009,"St. Charles city, Missouri",71
+"G29064550","2019","MO",,,"Missouri","29",,,"St. Joseph city","64550",,,,,,,,,,,,,,,,"16000US2964550","St. Joseph city, Missouri",75053,"St. Joseph city, Missouri",2704
+"G29065000","2019","MO",,,"Missouri","29",,,"St. Louis city","65000",,,,,,,,,,,,,,,,"16000US2965000","St. Louis city, Missouri",300576,"St. Louis city, Missouri",0
+"G29070000","2019","MO",,,"Missouri","29",,,"Springfield city","70000",,,,,,,,,,,,,,,,"16000US2970000","Springfield city, Missouri",167864,"Springfield city, Missouri",58
+"G30006550","2019","MT",,,"Montana","30",,,"Billings city","06550",,,,,,,,,,,,,,,,"16000US3006550","Billings city, Montana",109577,"Billings city, Montana",26
+"G30050200","2019","MT",,,"Montana","30",,,"Missoula city","50200",,,,,,,,,,,,,,,,"16000US3050200","Missoula city, Montana",75527,"Missoula city, Montana",40
+"G31028000","2019","NE",,,"Nebraska","31",,,"Lincoln city","28000",,,,,,,,,,,,,,,,"16000US3128000","Lincoln city, Nebraska",289096,"Lincoln city, Nebraska",30
+"G31037000","2019","NE",,,"Nebraska","31",,,"Omaha city","37000",,,,,,,,,,,,,,,,"16000US3137000","Omaha city, Nebraska",478203,"Omaha city, Nebraska",49
+"G32023770","2019","NV",,,"Nevada","32",,,"Enterprise CDP","23770",,,,,,,,,,,,,,,,"16000US3223770","Enterprise CDP, Nevada",191871,"Enterprise CDP, Nevada",10299
+"G32031900","2019","NV",,,"Nevada","32",,,"Henderson city","31900",,,,,,,,,,,,,,,,"16000US3231900","Henderson city, Nevada",320190,"Henderson city, Nevada",41
+"G32040000","2019","NV",,,"Nevada","32",,,"Las Vegas city","40000",,,,,,,,,,,,,,,,"16000US3240000","Las Vegas city, Nevada",651297,"Las Vegas city, Nevada",87
+"G32051800","2019","NV",,,"Nevada","32",,,"North Las Vegas city","51800",,,,,,,,,,,,,,,,"16000US3251800","North Las Vegas city, Nevada",251984,"North Las Vegas city, Nevada",49
+"G32054600","2019","NV",,,"Nevada","32",,,"Paradise CDP","54600",,,,,,,,,,,,,,,,"16000US3254600","Paradise CDP, Nevada",237899,"Paradise CDP, Nevada",11207
+"G32060600","2019","NV",,,"Nevada","32",,,"Reno city","60600",,,,,,,,,,,,,,,,"16000US3260600","Reno city, Nevada",255624,"Reno city, Nevada",84
+"G32068400","2019","NV",,,"Nevada","32",,,"Sparks city","68400",,,,,,,,,,,,,,,,"16000US3268400","Sparks city, Nevada",105011,"Sparks city, Nevada",39
+"G32068585","2019","NV",,,"Nevada","32",,,"Spring Valley CDP","68585",,,,,,,,,,,,,,,,"16000US3268585","Spring Valley CDP, Nevada",222372,"Spring Valley CDP, Nevada",12968
+"G32071400","2019","NV",,,"Nevada","32",,,"Sunrise Manor CDP","71400",,,,,,,,,,,,,,,,"16000US3271400","Sunrise Manor CDP, Nevada",192968,"Sunrise Manor CDP, Nevada",11338
+"G33045140","2019","NH",,,"New Hampshire","33",,,"Manchester city","45140",,,,,,,,,,,,,,,,"16000US3345140","Manchester city, New Hampshire",112658,"Manchester city, New Hampshire",54
+"G33050260","2019","NH",,,"New Hampshire","33",,,"Nashua city","50260",,,,,,,,,,,,,,,,"16000US3350260","Nashua city, New Hampshire",89356,"Nashua city, New Hampshire",25
+"G34003580","2019","NJ",,,"New Jersey","34",,,"Bayonne city","03580",,,,,,,,,,,,,,,,"16000US3403580","Bayonne city, New Jersey",64903,"Bayonne city, New Jersey",33
+"G34010000","2019","NJ",,,"New Jersey","34",,,"Camden city","10000",,,,,,,,,,,,,,,,"16000US3410000","Camden city, New Jersey",73560,"Camden city, New Jersey",28
+"G34013690","2019","NJ",,,"New Jersey","34",,,"Clifton city","13690",,,,,,,,,,,,,,,,"16000US3413690","Clifton city, New Jersey",85053,"Clifton city, New Jersey",25
+"G34019390","2019","NJ",,,"New Jersey","34",,,"East Orange city","19390",,,,,,,,,,,,,,,,"16000US3419390","East Orange city, New Jersey",64357,"East Orange city, New Jersey",39
+"G34021000","2019","NJ",,,"New Jersey","34",,,"Elizabeth city","21000",,,,,,,,,,,,,,,,"16000US3421000","Elizabeth city, New Jersey",129215,"Elizabeth city, New Jersey",34
+"G34036000","2019","NJ",,,"New Jersey","34",,,"Jersey City city","36000",,,,,,,,,,,,,,,,"16000US3436000","Jersey City city, New Jersey",262075,"Jersey City city, New Jersey",34
+"G34051000","2019","NJ",,,"New Jersey","34",,,"Newark city","51000",,,,,,,,,,,,,,,,"16000US3451000","Newark city, New Jersey",281999,"Newark city, New Jersey",51
+"G34056550","2019","NJ",,,"New Jersey","34",,,"Passaic city","56550",,,,,,,,,,,,,,,,"16000US3456550","Passaic city, New Jersey",69694,"Passaic city, New Jersey",35
+"G34057000","2019","NJ",,,"New Jersey","34",,,"Paterson city","57000",,,,,,,,,,,,,,,,"16000US3457000","Paterson city, New Jersey",145227,"Paterson city, New Jersey",39
+"G34073110","2019","NJ",,,"New Jersey","34",,,"Toms River CDP","73110",,,,,,,,,,,,,,,,"16000US3473110","Toms River CDP, New Jersey",91785,"Toms River CDP, New Jersey",634
+"G34074000","2019","NJ",,,"New Jersey","34",,,"Trenton city","74000",,,,,,,,,,,,,,,,"16000US3474000","Trenton city, New Jersey",83211,"Trenton city, New Jersey",28
+"G34074630","2019","NJ",,,"New Jersey","34",,,"Union City city","74630",,,,,,,,,,,,,,,,"16000US3474630","Union City city, New Jersey",67977,"Union City city, New Jersey",29
+"G35002000","2019","NM",,,"New Mexico","35",,,"Albuquerque city","02000",,,,,,,,,,,,,,,,"16000US3502000","Albuquerque city, New Mexico",560504,"Albuquerque city, New Mexico",43
+"G35039380","2019","NM",,,"New Mexico","35",,,"Las Cruces city","39380",,,,,,,,,,,,,,,,"16000US3539380","Las Cruces city, New Mexico",103436,"Las Cruces city, New Mexico",29
+"G35063460","2019","NM",,,"New Mexico","35",,,"Rio Rancho city","63460",,,,,,,,,,,,,,,,"16000US3563460","Rio Rancho city, New Mexico",99159,"Rio Rancho city, New Mexico",62
+"G35070500","2019","NM",,,"New Mexico","35",,,"Santa Fe city","70500",,,,,,,,,,,,,,,,"16000US3570500","Santa Fe city, New Mexico",84700,"Santa Fe city, New Mexico",62
+"G36001000","2019","NY",,,"New York","36",,,"Albany city","01000",,,,,,,,,,,,,,,,"16000US3601000","Albany city, New York",96460,"Albany city, New York",24
+"G36008026","2019","NY",,,"New York","36",,,"Brentwood CDP","08026",,,,,,,,,,,,,,,,"16000US3608026","Brentwood CDP, New York",61930,"Brentwood CDP, New York",7051
+"G36011000","2019","NY",,,"New York","36",,,"Buffalo city","11000",,,,,,,,,,,,,,,,"16000US3611000","Buffalo city, New York",255300,"Buffalo city, New York",64
+"G36015000","2019","NY",,,"New York","36",,,"Cheektowaga CDP","15000",,,,,,,,,,,,,,,,"16000US3615000","Cheektowaga CDP, New York",74058,"Cheektowaga CDP, New York",2434
+"G36049121","2019","NY",,,"New York","36",,,"Mount Vernon city","49121",,,,,,,,,,,,,,,,"16000US3649121","Mount Vernon city, New York",67330,"Mount Vernon city, New York",55
+"G36050617","2019","NY",,,"New York","36",,,"New Rochelle city","50617",,,,,,,,,,,,,,,,"16000US3650617","New Rochelle city, New York",78568,"New Rochelle city, New York",47
+"G36051000","2019","NY",,,"New York","36",,,"New York city","51000",,,,,,,,,,,,,,,,"16000US3651000","New York city, New York",8336817,"New York city, New York",0
+"G36063000","2019","NY",,,"New York","36",,,"Rochester city","63000",,,,,,,,,,,,,,,,"16000US3663000","Rochester city, New York",205704,"Rochester city, New York",32
+"G36065508","2019","NY",,,"New York","36",,,"Schenectady city","65508",,,,,,,,,,,,,,,,"16000US3665508","Schenectady city, New York",65272,"Schenectady city, New York",22
+"G36073000","2019","NY",,,"New York","36",,,"Syracuse city","73000",,,,,,,,,,,,,,,,"16000US3673000","Syracuse city, New York",142310,"Syracuse city, New York",64
+"G36084000","2019","NY",,,"New York","36",,,"Yonkers city","84000",,,,,,,,,,,,,,,,"16000US3684000","Yonkers city, New York",200362,"Yonkers city, New York",44
+"G37002140","2019","NC",,,"North Carolina","37",,,"Asheville city","02140",,,,,,,,,,,,,,,,"16000US3702140","Asheville city, North Carolina",92859,"Asheville city, North Carolina",40
+"G37010740","2019","NC",,,"North Carolina","37",,,"Cary town","10740",,,,,,,,,,,,,,,,"16000US3710740","Cary town, North Carolina",171143,"Cary town, North Carolina",888
+"G37012000","2019","NC",,,"North Carolina","37",,,"Charlotte city","12000",,,,,,,,,,,,,,,,"16000US3712000","Charlotte city, North Carolina",885707,"Charlotte city, North Carolina",49
+"G37014100","2019","NC",,,"North Carolina","37",,,"Concord city","14100",,,,,,,,,,,,,,,,"16000US3714100","Concord city, North Carolina",96342,"Concord city, North Carolina",27
+"G37019000","2019","NC",,,"North Carolina","37",,,"Durham city","19000",,,,,,,,,,,,,,,,"16000US3719000","Durham city, North Carolina",279447,"Durham city, North Carolina",452
+"G37022920","2019","NC",,,"North Carolina","37",,,"Fayetteville city","22920",,,,,,,,,,,,,,,,"16000US3722920","Fayetteville city, North Carolina",211674,"Fayetteville city, North Carolina",59
+"G37025580","2019","NC",,,"North Carolina","37",,,"Gastonia city","25580",,,,,,,,,,,,,,,,"16000US3725580","Gastonia city, North Carolina",77277,"Gastonia city, North Carolina",35
+"G37028000","2019","NC",,,"North Carolina","37",,,"Greensboro city","28000",,,,,,,,,,,,,,,,"16000US3728000","Greensboro city, North Carolina",296725,"Greensboro city, North Carolina",72
+"G37028080","2019","NC",,,"North Carolina","37",,,"Greenville city","28080",,,,,,,,,,,,,,,,"16000US3728080","Greenville city, North Carolina",93391,"Greenville city, North Carolina",37
+"G37031400","2019","NC",,,"North Carolina","37",,,"High Point city","31400",,,,,,,,,,,,,,,,"16000US3731400","High Point city, North Carolina",111756,"High Point city, North Carolina",1311
+"G37034200","2019","NC",,,"North Carolina","37",,,"Jacksonville city","34200",,,,,,,,,,,,,,,,"16000US3734200","Jacksonville city, North Carolina",72438,"Jacksonville city, North Carolina",22
+"G37055000","2019","NC",,,"North Carolina","37",,,"Raleigh city","55000",,,,,,,,,,,,,,,,"16000US3755000","Raleigh city, North Carolina",474708,"Raleigh city, North Carolina",769
+"G37074440","2019","NC",,,"North Carolina","37",,,"Wilmington city","74440",,,,,,,,,,,,,,,,"16000US3774440","Wilmington city, North Carolina",123728,"Wilmington city, North Carolina",62
+"G37075000","2019","NC",,,"North Carolina","37",,,"Winston-Salem city","75000",,,,,,,,,,,,,,,,"16000US3775000","Winston-Salem city, North Carolina",247951,"Winston-Salem city, North Carolina",38
+"G38007200","2019","ND",,,"North Dakota","38",,,"Bismarck city","07200",,,,,,,,,,,,,,,,"16000US3807200","Bismarck city, North Dakota",74632,"Bismarck city, North Dakota",3052
+"G38025700","2019","ND",,,"North Dakota","38",,,"Fargo city","25700",,,,,,,,,,,,,,,,"16000US3825700","Fargo city, North Dakota",123736,"Fargo city, North Dakota",2892
+"G39001000","2019","OH",,,"Ohio","39",,,"Akron city","01000",,,,,,,,,,,,,,,,"16000US3901000","Akron city, Ohio",197597,"Akron city, Ohio",32
+"G39012000","2019","OH",,,"Ohio","39",,,"Canton city","12000",,,,,,,,,,,,,,,,"16000US3912000","Canton city, Ohio",70445,"Canton city, Ohio",25
+"G39015000","2019","OH",,,"Ohio","39",,,"Cincinnati city","15000",,,,,,,,,,,,,,,,"16000US3915000","Cincinnati city, Ohio",303954,"Cincinnati city, Ohio",59
+"G39016000","2019","OH",,,"Ohio","39",,,"Cleveland city","16000",,,,,,,,,,,,,,,,"16000US3916000","Cleveland city, Ohio",380989,"Cleveland city, Ohio",79
+"G39018000","2019","OH",,,"Ohio","39",,,"Columbus city","18000",,,,,,,,,,,,,,,,"16000US3918000","Columbus city, Ohio",902073,"Columbus city, Ohio",3406
+"G39021000","2019","OH",,,"Ohio","39",,,"Dayton city","21000",,,,,,,,,,,,,,,,"16000US3921000","Dayton city, Ohio",140402,"Dayton city, Ohio",37
+"G39044856","2019","OH",,,"Ohio","39",,,"Lorain city","44856",,,,,,,,,,,,,,,,"16000US3944856","Lorain city, Ohio",63866,"Lorain city, Ohio",45
+"G39061000","2019","OH",,,"Ohio","39",,,"Parma city","61000",,,,,,,,,,,,,,,,"16000US3961000","Parma city, Ohio",78093,"Parma city, Ohio",34
+"G39077000","2019","OH",,,"Ohio","39",,,"Toledo city","77000",,,,,,,,,,,,,,,,"16000US3977000","Toledo city, Ohio",272778,"Toledo city, Ohio",38
+"G39088000","2019","OH",,,"Ohio","39",,,"Youngstown city","88000",,,,,,,,,,,,,,,,"16000US3988000","Youngstown city, Ohio",65479,"Youngstown city, Ohio",40
+"G40009050","2019","OK",,,"Oklahoma","40",,,"Broken Arrow city","09050",,,,,,,,,,,,,,,,"16000US4009050","Broken Arrow city, Oklahoma",110715,"Broken Arrow city, Oklahoma",1623
+"G40023200","2019","OK",,,"Oklahoma","40",,,"Edmond city","23200",,,,,,,,,,,,,,,,"16000US4023200","Edmond city, Oklahoma",94058,"Edmond city, Oklahoma",34
+"G40041850","2019","OK",,,"Oklahoma","40",,,"Lawton city","41850",,,,,,,,,,,,,,,,"16000US4041850","Lawton city, Oklahoma",93026,"Lawton city, Oklahoma",23
+"G40052500","2019","OK",,,"Oklahoma","40",,,"Norman city","52500",,,,,,,,,,,,,,,,"16000US4052500","Norman city, Oklahoma",124867,"Norman city, Oklahoma",52
+"G40055000","2019","OK",,,"Oklahoma","40",,,"Oklahoma City city","55000",,,,,,,,,,,,,,,,"16000US4055000","Oklahoma City city, Oklahoma",655158,"Oklahoma City city, Oklahoma",260
+"G40075000","2019","OK",,,"Oklahoma","40",,,"Tulsa city","75000",,,,,,,,,,,,,,,,"16000US4075000","Tulsa city, Oklahoma",401760,"Tulsa city, Oklahoma",779
+"G41005350","2019","OR",,,"Oregon","41",,,"Beaverton city","05350",,,,,,,,,,,,,,,,"16000US4105350","Beaverton city, Oregon",99040,"Beaverton city, Oregon",34
+"G41005800","2019","OR",,,"Oregon","41",,,"Bend city","05800",,,,,,,,,,,,,,,,"16000US4105800","Bend city, Oregon",100430,"Bend city, Oregon",37
+"G41023850","2019","OR",,,"Oregon","41",,,"Eugene city","23850",,,,,,,,,,,,,,,,"16000US4123850","Eugene city, Oregon",172614,"Eugene city, Oregon",42
+"G41031250","2019","OR",,,"Oregon","41",,,"Gresham city","31250",,,,,,,,,,,,,,,,"16000US4131250","Gresham city, Oregon",109379,"Gresham city, Oregon",29
+"G41034100","2019","OR",,,"Oregon","41",,,"Hillsboro city","34100",,,,,,,,,,,,,,,,"16000US4134100","Hillsboro city, Oregon",109120,"Hillsboro city, Oregon",40
+"G41047000","2019","OR",,,"Oregon","41",,,"Medford city","47000",,,,,,,,,,,,,,,,"16000US4147000","Medford city, Oregon",83084,"Medford city, Oregon",44
+"G41059000","2019","OR",,,"Oregon","41",,,"Portland city","59000",,,,,,,,,,,,,,,,"16000US4159000","Portland city, Oregon",653467,"Portland city, Oregon",590
+"G41064900","2019","OR",,,"Oregon","41",,,"Salem city","64900",,,,,,,,,,,,,,,,"16000US4164900","Salem city, Oregon",174377,"Salem city, Oregon",52
+"G42002000","2019","PA",,,"Pennsylvania","42",,,"Allentown city","02000",,,,,,,,,,,,,,,,"16000US4202000","Allentown city, Pennsylvania",121441,"Allentown city, Pennsylvania",31
+"G42006088","2019","PA",,,"Pennsylvania","42",,,"Bethlehem city","06088",,,,,,,,,,,,,,,,"16000US4206088","Bethlehem city, Pennsylvania",76044,"Bethlehem city, Pennsylvania",2749
+"G42024000","2019","PA",,,"Pennsylvania","42",,,"Erie city","24000",,,,,,,,,,,,,,,,"16000US4224000","Erie city, Pennsylvania",95537,"Erie city, Pennsylvania",106
+"G42060000","2019","PA",,,"Pennsylvania","42",,,"Philadelphia city","60000",,,,,,,,,,,,,,,,"16000US4260000","Philadelphia city, Pennsylvania",1584064,"Philadelphia city, Pennsylvania",0
+"G42061000","2019","PA",,,"Pennsylvania","42",,,"Pittsburgh city","61000",,,,,,,,,,,,,,,,"16000US4261000","Pittsburgh city, Pennsylvania",300281,"Pittsburgh city, Pennsylvania",40
+"G42063624","2019","PA",,,"Pennsylvania","42",,,"Reading city","63624",,,,,,,,,,,,,,,,"16000US4263624","Reading city, Pennsylvania",88373,"Reading city, Pennsylvania",26
+"G42069000","2019","PA",,,"Pennsylvania","42",,,"Scranton city","69000",,,,,,,,,,,,,,,,"16000US4269000","Scranton city, Pennsylvania",76651,"Scranton city, Pennsylvania",21
+"G44019180","2019","RI",,,"Rhode Island","44",,,"Cranston city","19180",,,,,,,,,,,,,,,,"16000US4419180","Cranston city, Rhode Island",81459,"Cranston city, Rhode Island",25
+"G44054640","2019","RI",,,"Rhode Island","44",,,"Pawtucket city","54640",,,,,,,,,,,,,,,,"16000US4454640","Pawtucket city, Rhode Island",72108,"Pawtucket city, Rhode Island",41
+"G44059000","2019","RI",,,"Rhode Island","44",,,"Providence city","59000",,,,,,,,,,,,,,,,"16000US4459000","Providence city, Rhode Island",179875,"Providence city, Rhode Island",40
+"G44074300","2019","RI",,,"Rhode Island","44",,,"Warwick city","74300",,,,,,,,,,,,,,,,"16000US4474300","Warwick city, Rhode Island",81006,"Warwick city, Rhode Island",22
+"G45013330","2019","SC",,,"South Carolina","45",,,"Charleston city","13330",,,,,,,,,,,,,,,,"16000US4513330","Charleston city, South Carolina",143151,"Charleston city, South Carolina",2321
+"G45016000","2019","SC",,,"South Carolina","45",,,"Columbia city","16000",,,,,,,,,,,,,,,,"16000US4516000","Columbia city, South Carolina",131323,"Columbia city, South Carolina",245
+"G45030850","2019","SC",,,"South Carolina","45",,,"Greenville city","30850",,,,,,,,,,,,,,,,"16000US4530850","Greenville city, South Carolina",70633,"Greenville city, South Carolina",26
+"G45048535","2019","SC",,,"South Carolina","45",,,"Mount Pleasant town","48535",,,,,,,,,,,,,,,,"16000US4548535","Mount Pleasant town, South Carolina",91668,"Mount Pleasant town, South Carolina",56
+"G45050875","2019","SC",,,"South Carolina","45",,,"North Charleston city","50875",,,,,,,,,,,,,,,,"16000US4550875","North Charleston city, South Carolina",122400,"North Charleston city, South Carolina",5412
+"G45061405","2019","SC",,,"South Carolina","45",,,"Rock Hill city","61405",,,,,,,,,,,,,,,,"16000US4561405","Rock Hill city, South Carolina",75041,"Rock Hill city, South Carolina",39
+"G46052980","2019","SD",,,"South Dakota","46",,,"Rapid City city","52980",,,,,,,,,,,,,,,,"16000US4652980","Rapid City city, South Dakota",77496,"Rapid City city, South Dakota",30
+"G46059020","2019","SD",,,"South Dakota","46",,,"Sioux Falls city","59020",,,,,,,,,,,,,,,,"16000US4659020","Sioux Falls city, South Dakota",183799,"Sioux Falls city, South Dakota",35
+"G47014000","2019","TN",,,"Tennessee","47",,,"Chattanooga city","14000",,,,,,,,,,,,,,,,"16000US4714000","Chattanooga city, Tennessee",182803,"Chattanooga city, Tennessee",33
+"G47015160","2019","TN",,,"Tennessee","47",,,"Clarksville city","15160",,,,,,,,,,,,,,,,"16000US4715160","Clarksville city, Tennessee",158152,"Clarksville city, Tennessee",31
+"G47027740","2019","TN",,,"Tennessee","47",,,"Franklin city","27740",,,,,,,,,,,,,,,,"16000US4727740","Franklin city, Tennessee",83096,"Franklin city, Tennessee",27
+"G47037640","2019","TN",,,"Tennessee","47",,,"Jackson city","37640",,,,,,,,,,,,,,,,"16000US4737640","Jackson city, Tennessee",67187,"Jackson city, Tennessee",27
+"G47038320","2019","TN",,,"Tennessee","47",,,"Johnson City city","38320",,,,,,,,,,,,,,,,"16000US4738320","Johnson City city, Tennessee",67859,"Johnson City city, Tennessee",1003
+"G47040000","2019","TN",,,"Tennessee","47",,,"Knoxville city","40000",,,,,,,,,,,,,,,,"16000US4740000","Knoxville city, Tennessee",187610,"Knoxville city, Tennessee",43
+"G47048000","2019","TN",,,"Tennessee","47",,,"Memphis city","48000",,,,,,,,,,,,,,,,"16000US4748000","Memphis city, Tennessee",651088,"Memphis city, Tennessee",65
+"G47051560","2019","TN",,,"Tennessee","47",,,"Murfreesboro city","51560",,,,,,,,,,,,,,,,"16000US4751560","Murfreesboro city, Tennessee",146912,"Murfreesboro city, Tennessee",50
+"G47052006","2019","TN",,,"Tennessee","47",,,"Nashville-Davidson metropolitan government (balance)","52006",,,,,,,,,,,,,,,,"16000US4752006","Nashville-Davidson metropolitan government (balance), Tennessee",668580,"Nashville-Davidson metropolitan government (balance), Tennessee",3352
+"G48001000","2019","TX",,,"Texas","48",,,"Abilene city","01000",,,,,,,,,,,,,,,,"16000US4801000","Abilene city, Texas",123201,"Abilene city, Texas",3657
+"G48001924","2019","TX",,,"Texas","48",,,"Allen city","01924",,,,,,,,,,,,,,,,"16000US4801924","Allen city, Texas",105630,"Allen city, Texas",35
+"G48003000","2019","TX",,,"Texas","48",,,"Amarillo city","03000",,,,,,,,,,,,,,,,"16000US4803000","Amarillo city, Texas",197365,"Amarillo city, Texas",2773
+"G48004000","2019","TX",,,"Texas","48",,,"Arlington city","04000",,,,,,,,,,,,,,,,"16000US4804000","Arlington city, Texas",398860,"Arlington city, Texas",63
+"G48004462","2019","TX",,,"Texas","48",,,"Atascocita CDP","04462",,,,,,,,,,,,,,,,"16000US4804462","Atascocita CDP, Texas",82572,"Atascocita CDP, Texas",10372
+"G48005000","2019","TX",,,"Texas","48",,,"Austin city","05000",,,,,,,,,,,,,,,,"16000US4805000","Austin city, Texas",979263,"Austin city, Texas",570
+"G48006128","2019","TX",,,"Texas","48",,,"Baytown city","06128",,,,,,,,,,,,,,,,"16000US4806128","Baytown city, Texas",76895,"Baytown city, Texas",1990
+"G48007000","2019","TX",,,"Texas","48",,,"Beaumont city","07000",,,,,,,,,,,,,,,,"16000US4807000","Beaumont city, Texas",116822,"Beaumont city, Texas",32
+"G48010768","2019","TX",,,"Texas","48",,,"Brownsville city","10768",,,,,,,,,,,,,,,,"16000US4810768","Brownsville city, Texas",182781,"Brownsville city, Texas",31
+"G48010912","2019","TX",,,"Texas","48",,,"Bryan city","10912",,,,,,,,,,,,,,,,"16000US4810912","Bryan city, Texas",86268,"Bryan city, Texas",37
+"G48013024","2019","TX",,,"Texas","48",,,"Carrollton city","13024",,,,,,,,,,,,,,,,"16000US4813024","Carrollton city, Texas",139272,"Carrollton city, Texas",100
+"G48013552","2019","TX",,,"Texas","48",,,"Cedar Park city","13552",,,,,,,,,,,,,,,,"16000US4813552","Cedar Park city, Texas",77419,"Cedar Park city, Texas",2356
+"G48015976","2019","TX",,,"Texas","48",,,"College Station city","15976",,,,,,,,,,,,,,,,"16000US4815976","College Station city, Texas",117911,"College Station city, Texas",26
+"G48016432","2019","TX",,,"Texas","48",,,"Conroe city","16432",,,,,,,,,,,,,,,,"16000US4816432","Conroe city, Texas",91081,"Conroe city, Texas",27
+"G48017000","2019","TX",,,"Texas","48",,,"Corpus Christi city","17000",,,,,,,,,,,,,,,,"16000US4817000","Corpus Christi city, Texas",326590,"Corpus Christi city, Texas",26
+"G48019000","2019","TX",,,"Texas","48",,,"Dallas city","19000",,,,,,,,,,,,,,,,"16000US4819000","Dallas city, Texas",1343565,"Dallas city, Texas",69
+"G48019972","2019","TX",,,"Texas","48",,,"Denton city","19972",,,,,,,,,,,,,,,,"16000US4819972","Denton city, Texas",141522,"Denton city, Texas",74
+"G48022660","2019","TX",,,"Texas","48",,,"Edinburg city","22660",,,,,,,,,,,,,,,,"16000US4822660","Edinburg city, Texas",101168,"Edinburg city, Texas",24
+"G48024000","2019","TX",,,"Texas","48",,,"El Paso city","24000",,,,,,,,,,,,,,,,"16000US4824000","El Paso city, Texas",681729,"El Paso city, Texas",34
+"G48026232","2019","TX",,,"Texas","48",,,"Flower Mound town","26232",,,,,,,,,,,,,,,,"16000US4826232","Flower Mound town, Texas",83205,"Flower Mound town, Texas",6366
+"G48027000","2019","TX",,,"Texas","48",,,"Fort Worth city","27000",,,,,,,,,,,,,,,,"16000US4827000","Fort Worth city, Texas",913656,"Fort Worth city, Texas",3113
+"G48027684","2019","TX",,,"Texas","48",,,"Frisco city","27684",,,,,,,,,,,,,,,,"16000US4827684","Frisco city, Texas",200513,"Frisco city, Texas",89
+"G48029000","2019","TX",,,"Texas","48",,,"Garland city","29000",,,,,,,,,,,,,,,,"16000US4829000","Garland city, Texas",239539,"Garland city, Texas",51
+"G48029336","2019","TX",,,"Texas","48",,,"Georgetown city","29336",,,,,,,,,,,,,,,,"16000US4829336","Georgetown city, Texas",79609,"Georgetown city, Texas",33
+"G48030464","2019","TX",,,"Texas","48",,,"Grand Prairie city","30464",,,,,,,,,,,,,,,,"16000US4830464","Grand Prairie city, Texas",194522,"Grand Prairie city, Texas",47
+"G48032372","2019","TX",,,"Texas","48",,,"Harlingen city","32372",,,,,,,,,,,,,,,,"16000US4832372","Harlingen city, Texas",65033,"Harlingen city, Texas",41
+"G48035000","2019","TX",,,"Texas","48",,,"Houston city","35000",,,,,,,,,,,,,,,,"16000US4835000","Houston city, Texas",2316797,"Houston city, Texas",1179
+"G48037000","2019","TX",,,"Texas","48",,,"Irving city","37000",,,,,,,,,,,,,,,,"16000US4837000","Irving city, Texas",239779,"Irving city, Texas",72
+"G48039148","2019","TX",,,"Texas","48",,,"Killeen city","39148",,,,,,,,,,,,,,,,"16000US4839148","Killeen city, Texas",151685,"Killeen city, Texas",72
+"G48041464","2019","TX",,,"Texas","48",,,"Laredo city","41464",,,,,,,,,,,,,,,,"16000US4841464","Laredo city, Texas",264069,"Laredo city, Texas",2988
+"G48041980","2019","TX",,,"Texas","48",,,"League City city","41980",,,,,,,,,,,,,,,,"16000US4841980","League City city, Texas",106730,"League City city, Texas",864
+"G48042016","2019","TX",,,"Texas","48",,,"Leander city","42016",,,,,,,,,,,,,,,,"16000US4842016","Leander city, Texas",68583,"Leander city, Texas",3326
+"G48042508","2019","TX",,,"Texas","48",,,"Lewisville city","42508",,,,,,,,,,,,,,,,"16000US4842508","Lewisville city, Texas",108562,"Lewisville city, Texas",424
+"G48043888","2019","TX",,,"Texas","48",,,"Longview city","43888",,,,,,,,,,,,,,,,"16000US4843888","Longview city, Texas",82461,"Longview city, Texas",1364
+"G48045000","2019","TX",,,"Texas","48",,,"Lubbock city","45000",,,,,,,,,,,,,,,,"16000US4845000","Lubbock city, Texas",258870,"Lubbock city, Texas",35
+"G48045384","2019","TX",,,"Texas","48",,,"McAllen city","45384",,,,,,,,,,,,,,,,"16000US4845384","McAllen city, Texas",143258,"McAllen city, Texas",47
+"G48045744","2019","TX",,,"Texas","48",,,"McKinney city","45744",,,,,,,,,,,,,,,,"16000US4845744","McKinney city, Texas",199174,"McKinney city, Texas",40
+"G48046452","2019","TX",,,"Texas","48",,,"Mansfield city","46452",,,,,,,,,,,,,,,,"16000US4846452","Mansfield city, Texas",74841,"Mansfield city, Texas",1960
+"G48047892","2019","TX",,,"Texas","48",,,"Mesquite city","47892",,,,,,,,,,,,,,,,"16000US4847892","Mesquite city, Texas",140795,"Mesquite city, Texas",39
+"G48048072","2019","TX",,,"Texas","48",,,"Midland city","48072",,,,,,,,,,,,,,,,"16000US4848072","Midland city, Texas",146042,"Midland city, Texas",19
+"G48048768","2019","TX",,,"Texas","48",,,"Mission city","48768",,,,,,,,,,,,,,,,"16000US4848768","Mission city, Texas",84336,"Mission city, Texas",31
+"G48048804","2019","TX",,,"Texas","48",,,"Missouri City city","48804",,,,,,,,,,,,,,,,"16000US4848804","Missouri City city, Texas",75543,"Missouri City city, Texas",3767
+"G48050820","2019","TX",,,"Texas","48",,,"New Braunfels city","50820",,,,,,,,,,,,,,,,"16000US4850820","New Braunfels city, Texas",90710,"New Braunfels city, Texas",3609
+"G48052356","2019","TX",,,"Texas","48",,,"North Richland Hills city","52356",,,,,,,,,,,,,,,,"16000US4852356","North Richland Hills city, Texas",70655,"North Richland Hills city, Texas",60
+"G48053388","2019","TX",,,"Texas","48",,,"Odessa city","53388",,,,,,,,,,,,,,,,"16000US4853388","Odessa city, Texas",123163,"Odessa city, Texas",1301
+"G48056000","2019","TX",,,"Texas","48",,,"Pasadena city","56000",,,,,,,,,,,,,,,,"16000US4856000","Pasadena city, Texas",151230,"Pasadena city, Texas",38
+"G48056348","2019","TX",,,"Texas","48",,,"Pearland city","56348",,,,,,,,,,,,,,,,"16000US4856348","Pearland city, Texas",131448,"Pearland city, Texas",4389
+"G48057176","2019","TX",,,"Texas","48",,,"Pflugerville city","57176",,,,,,,,,,,,,,,,"16000US4857176","Pflugerville city, Texas",65124,"Pflugerville city, Texas",68
+"G48057200","2019","TX",,,"Texas","48",,,"Pharr city","57200",,,,,,,,,,,,,,,,"16000US4857200","Pharr city, Texas",79115,"Pharr city, Texas",25
+"G48058016","2019","TX",,,"Texas","48",,,"Plano city","58016",,,,,,,,,,,,,,,,"16000US4858016","Plano city, Texas",285849,"Plano city, Texas",1340
+"G48061796","2019","TX",,,"Texas","48",,,"Richardson city","61796",,,,,,,,,,,,,,,,"16000US4861796","Richardson city, Texas",121331,"Richardson city, Texas",42
+"G48063500","2019","TX",,,"Texas","48",,,"Round Rock city","63500",,,,,,,,,,,,,,,,"16000US4863500","Round Rock city, Texas",133435,"Round Rock city, Texas",1774
+"G48063572","2019","TX",,,"Texas","48",,,"Rowlett city","63572",,,,,,,,,,,,,,,,"16000US4863572","Rowlett city, Texas",66805,"Rowlett city, Texas",2047
+"G48064472","2019","TX",,,"Texas","48",,,"San Angelo city","64472",,,,,,,,,,,,,,,,"16000US4864472","San Angelo city, Texas",98193,"San Angelo city, Texas",4205
+"G48065000","2019","TX",,,"Texas","48",,,"San Antonio city","65000",,,,,,,,,,,,,,,,"16000US4865000","San Antonio city, Texas",1547250,"San Antonio city, Texas",118
+"G48070808","2019","TX",,,"Texas","48",,,"Sugar Land city","70808",,,,,,,,,,,,,,,,"16000US4870808","Sugar Land city, Texas",118500,"Sugar Land city, Texas",45
+"G48072176","2019","TX",,,"Texas","48",,,"Temple city","72176",,,,,,,,,,,,,,,,"16000US4872176","Temple city, Texas",78437,"Temple city, Texas",30
+"G48072656","2019","TX",,,"Texas","48",,,"The Woodlands CDP","72656",,,,,,,,,,,,,,,,"16000US4872656","The Woodlands CDP, Texas",117270,"The Woodlands CDP, Texas",10155
+"G48074144","2019","TX",,,"Texas","48",,,"Tyler city","74144",,,,,,,,,,,,,,,,"16000US4874144","Tyler city, Texas",106991,"Tyler city, Texas",33
+"G48075428","2019","TX",,,"Texas","48",,,"Victoria city","75428",,,,,,,,,,,,,,,,"16000US4875428","Victoria city, Texas",66920,"Victoria city, Texas",21
+"G48076000","2019","TX",,,"Texas","48",,,"Waco city","76000",,,,,,,,,,,,,,,,"16000US4876000","Waco city, Texas",139245,"Waco city, Texas",42
+"G48079000","2019","TX",,,"Texas","48",,,"Wichita Falls city","79000",,,,,,,,,,,,,,,,"16000US4879000","Wichita Falls city, Texas",104677,"Wichita Falls city, Texas",26
+"G49043660","2019","UT",,,"Utah","49",,,"Layton city","43660",,,,,,,,,,,,,,,,"16000US4943660","Layton city, Utah",78008,"Layton city, Utah",34
+"G49044320","2019","UT",,,"Utah","49",,,"Lehi city","44320",,,,,,,,,,,,,,,,"16000US4944320","Lehi city, Utah",69742,"Lehi city, Utah",61
+"G49055980","2019","UT",,,"Utah","49",,,"Ogden city","55980",,,,,,,,,,,,,,,,"16000US4955980","Ogden city, Utah",87764,"Ogden city, Utah",36
+"G49057300","2019","UT",,,"Utah","49",,,"Orem city","57300",,,,,,,,,,,,,,,,"16000US4957300","Orem city, Utah",97839,"Orem city, Utah",48
+"G49062470","2019","UT",,,"Utah","49",,,"Provo city","62470",,,,,,,,,,,,,,,,"16000US4962470","Provo city, Utah",116616,"Provo city, Utah",33
+"G49065330","2019","UT",,,"Utah","49",,,"St. George city","65330",,,,,,,,,,,,,,,,"16000US4965330","St. George city, Utah",89586,"St. George city, Utah",22
+"G49067000","2019","UT",,,"Utah","49",,,"Salt Lake City city","67000",,,,,,,,,,,,,,,,"16000US4967000","Salt Lake City city, Utah",200546,"Salt Lake City city, Utah",74
+"G49067440","2019","UT",,,"Utah","49",,,"Sandy city","67440",,,,,,,,,,,,,,,,"16000US4967440","Sandy city, Utah",96385,"Sandy city, Utah",39
+"G49070850","2019","UT",,,"Utah","49",,,"South Jordan city","70850",,,,,,,,,,,,,,,,"16000US4970850","South Jordan city, Utah",76607,"South Jordan city, Utah",40
+"G49082950","2019","UT",,,"Utah","49",,,"West Jordan city","82950",,,,,,,,,,,,,,,,"16000US4982950","West Jordan city, Utah",116482,"West Jordan city, Utah",40
+"G49083470","2019","UT",,,"Utah","49",,,"West Valley City city","83470",,,,,,,,,,,,,,,,"16000US4983470","West Valley City city, Utah",135255,"West Valley City city, Utah",40
+"G51001000","2019","VA",,,"Virginia","51",,,"Alexandria city","01000",,,,,,,,,,,,,,,,"16000US5101000","Alexandria city, Virginia",159428,"Alexandria city, Virginia",0
+"G51003000","2019","VA",,,"Virginia","51",,,"Arlington CDP","03000",,,,,,,,,,,,,,,,"16000US5103000","Arlington CDP, Virginia",236842,"Arlington CDP, Virginia",0
+"G51014440","2019","VA",,,"Virginia","51",,,"Centreville CDP","14440",,,,,,,,,,,,,,,,"16000US5114440","Centreville CDP, Virginia",66457,"Centreville CDP, Virginia",4689
+"G51016000","2019","VA",,,"Virginia","51",,,"Chesapeake city","16000",,,,,,,,,,,,,,,,"16000US5116000","Chesapeake city, Virginia",244835,"Chesapeake city, Virginia",0
+"G51021088","2019","VA",,,"Virginia","51",,,"Dale City CDP","21088",,,,,,,,,,,,,,,,"16000US5121088","Dale City CDP, Virginia",73918,"Dale City CDP, Virginia",7671
+"G51035000","2019","VA",,,"Virginia","51",,,"Hampton city","35000",,,,,,,,,,,,,,,,"16000US5135000","Hampton city, Virginia",134510,"Hampton city, Virginia",0
+"G51047672","2019","VA",,,"Virginia","51",,,"Lynchburg city","47672",,,,,,,,,,,,,,,,"16000US5147672","Lynchburg city, Virginia",82168,"Lynchburg city, Virginia",0
+"G51056000","2019","VA",,,"Virginia","51",,,"Newport News city","56000",,,,,,,,,,,,,,,,"16000US5156000","Newport News city, Virginia",179225,"Newport News city, Virginia",0
+"G51057000","2019","VA",,,"Virginia","51",,,"Norfolk city","57000",,,,,,,,,,,,,,,,"16000US5157000","Norfolk city, Virginia",242742,"Norfolk city, Virginia",0
+"G51064000","2019","VA",,,"Virginia","51",,,"Portsmouth city","64000",,,,,,,,,,,,,,,,"16000US5164000","Portsmouth city, Virginia",94398,"Portsmouth city, Virginia",0
+"G51067000","2019","VA",,,"Virginia","51",,,"Richmond city","67000",,,,,,,,,,,,,,,,"16000US5167000","Richmond city, Virginia",230436,"Richmond city, Virginia",0
+"G51068000","2019","VA",,,"Virginia","51",,,"Roanoke city","68000",,,,,,,,,,,,,,,,"16000US5168000","Roanoke city, Virginia",99143,"Roanoke city, Virginia",0
+"G51076432","2019","VA",,,"Virginia","51",,,"Suffolk city","76432",,,,,,,,,,,,,,,,"16000US5176432","Suffolk city, Virginia",92108,"Suffolk city, Virginia",0
+"G51082000","2019","VA",,,"Virginia","51",,,"Virginia Beach city","82000",,,,,,,,,,,,,,,,"16000US5182000","Virginia Beach city, Virginia",449974,"Virginia Beach city, Virginia",0
+"G53003180","2019","WA",,,"Washington","53",,,"Auburn city","03180",,,,,,,,,,,,,,,,"16000US5303180","Auburn city, Washington",82021,"Auburn city, Washington",3030
+"G53005210","2019","WA",,,"Washington","53",,,"Bellevue city","05210",,,,,,,,,,,,,,,,"16000US5305210","Bellevue city, Washington",148145,"Bellevue city, Washington",69
+"G53005280","2019","WA",,,"Washington","53",,,"Bellingham city","05280",,,,,,,,,,,,,,,,"16000US5305280","Bellingham city, Washington",92327,"Bellingham city, Washington",50
+"G53022640","2019","WA",,,"Washington","53",,,"Everett city","22640",,,,,,,,,,,,,,,,"16000US5322640","Everett city, Washington",111489,"Everett city, Washington",62
+"G53023515","2019","WA",,,"Washington","53",,,"Federal Way city","23515",,,,,,,,,,,,,,,,"16000US5323515","Federal Way city, Washington",96297,"Federal Way city, Washington",42
+"G53035275","2019","WA",,,"Washington","53",,,"Kennewick city","35275",,,,,,,,,,,,,,,,"16000US5335275","Kennewick city, Washington",84354,"Kennewick city, Washington",30
+"G53035415","2019","WA",,,"Washington","53",,,"Kent city","35415",,,,,,,,,,,,,,,,"16000US5335415","Kent city, Washington",132320,"Kent city, Washington",38
+"G53035940","2019","WA",,,"Washington","53",,,"Kirkland city","35940",,,,,,,,,,,,,,,,"16000US5335940","Kirkland city, Washington",93027,"Kirkland city, Washington",64
+"G53043955","2019","WA",,,"Washington","53",,,"Marysville city","43955",,,,,,,,,,,,,,,,"16000US5343955","Marysville city, Washington",70306,"Marysville city, Washington",39
+"G53053545","2019","WA",,,"Washington","53",,,"Pasco city","53545",,,,,,,,,,,,,,,,"16000US5353545","Pasco city, Washington",74846,"Pasco city, Washington",3836
+"G53057535","2019","WA",,,"Washington","53",,,"Redmond city","57535",,,,,,,,,,,,,,,,"16000US5357535","Redmond city, Washington",71941,"Redmond city, Washington",54
+"G53057745","2019","WA",,,"Washington","53",,,"Renton city","57745",,,,,,,,,,,,,,,,"16000US5357745","Renton city, Washington",101747,"Renton city, Washington",39
+"G53061115","2019","WA",,,"Washington","53",,,"Sammamish city","61115",,,,,,,,,,,,,,,,"16000US5361115","Sammamish city, Washington",65880,"Sammamish city, Washington",49
+"G53063000","2019","WA",,,"Washington","53",,,"Seattle city","63000",,,,,,,,,,,,,,,,"16000US5363000","Seattle city, Washington",753655,"Seattle city, Washington",83
+"G53065922","2019","WA",,,"Washington","53",,,"South Hill CDP","65922",,,,,,,,,,,,,,,,"16000US5365922","South Hill CDP, Washington",66020,"South Hill CDP, Washington",6825
+"G53067000","2019","WA",,,"Washington","53",,,"Spokane city","67000",,,,,,,,,,,,,,,,"16000US5367000","Spokane city, Washington",222082,"Spokane city, Washington",33
+"G53067167","2019","WA",,,"Washington","53",,,"Spokane Valley city","67167",,,,,,,,,,,,,,,,"16000US5367167","Spokane Valley city, Washington",101075,"Spokane Valley city, Washington",55
+"G53070000","2019","WA",,,"Washington","53",,,"Tacoma city","70000",,,,,,,,,,,,,,,,"16000US5370000","Tacoma city, Washington",217834,"Tacoma city, Washington",44
+"G53074060","2019","WA",,,"Washington","53",,,"Vancouver city","74060",,,,,,,,,,,,,,,,"16000US5374060","Vancouver city, Washington",184452,"Vancouver city, Washington",54
+"G53080010","2019","WA",,,"Washington","53",,,"Yakima city","80010",,,,,,,,,,,,,,,,"16000US5380010","Yakima city, Washington",93638,"Yakima city, Washington",26
+"G55002375","2019","WI",,,"Wisconsin","55",,,"Appleton city","02375",,,,,,,,,,,,,,,,"16000US5502375","Appleton city, Wisconsin",75382,"Appleton city, Wisconsin",2439
+"G55022300","2019","WI",,,"Wisconsin","55",,,"Eau Claire city","22300",,,,,,,,,,,,,,,,"16000US5522300","Eau Claire city, Wisconsin",68936,"Eau Claire city, Wisconsin",886
+"G55031000","2019","WI",,,"Wisconsin","55",,,"Green Bay city","31000",,,,,,,,,,,,,,,,"16000US5531000","Green Bay city, Wisconsin",104565,"Green Bay city, Wisconsin",45
+"G55039225","2019","WI",,,"Wisconsin","55",,,"Kenosha city","39225",,,,,,,,,,,,,,,,"16000US5539225","Kenosha city, Wisconsin",99933,"Kenosha city, Wisconsin",42
+"G55048000","2019","WI",,,"Wisconsin","55",,,"Madison city","48000",,,,,,,,,,,,,,,,"16000US5548000","Madison city, Wisconsin",259673,"Madison city, Wisconsin",51
+"G55053000","2019","WI",,,"Wisconsin","55",,,"Milwaukee city","53000",,,,,,,,,,,,,,,,"16000US5553000","Milwaukee city, Wisconsin",590157,"Milwaukee city, Wisconsin",36
+"G55060500","2019","WI",,,"Wisconsin","55",,,"Oshkosh city","60500",,,,,,,,,,,,,,,,"16000US5560500","Oshkosh city, Wisconsin",67010,"Oshkosh city, Wisconsin",28
+"G55066000","2019","WI",,,"Wisconsin","55",,,"Racine city","66000",,,,,,,,,,,,,,,,"16000US5566000","Racine city, Wisconsin",76747,"Racine city, Wisconsin",48
+"G55084250","2019","WI",,,"Wisconsin","55",,,"Waukesha city","84250",,,,,,,,,,,,,,,,"16000US5584250","Waukesha city, Wisconsin",72308,"Waukesha city, Wisconsin",39
+"G72006593","2019","PR",,,"Puerto Rico","72",,,"Bayamón zona urbana","06593",,,,,,,,,,,,,,,,"16000US7206593","Bayamón zona urbana, Puerto Rico",152843,"Bayamón zona urbana, Puerto Rico",2475
+"G72010334","2019","PR",,,"Puerto Rico","72",,,"Caguas zona urbana","10334",,,,,,,,,,,,,,,,"16000US7210334","Caguas zona urbana, Puerto Rico",69960,"Caguas zona urbana, Puerto Rico",4605
+"G72014290","2019","PR",,,"Puerto Rico","72",,,"Carolina zona urbana","14290",,,,,,,,,,,,,,,,"16000US7214290","Carolina zona urbana, Puerto Rico",133757,"Carolina zona urbana, Puerto Rico",3287
+"G72032522","2019","PR",,,"Puerto Rico","72",,,"Guaynabo zona urbana","32522",,,,,,,,,,,,,,,,"16000US7232522","Guaynabo zona urbana, Puerto Rico",62550,"Guaynabo zona urbana, Puerto Rico",3430
+"G72063820","2019","PR",,,"Puerto Rico","72",,,"Ponce zona urbana","63820",,,,,,,,,,,,,,,,"16000US7263820","Ponce zona urbana, Puerto Rico",106546,"Ponce zona urbana, Puerto Rico",3643
+"G72076770","2019","PR",,,"Puerto Rico","72",,,"San Juan zona urbana","76770",,,,,,,,,,,,,,,,"16000US7276770","San Juan zona urbana, Puerto Rico",310323,"San Juan zona urbana, Puerto Rico",2565

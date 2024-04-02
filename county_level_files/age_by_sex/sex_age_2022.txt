@@ -1,0 +1,232 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0014_ds261_2022_county'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+Additional documentation on NHGIS data sources is available at: 
+    https://www.nhgis.org/documentation/tabular-data 
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             2022
+Geographic level: County (by State)
+Dataset:          2022 American Community Survey: 1-Year Data
+   NHGIS code:    2022_ACS1
+   NHGIS ID:      ds261
+Breakdown(s):     Geographic Component:
+                     Total area (00)
+Data type(s):     (E) Estimates
+                  (M) Margins of error
+ 
+Tables:
+ 
+1. Sex by Age
+   Universe:    Total population
+   Source code: B01001
+   NHGIS code:  APJM
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        GISJOIN:     GIS Join Match Code
+        YEAR:        Data File Year
+        STUSAB:      State/US-Abbreviation (USPS)
+        REGIONA:     Region Code
+        DIVISIONA:   Division Code
+        STATE:       State Name
+        STATEA:      State Code
+        COUNTY:      County Name
+        COUNTYA:     County Code
+        COUSUBA:     County Subdivision Code
+        PLACEA:      Place Code
+        AIANHHA:     American Indian Area/Alaska Native Area/Hawaiian Home Land Code
+        ANRCA:       Alaska Native Regional Corporation Code
+        CBSAA:       Metropolitan Statistical Area/Micropolitan Statistical Area Code
+        CSAA:        Combined Statistical Area Code
+        METDIVA:     Metropolitan Division Code
+        NECTAA:      New England City and Town Area Code
+        CNECTAA:     Combined New England City and Town Area Code
+        NECTADIVA:   New England City and Town Area Division Code
+        UAA:         Urban Area Code
+        CDCURRA:     Congressional District (2023-2025, 118th Congress) Code
+        SDELMA:      School District (Elementary)/Remainder Code
+        SDSECA:      School District (Secondary)/Remainder Code
+        SDUNIA:      School District (Unified)/Remainder Code
+        PCI:         Metropolitan/Micropolitan Principal City Indicator
+        PUMAA:       Public Use Microdata Area Code
+        GEO_ID:      Census Geographic Area Identifier
+        TL_GEO_ID:   TIGER/Line Shapefile Geographic Area Identifier
+ 
+Data Type (E):
+    Estimates
+ 
+        NAME_E:      Geographic Area Full Name
+ 
+    Table 1:     Sex by Age
+    Universe:    Total population
+    Source code: B01001
+    NHGIS code:  APJM
+        APJME001:    Total
+        APJME002:    Male
+        APJME003:    Male: Under 5 years
+        APJME004:    Male: 5 to 9 years
+        APJME005:    Male: 10 to 14 years
+        APJME006:    Male: 15 to 17 years
+        APJME007:    Male: 18 and 19 years
+        APJME008:    Male: 20 years
+        APJME009:    Male: 21 years
+        APJME010:    Male: 22 to 24 years
+        APJME011:    Male: 25 to 29 years
+        APJME012:    Male: 30 to 34 years
+        APJME013:    Male: 35 to 39 years
+        APJME014:    Male: 40 to 44 years
+        APJME015:    Male: 45 to 49 years
+        APJME016:    Male: 50 to 54 years
+        APJME017:    Male: 55 to 59 years
+        APJME018:    Male: 60 and 61 years
+        APJME019:    Male: 62 to 64 years
+        APJME020:    Male: 65 and 66 years
+        APJME021:    Male: 67 to 69 years
+        APJME022:    Male: 70 to 74 years
+        APJME023:    Male: 75 to 79 years
+        APJME024:    Male: 80 to 84 years
+        APJME025:    Male: 85 years and over
+        APJME026:    Female
+        APJME027:    Female: Under 5 years
+        APJME028:    Female: 5 to 9 years
+        APJME029:    Female: 10 to 14 years
+        APJME030:    Female: 15 to 17 years
+        APJME031:    Female: 18 and 19 years
+        APJME032:    Female: 20 years
+        APJME033:    Female: 21 years
+        APJME034:    Female: 22 to 24 years
+        APJME035:    Female: 25 to 29 years
+        APJME036:    Female: 30 to 34 years
+        APJME037:    Female: 35 to 39 years
+        APJME038:    Female: 40 to 44 years
+        APJME039:    Female: 45 to 49 years
+        APJME040:    Female: 50 to 54 years
+        APJME041:    Female: 55 to 59 years
+        APJME042:    Female: 60 and 61 years
+        APJME043:    Female: 62 to 64 years
+        APJME044:    Female: 65 and 66 years
+        APJME045:    Female: 67 to 69 years
+        APJME046:    Female: 70 to 74 years
+        APJME047:    Female: 75 to 79 years
+        APJME048:    Female: 80 to 84 years
+        APJME049:    Female: 85 years and over
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Geographic Area Full Name
+ 
+    Table 1:     Sex by Age
+    Universe:    Total population
+    Source code: B01001
+    NHGIS code:  APJM
+        APJMM001:    Total
+        APJMM002:    Male
+        APJMM003:    Male: Under 5 years
+        APJMM004:    Male: 5 to 9 years
+        APJMM005:    Male: 10 to 14 years
+        APJMM006:    Male: 15 to 17 years
+        APJMM007:    Male: 18 and 19 years
+        APJMM008:    Male: 20 years
+        APJMM009:    Male: 21 years
+        APJMM010:    Male: 22 to 24 years
+        APJMM011:    Male: 25 to 29 years
+        APJMM012:    Male: 30 to 34 years
+        APJMM013:    Male: 35 to 39 years
+        APJMM014:    Male: 40 to 44 years
+        APJMM015:    Male: 45 to 49 years
+        APJMM016:    Male: 50 to 54 years
+        APJMM017:    Male: 55 to 59 years
+        APJMM018:    Male: 60 and 61 years
+        APJMM019:    Male: 62 to 64 years
+        APJMM020:    Male: 65 and 66 years
+        APJMM021:    Male: 67 to 69 years
+        APJMM022:    Male: 70 to 74 years
+        APJMM023:    Male: 75 to 79 years
+        APJMM024:    Male: 80 to 84 years
+        APJMM025:    Male: 85 years and over
+        APJMM026:    Female
+        APJMM027:    Female: Under 5 years
+        APJMM028:    Female: 5 to 9 years
+        APJMM029:    Female: 10 to 14 years
+        APJMM030:    Female: 15 to 17 years
+        APJMM031:    Female: 18 and 19 years
+        APJMM032:    Female: 20 years
+        APJMM033:    Female: 21 years
+        APJMM034:    Female: 22 to 24 years
+        APJMM035:    Female: 25 to 29 years
+        APJMM036:    Female: 30 to 34 years
+        APJMM037:    Female: 35 to 39 years
+        APJMM038:    Female: 40 to 44 years
+        APJMM039:    Female: 45 to 49 years
+        APJMM040:    Female: 50 to 54 years
+        APJMM041:    Female: 55 to 59 years
+        APJMM042:    Female: 60 and 61 years
+        APJMM043:    Female: 62 to 64 years
+        APJMM044:    Female: 65 and 66 years
+        APJMM045:    Female: 67 to 69 years
+        APJMM046:    Female: 70 to 74 years
+        APJMM047:    Female: 75 to 79 years
+        APJMM048:    Female: 80 to 84 years
+        APJMM049:    Female: 85 years and over
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* REDISTRIBUTION: You will not redistribute the data without permission.
+
+  You may publish a subset of the data to meet journal requirements for accessing 
+  data related to a particular publication. Contact us for permission for any other 
+  redistribution; we will consider requests for free and commercial redistribution.
+
+* CITATION: You will cite NHGIS appropriately.
+
+    * Publications and research reports employing NHGIS data (either tabular or GIS) 
+      should include the following citation:
+
+        Steven Manson, Jonathan Schroeder, David Van Riper, Katherine Knowles, Tracy Kugler, Finn Roberts, and Steven Ruggles.
+        IPUMS National Historical Geographic Information System: Version 18.0 
+        [dataset]. Minneapolis, MN: IPUMS. 2023.
+        http://doi.org/10.18128/D050.V18.0
+
+    * For policy briefs, online resources, or articles in the popular press, we 
+      recommend that you cite the use of NHGIS data as follows:
+
+        IPUMS NHGIS, University of Minnesota, www.nhgis.org.
+
+These terms of use are a legally binding agreement. You can use the data only in 
+accordance with these terms, and any other use is a violation of the agreement. 
+Violations may result in revocation of the agreement and prohibition from using other 
+IPUMS data. If IPUMS or our partners are harmed from your violation, you are 
+responsible for all damages, including reasonable attorney's fees and expenses.
+        
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+
+Send electronic material to: nhgis@umn.edu
+
+Printed matter should be sent to:
+
+    IPUMS NHGIS
+    Institute for Social Research and Data Innovation
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455

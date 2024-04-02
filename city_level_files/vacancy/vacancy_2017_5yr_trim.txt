@@ -1,0 +1,3 @@
+        AH36E001:    Total
+        AH36E002:    Occupied
+        AH36E003:    Vacant
