@@ -6,7 +6,7 @@ import os
 always_keep = ['YEAR', 'STATE', 'PLACE']
 
 
-# MAKING CLASS FOR HOME CSV PREPROCESSING:
+# MAKING FUNCTION FOR RACE POPULATION CSV PREPROCESSING:
 def get_csv(fp, cp):
     
     # GET RID OF NON CODE-LABEL INFO FROM TXT FILE
@@ -17,7 +17,7 @@ def get_csv(fp, cp):
              if cp in line:
                  lines_to_keep.append(line)
 
-    # Write all the links in our list to the file
+    # WRITE TRIMMED DOWN FILE
     with open(f"{fp}_trim.txt", "w") as f:
 
         for link in lines_to_keep:
@@ -29,6 +29,7 @@ def get_csv(fp, cp):
     df = df.drop(columns = [x for x in df.columns if x not in always_keep and cp not in x])
     df['YEAR'] = df['YEAR'].astype(str)
 
+    # RENAMING DICT
     col_label_dict = {}
 
     with open(f"{fp}_trim.txt", "r") as f:
@@ -37,7 +38,8 @@ def get_csv(fp, cp):
 
 
             code = line.split(":")[0].lstrip() #SPLIT STRING ON : THEN GET RID LEADING WHITE SPACE
-
+    
+            # SPECIAL FORMATTING TO CLEAN UP CODES FOR MORE THAN 1 RACE
             if '009' in code:
                 label = line.split(":")[1].lstrip().rstrip() + ' - 2'
             elif '010' in code:

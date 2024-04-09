@@ -1,5 +1,6 @@
 from db import db
 
+# BUILT TO READ IN CENSUS DATA AND PREDICTED ROI; PLACE IS PRIMARY KEY SINCE IT'S ONLY 1 YEAR OF DATA (I.E. PLACE IS UNIQUE)
 class CountyModel(db.Model):
     __tablename__ = "counties"
 

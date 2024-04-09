@@ -10,6 +10,7 @@ from schemas import CountySchema
 
 blp = Blueprint("Counties", __name__, description = "Operations on Counties")
 
+# SET BLUEPRINT FOR INDIVIDUAL COUNTY ROUTES
 @blp.route("/county/<string:place>")
 class County(MethodView):
 
@@ -24,20 +25,21 @@ class County(MethodView):
         db.session.commit()
         return{"message": "County deleted"}
     
-
+# AND ALL COUNTY ROUTE
 @blp.route("/county")
 class CountyList(MethodView):
 
     @blp.response(200, CountySchema(many = True))
     def get(self):
-        return CountyModel.query.all()
+        return CountyModel.query.all() # RETURNS LIST OF ALL COUNTIES
     
 
     @blp.arguments(CountySchema)
     @blp.response(201, CountySchema)
     def post(self, county_data):
-        county = CountyModel(**county_data)
+        county = CountyModel(**county_data) # READ IN PASSED THRU COUNTY DATA
 
+        # AND ADD IT 
         try:
             db.session.add(county)
             db.session.commit()

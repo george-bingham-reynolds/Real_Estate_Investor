@@ -4,10 +4,13 @@ import re
 import preprocessing_sex_age as pre
 import os
 import warnings
+
 warnings.filterwarnings('ignore')
 always_keep = [
     'year',
     'place']
+
+# FILE PATH, CODE PATTERN PAIRS
 SEX_AGE_PAIRS = [
     ('sex_by_age_2009_5yr', 'RKYE'),
     ('sex_by_age_2010_5yr', 'JLZE'),

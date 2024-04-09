@@ -5,7 +5,7 @@ import os
 
 always_keep = ['YEAR', 'STATE', 'COUNTY']
 
-# MAKING CLASS FOR HOME CSV PREPROCESSING:
+# MAKING FUNCTION FOR TOTAL POPULATION CSV PREPROCESSING:
 def get_csv(fp, cp):
     lines_to_keep = []
     
@@ -14,7 +14,7 @@ def get_csv(fp, cp):
             if cp in line:
                 lines_to_keep.append(line)
 
-    # Write all the links in our list to the file
+    # SAVE TRIMMED DOWN FILE
     with open(f"{fp}_trim.txt", "w") as f:
         for link in lines_to_keep:
             f.write(link)

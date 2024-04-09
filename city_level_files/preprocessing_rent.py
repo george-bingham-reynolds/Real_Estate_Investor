@@ -6,14 +6,9 @@ import os
 always_keep = ['YEAR', 'STATE', 'PLACE']
 
 
-# MAKING CLASS FOR HOME CSV PREPROCESSING:
+# MAKING FUNCTION FOR RENTAL CSV PREPROCESSING:
 def get_csv(fp, cp):
     
-    # PULL ACTUAL CSV FROM BUCKET
-    # command1 = f"gsutil cp gs://pums-data/population/{fp}.csv {fp}.csv"
-    # command2 = f"gsutil cp gs://pums-data/population/{fp}.txt {fp}.txt"
-    # os.system(command1)
-    # os.system(command2)
     
     # GET RID OF NON CODE-LABEL INFO FROM TXT FILE
     lines_to_keep = []
@@ -23,7 +18,7 @@ def get_csv(fp, cp):
              if cp in line:
                  lines_to_keep.append(line)
 
-    # Write all the links in our list to the file
+    # WRITE SMALLER TEXT FILE
     with open(f"{fp}_trim.txt", "w") as f:
 
         for link in lines_to_keep:

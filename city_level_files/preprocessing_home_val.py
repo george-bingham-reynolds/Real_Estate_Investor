@@ -5,7 +5,7 @@ import os
 
 always_keep = ['YEAR', 'STATE', 'PLACE']
 
-# MAKING CLASS FOR HOME CSV PREPROCESSING:
+# MAKING FUNCTION FOR HOME CSV PREPROCESSING:
 def get_csv(fp, cp, input_type):
 
     
@@ -17,7 +17,7 @@ def get_csv(fp, cp, input_type):
              if cp in line:
                  lines_to_keep.append(line)
 
-    # Write all the links in our list to the file
+    # WRITE A TRIMMED DOWN FILE TO WORK WITH MOVING FORWARD
     with open(f"{fp}_trim.txt", "w") as f:
 
         for link in lines_to_keep:

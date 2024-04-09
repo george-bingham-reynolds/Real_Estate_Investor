@@ -1,5 +1,6 @@
 from marshmallow import Schema, fields
 
+# DEFINE DB SCHEMAS FOR CITY/COUNTY; SIMILAR TO MODEL DEFS
 class CitySchema(Schema):
     id = fields.Str(dump_only = True) #ONLY USED FOR SENDING DATA BACK TO CLIENT
     year = fields.Int(required = True)

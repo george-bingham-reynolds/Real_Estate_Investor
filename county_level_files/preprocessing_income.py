@@ -6,7 +6,7 @@ import os
 always_keep = ['YEAR', 'STATE', 'COUNTY']
 
 
-# MAKING CLASS FOR HOME CSV PREPROCESSING:
+# MAKING FUNCTION FOR INCOME CSV PREPROCESSING:
 def get_csv(fp, cp):
     
     # GET RID OF NON CODE-LABEL INFO FROM TXT FILE
@@ -17,7 +17,7 @@ def get_csv(fp, cp):
              if cp in line:
                  lines_to_keep.append(line)
 
-    # Write all the links in our list to the file
+    # SAVE TRIMMED DOWN FILE
     with open(f"{fp}_trim.txt", "w") as f:
 
         for link in lines_to_keep:
@@ -68,7 +68,7 @@ def get_csv(fp, cp):
     
     
     
-    # NEW COL FOR RENT VAL
+    # NEW COL FOR INCOME VAL
     df['average_income'] = None
 
     for i in range(len(df)):

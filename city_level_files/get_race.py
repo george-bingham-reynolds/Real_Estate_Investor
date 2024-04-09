@@ -8,6 +8,7 @@ warnings.filterwarnings('ignore')
 
 always_keep = ['year', 'place']
 
+# FILEPATH, CODE PATTERN PAIRS
 RACE_PAIRS = [
     ('race_2009_5yr', 'RLAE'),
     ('race_2010_5yr', 'JMBE'),

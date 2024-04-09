@@ -9,6 +9,7 @@ import models #HAVE TO BE IMPORTED BEFORE SQLALCHEMY
 from resources.city import blp as CityBlueprint
 from resources.county import blp as CountyBlueprint
 
+# AFTER PULLING IN ACTUAL BUILDING/DB CODE FROM OTHER FILES, JUST START UP THE APP WITH SOME CONFIGURATIONS
 def create_app(db_url = None):
 
     app = Flask(__name__)

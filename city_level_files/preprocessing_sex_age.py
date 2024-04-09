@@ -6,7 +6,7 @@ import os
 always_keep = ['YEAR', 'STATE', 'PLACE']
 
 
-# MAKING CLASS FOR HOME CSV PREPROCESSING:
+# MAKING FUNCTION FOR AGE BY SEX CSV PREPROCESSING:
 def get_csv(fp, cp):
     
     # GET RID OF NON CODE-LABEL INFO FROM TXT FILE
@@ -17,7 +17,7 @@ def get_csv(fp, cp):
              if cp in line:
                  lines_to_keep.append(line)
 
-    # Write all the links in our list to the file
+    
     with open(f"{fp}_trim.txt", "w") as f:
 
         for link in lines_to_keep:
@@ -38,6 +38,7 @@ def get_csv(fp, cp):
 
             code = line.split(":")[0].lstrip() #SPLIT STRING ON : THEN GET RID LEADING WHITE SPACE
 
+            # SOMETIMES WEIRD FORMATTING IN THIS ONE - PULL ACTUAL VALUE AFTER FIRST : AND THEN REPLACE SECOND WITH UNDERSCORE
             if len(line.split(":")) > 2:
                 label = line.split(":")[1].lstrip().rstrip() + '_' + line.split(":")[2].lstrip().rstrip()
             else:

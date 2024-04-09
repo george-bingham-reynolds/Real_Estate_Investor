@@ -6,6 +6,7 @@ import os
 import warnings
 warnings.filterwarnings('ignore')
 
+# FILEPATH, CODE PATTERN PAIRS
 HOME_VAL_PAIRS = [
     ('home_value_2009_5yr', 'RR5E'),
     ('home_value_2010_5yr', 'JTGE'),
@@ -33,6 +34,7 @@ for fp, cp in HOME_VAL_PAIRS:
         
 df_home_val = df_home_val.dropna().reset_index().drop(columns = ['index'])
 
+# SEE VACANCY FOR FULLER EXPLANATION
 def growth_def(df_input, n):
     for i in np.arange(1, n):
         new_col = f'''home_val_growth_last_{i}_years'''
@@ -58,6 +60,7 @@ def growth_def(df_input, n):
 
 growth_def(df_home_val, 4)
 
+# WE NEED HOME VALUE 3 YEARS INTO FUTURE FOR ROI DEFINITION LATER
 df_home_val['val_in_three'] = df_home_val.groupby('place')['average_home_value'].shift(-3)
 df_home_val['three_year_growth'] = df_home_val['val_in_three'] - df_home_val['average_home_value']
 df_home_val = df_home_val.drop(columns = ['val_in_three'])

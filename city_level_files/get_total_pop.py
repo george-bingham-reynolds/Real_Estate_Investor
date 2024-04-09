@@ -4,6 +4,7 @@ import re
 import os
 import preprocessing_total_pop as pre
 
+# FILE PATH, CODE PATTERN PAIRS
 POP_PAIRS = [
     ('population_2009_5yr', 'RK9E'),
     ('population_2010_5yr', 'JMAE'),
@@ -34,6 +35,7 @@ for fp, cp in POP_PAIRS:
 df_pop = df_pop.reset_index()
 df_pop = df_pop.drop(columns = ['index'])
 
+# SEE VACANCY FILE FOR MORE IN DEPTH EXPLANATION
 def growth_def(df_input, n):
     for i in np.arange(1, n):
         

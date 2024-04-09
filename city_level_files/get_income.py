@@ -4,6 +4,7 @@ import re
 import os
 import preprocessing_income as pre
 
+# FILEPATH, CODE PATTERN PAIRS
 INCOME_PAIRS = [
     ('income_2009_5yr', 'RNGE'),
     ('income_2010_5yr', 'JOHE'),
@@ -32,6 +33,7 @@ for fp, cp in INCOME_PAIRS:
 df_inc = df_inc.reset_index()
 df_inc = df_inc.drop(columns = ['index'])
 
+#SEE VACANCY CODE FOR FULLER EXPLANATION
 def growth_def(df_input, n):
     for i in np.arange(1, n):
         new_col = f'''income_growth_last_{i}_years'''

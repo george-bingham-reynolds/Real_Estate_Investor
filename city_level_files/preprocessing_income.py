@@ -6,7 +6,7 @@ import os
 always_keep = ['YEAR', 'STATE', 'PLACE']
 
 
-# MAKING CLASS FOR HOME CSV PREPROCESSING:
+# MAKING FUNCTION FOR INCOME CSV PREPROCESSING:
 def get_csv(fp, cp):
     
     # GET RID OF NON CODE-LABEL INFO FROM TXT FILE
@@ -14,10 +14,10 @@ def get_csv(fp, cp):
     with open(f"{fp}.txt", "r") as f:
 
          for line in f.readlines():
-             if cp in line:
+             if cp in line: # ONLY KEEP LINES WITH THE CODE FROM THE CODEBOOK
                  lines_to_keep.append(line)
 
-    # Write all the links in our list to the file
+    # WRITE TRIMMED DOWN FILE
     with open(f"{fp}_trim.txt", "w") as f:
 
         for link in lines_to_keep:
@@ -68,7 +68,7 @@ def get_csv(fp, cp):
     
     
     
-    # NEW COL FOR RENT VAL
+    # NEW COL FOR INCOME VAL
     df['average_income'] = None
 
     for i in range(len(df)):
@@ -76,7 +76,7 @@ def get_csv(fp, cp):
             if re.search(r'[0-9]', col): #ONLY LOOK AT VALUE COLUMNS
                 amt = int(col)
 
-                # AVERAGE REN IS SUM OF HOUSEHOLD COUNT * VALUE/TOTAL; 
+                # AVERAGE INCOME IS SUM OF HOUSEHOLD COUNT * VALUE/TOTAL; 
                 # CAN DIVIDE BY TOTAL HERE AND GET SAME NUMBER
                 df.loc[i, col] = (df.loc[i, col] * amt)/df.loc[i, 'Total']
 

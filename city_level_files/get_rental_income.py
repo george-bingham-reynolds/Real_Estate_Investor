@@ -4,6 +4,7 @@ import re
 import preprocessing_rent as pre
 import os
 
+# FILEPATH, CODE PATTERN PAIRS
 RENT_PAIRS = [
     ('rent_2009_5yr', 'RRME'),
     ('rent_2010_5yr', 'JSXE'),
@@ -32,6 +33,7 @@ for fp, cp in RENT_PAIRS:
 df_rent = df_rent.reset_index()
 df_rent = df_rent.drop(columns = ['index'])
 
+# SEE VACANCY CODE FOR FULLER EXPLANATION
 def growth_def(df_input, n):
     for i in np.arange(1, n):
         new_col = f'''rent_growth_last_{i}_years'''
@@ -57,7 +59,11 @@ def growth_def(df_input, n):
 
 growth_def(df_rent, 4)
 
+# NEED RENT 3 YEARS INTO FUTURE FOR ROI DEFINITION LATER
+# START BY SUMMING RENT MADE FOR PAST THREE YEARS
 df_rent['rent_trailing_three'] = df_rent.groupby('place')['average_annual_rent'].rolling(3).sum().reset_index(0, drop = True)
+
+# AND THEN USE SHIFT FOR A LEAD FUNCTION ON THAT VALUE
 df_rent['rent_in_three'] = df_rent.groupby('place')['rent_trailing_three'].shift(-2)
 df_rent = df_rent.drop(columns = ['rent_trailing_three'], axis = 1)
 

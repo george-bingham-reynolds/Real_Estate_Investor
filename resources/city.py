@@ -10,6 +10,7 @@ from schemas import CitySchema
 
 blp = Blueprint("Cities", __name__, description = "Operations on Cities")
 
+# SET BLUEPRINT FOR INDIVIDUAL CITY "URLS"
 @blp.route("/city/<string:place>")
 class City(MethodView):
 
@@ -26,18 +27,20 @@ class City(MethodView):
     
     # NOTE - ADDING POST FUNCTIONALITY BELOW BUT NOT INCLUDING PUT FOR NOW (WANT TO ADD RECORDS BUT NOT MODIFY)
 
+# AND FOR ALL-CITY ROUTE
 @blp.route("/city")
 class CityList(MethodView):
 
     @blp.response(200, CitySchema(many = True))
     def get(self):
-        return CityModel.query.all()
+        return CityModel.query.all() #RETURNS ALL CITIES FROM CITYMODEL
     
     @blp.arguments(CitySchema)
     @blp.response(201, CitySchema)
     def post(self, city_data):
-        city = CityModel(**city_data)
+        city = CityModel(**city_data) # READ IN PASSED THRU CITY DATA
 
+        # AND ADD IT TO LIST
         try:
             db.session.add(city)
             db.session.commit()
